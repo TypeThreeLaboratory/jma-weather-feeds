@@ -1,0 +1,26 @@
+name: Weather iCal Update
+
+on:
+  schedule:
+    - cron: '0 18 * * *' # 毎日午前3時 JST (UTC 18:00)
+  workflow_dispatch: # 手動実行用
+
+permissions:
+  contents: write
+
+jobs:
+  update-weather:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run weather-ical generator
+        run: docker compose up
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          branch: gh-pages
+          publish_dir: ./dist
+          silent: true
