@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 和歌山
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-wakayama-20260410
-DESCRIPTION:天気は雨 夜 くもり 所により 昼前 から 昼過ぎ 雷を伴い 非常に 激しく 降る\n降水確率は90%
+DESCRIPTION:天気は雨 夜 くもり 所により 昼前 から 昼過ぎ 雷を伴い 非常に 激しく 降る\n降水確率は100%
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260411
 SUMMARY:雨 夜 くもり 所により 昼前 から 昼過ぎ 雷を伴い 非常に 激しく 降る
@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakayama-20260411
-DESCRIPTION:天気はくもり 後 晴れ\n降水確率は10%\n最高気温は23℃\n最低気温は15℃
+DESCRIPTION:天気はくもり 昼前 から 晴れ\n降水確率は10%\n最高気温は23℃\n最低気温は15℃
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260412
-SUMMARY:くもり 後 晴れ 23℃/15℃
+SUMMARY:くもり 昼前 から 晴れ 23℃/15℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
