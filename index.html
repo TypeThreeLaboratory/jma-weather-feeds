@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JMA Weather iCal - 気象庁天気予報iCalendarデータ</title>
+    <meta name="description" content="気象庁の天気予報データをiCalendar形式(.ics)で提供します。GoogleカレンダーやOutlookなどで日本の天気予報を確認できます。">
+    <meta name="keywords" content="天気予報, iCalendar, ics, カレンダー, 気象庁, API, 自動更新">
+    <link rel="canonical" href="https://jma-weather-ical.marumasa.dev/">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://jma-weather-ical.marumasa.dev/">
+    <meta property="og:title" content="JMA Weather iCal - 気象庁天気予報iCalendarデータ">
+    <meta property="og:description" content="気象庁の天気予報データをiCalendar形式(.ics)で提供します。">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="JMA Weather iCal - 気象庁天気予報iCalendarデータ">
+    <meta property="twitter:description" content="気象庁の天気予報データをiCalendar形式(.ics)で提供します。">
+
+    <style>
+        body { font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif; margin: 0; padding: 0; line-height: 1.6; color: #333; }
+        header { background-color: #f8f9fa; padding: 1rem 2rem; border-bottom: 1px solid #e9ecef; }
+        main { padding: 2rem; max-width: 800px; margin: 0 auto; }
+        h1 { margin: 0; font-size: 1.5rem; color: #2c3e50; }
+        p { margin-bottom: 1.5rem; }
+        ul { list-style-type: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+        li { margin: 0; }
+        a { display: block; padding: 0.5rem 1rem; background-color: #e9ecef; border-radius: 4px; text-decoration: none; color: #495057; text-align: center; transition: background-color 0.2s; }
+        a:hover { background-color: #dee2e6; text-decoration: none; color: #212529; }
+        footer { text-align: center; padding: 2rem; background-color: #f8f9fa; border-top: 1px solid #e9ecef; margin-top: 2rem; font-size: 0.875rem; color: #6c757d; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>JMA Weather iCal</h1>
+    </header>
+    <main>
+        <p>以下のリンクから、日本各地のiCalendar形式 (.ics) 天気予報データを取得できます。カレンダーアプリに登録してご活用ください。</p>
+        <ul>
+            <li><a href="Abashiri.ics">Abashiri</a></li>
+
+<li><a href="Akita.ics">Akita</a></li>
+
+<li><a href="Aomori.ics">Aomori</a></li>
+
+<li><a href="Asahikawa.ics">Asahikawa</a></li>
+
+<li><a href="Choshi.ics">Choshi</a></li>
+
+<li><a href="Fukui.ics">Fukui</a></li>
+
+<li><a href="Fukuoka.ics">Fukuoka</a></li>
+
+<li><a href="Fukushima.ics">Fukushima</a></li>
+
+<li><a href="Gifu.ics">Gifu</a></li>
+
+<li><a href="Hakodate.ics">Hakodate</a></li>
+
+<li><a href="Hikone.ics">Hikone</a></li>
+
+<li><a href="Hiroshima.ics">Hiroshima</a></li>
+
+<li><a href="Ishigakijima.ics">Ishigakijima</a></li>
+
+<li><a href="Kagoshima.ics">Kagoshima</a></li>
+
+<li><a href="Kanazawa.ics">Kanazawa</a></li>
+
+<li><a href="Kobe.ics">Kobe</a></li>
+
+<li><a href="Kochi.ics">Kochi</a></li>
+
+<li><a href="Kofu.ics">Kofu</a></li>
+
+<li><a href="Kumagaya.ics">Kumagaya</a></li>
+
+<li><a href="Kumamoto.ics">Kumamoto</a></li>
+
+<li><a href="Kushiro.ics">Kushiro</a></li>
+
+<li><a href="Kyoto.ics">Kyoto</a></li>
+
+<li><a href="Maebashi.ics">Maebashi</a></li>
+
+<li><a href="Matsue.ics">Matsue</a></li>
+
+<li><a href="Matsuyama.ics">Matsuyama</a></li>
+
+<li><a href="Minamidaitojima.ics">Minamidaitojima</a></li>
+
+<li><a href="Mito.ics">Mito</a></li>
+
+<li><a href="Miyakojima.ics">Miyakojima</a></li>
+
+<li><a href="Miyazaki.ics">Miyazaki</a></li>
+
+<li><a href="Morioka.ics">Morioka</a></li>
+
+<li><a href="Muroran.ics">Muroran</a></li>
+
+<li><a href="Nagano.ics">Nagano</a></li>
+
+<li><a href="Nagasaki.ics">Nagasaki</a></li>
+
+<li><a href="Nagoya.ics">Nagoya</a></li>
+
+<li><a href="Naha.ics">Naha</a></li>
+
+<li><a href="Nara.ics">Nara</a></li>
+
+<li><a href="Niigata.ics">Niigata</a></li>
+
+<li><a href="Oita.ics">Oita</a></li>
+
+<li><a href="Okayama.ics">Okayama</a></li>
+
+<li><a href="Osaka.ics">Osaka</a></li>
+
+<li><a href="Saga.ics">Saga</a></li>
+
+<li><a href="Sapporo.ics">Sapporo</a></li>
+
+<li><a href="Sendai.ics">Sendai</a></li>
+
+<li><a href="Shimonoseki.ics">Shimonoseki</a></li>
+
+<li><a href="Shizuoka.ics">Shizuoka</a></li>
+
+<li><a href="Takamatsu.ics">Takamatsu</a></li>
+
+<li><a href="Tokushima.ics">Tokushima</a></li>
+
+<li><a href="Tokyo.ics">Tokyo</a></li>
+
+<li><a href="Tottori.ics">Tottori</a></li>
+
+<li><a href="Toyama.ics">Toyama</a></li>
+
+<li><a href="Tsu.ics">Tsu</a></li>
+
+<li><a href="Utsunomiya.ics">Utsunomiya</a></li>
+
+<li><a href="Wakayama.ics">Wakayama</a></li>
+
+<li><a href="Wakkanai.ics">Wakkanai</a></li>
+
+<li><a href="Yamagata.ics">Yamagata</a></li>
+
+<li><a href="Yokohama.ics">Yokohama</a></li>
+
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2026 JMA Weather iCal. Data source: Japan Meteorological Agency.</p>
+    </footer>
+</body>
+</html>
