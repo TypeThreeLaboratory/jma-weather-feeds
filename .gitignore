@@ -12,4 +12,6 @@ yarn-error.log*
 Thumbs.db
 
 # Project
-dist/
+dist/*
+!dist/_headers
+!dist/CNAME
