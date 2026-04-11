@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 石垣島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260412
-DESCRIPTION:天気は晴れ 朝晩 くもり 所により 朝 雨\n降水確率は20%
+DESCRIPTION:天気は晴れ 時々 くもり 所により 朝 から 昼前 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20260412
 DTEND;VALUE=DATE:20260413
-SUMMARY:晴れ 朝晩 くもり 所により 朝 雨
+SUMMARY:晴れ 時々 くもり 所により 朝 から 昼前 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

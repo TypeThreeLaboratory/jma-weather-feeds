@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 大分
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-oita-20260412
-DESCRIPTION:天気はくもり 昼過ぎ まで 時々 晴れ\n降水確率は10%
+DESCRIPTION:天気はくもり 朝 から 昼前 晴れ\n降水確率は10%
 DTSTART;VALUE=DATE:20260412
 DTEND;VALUE=DATE:20260413
-SUMMARY:くもり 昼過ぎ まで 時々 晴れ
+SUMMARY:くもり 朝 から 昼前 晴れ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-oita-20260413
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は18℃\n最低気温は14℃
+DESCRIPTION:天気はくもり 所により 朝晩 雨\n降水確率は40%\n最高気温は18℃\n最低気温は14℃
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260414
-SUMMARY:くもり 18℃/14℃
+SUMMARY:くもり 所により 朝晩 雨 18℃/14℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
