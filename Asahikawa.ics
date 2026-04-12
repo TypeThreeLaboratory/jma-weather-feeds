@@ -5,14 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 旭川
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-asahikawa-20260412
-DESCRIPTION:天気は晴れ 夜のはじめ頃 くもり\n降水確率は0%
-DTSTART;VALUE=DATE:20260412
-DTEND;VALUE=DATE:20260413
-SUMMARY:晴れ 夜のはじめ頃 くもり
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20260413
 DESCRIPTION:天気はくもり 昼前 から 昼過ぎ 雨 所により 昼前 から 夕方 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260413
