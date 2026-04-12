@@ -6,34 +6,34 @@ X-WR-CALNAME:週間天気予報 網走
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260412
-DESCRIPTION:天気はくもり 夕方 から 晴れ 所により 昼前 まで 雪か雨\n降水確率は20%
+DESCRIPTION:天気はくもり 夕方 から 晴れ 網走東部 では 昼前 雪か雨\n降水確率は10%
 DTSTART;VALUE=DATE:20260412
 DTEND;VALUE=DATE:20260413
-SUMMARY:くもり 夕方 から 晴れ 所により 昼前 まで 雪か雨
+SUMMARY:くもり 夕方 から 晴れ 網走東部 では 昼前 雪か雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260413
-DESCRIPTION:天気は晴れ 昼前 から 夕方 くもり\n降水確率は20%\n最高気温は13℃\n最低気温は3℃
+DESCRIPTION:天気は晴れ 昼前 から 夕方 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260414
-SUMMARY:晴れ 昼前 から 夕方 くもり 13℃/3℃
+SUMMARY:晴れ 昼前 から 夕方 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260414
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は10%\n最高気温は11℃\n最低気温は3℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は12℃\n最低気温は3℃
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260415
-SUMMARY:晴れ時々くもり 11℃/3℃
+SUMMARY:晴れ 時々 くもり 12℃/3℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260415
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は10%\n最高気温は11℃\n最低気温は3℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は10%\n最高気温は12℃\n最低気温は3℃
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
-SUMMARY:晴れ時々くもり 11℃/3℃
+SUMMARY:晴れ時々くもり 12℃/3℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -46,18 +46,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260417
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は14℃\n最低気温は3℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は19℃\n最低気温は4℃
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
-SUMMARY:くもり時々晴 14℃/3℃
+SUMMARY:くもり時々晴 19℃/4℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260418
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は12℃\n最低気温は4℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は13℃\n最低気温は4℃
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:くもり 12℃/4℃
+SUMMARY:くもり 13℃/4℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-abashiri-20260419
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は9℃\n最低気温は3℃
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:くもり時々晴 9℃/3℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
