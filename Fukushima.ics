@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 福島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20260416
-DESCRIPTION:天気は雨 昼前 から くもり 所により 昼前 から 夕方 雷\n降水確率は70%
+DESCRIPTION:天気は雨 昼前 から くもり 所により 昼前 から 夕方 雷\n降水確率は60%
 DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260417
 SUMMARY:雨 昼前 から くもり 所により 昼前 から 夕方 雷
@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20260417
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は21℃\n最低気温は6℃
+DESCRIPTION:天気は晴れ 明け方 まで くもり\n降水確率は10%\n最高気温は21℃\n最低気温は6℃
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
-SUMMARY:晴れ 時々 くもり 21℃/6℃
+SUMMARY:晴れ 明け方 まで くもり 21℃/6℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
