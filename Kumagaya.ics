@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 熊谷
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kumagaya-20260416
-DESCRIPTION:天気は晴れ 時々 くもり 所により 夕方 まで 雨 で 雷を伴う\n降水確率は20%
+DESCRIPTION:天気は晴れ\n降水確率は0%
 DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260417
-SUMMARY:晴れ 時々 くもり 所により 夕方 まで 雨 で 雷を伴う
+SUMMARY:晴れ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
