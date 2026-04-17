@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 鹿児島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260417
-DESCRIPTION:天気はくもり 所により 夕方 から 夜のはじめ頃 雨\n降水確率は20%
+DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 夕方 から 夜のはじめ頃 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
-SUMMARY:くもり 所により 夕方 から 夜のはじめ頃 雨
+SUMMARY:晴れ 昼過ぎ から くもり 所により 夕方 から 夜のはじめ頃 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260418
-DESCRIPTION:天気はくもり 所により 夕方 から 雨\n降水確率は80%\n最高気温は22℃\n最低気温は17℃
+DESCRIPTION:天気はくもり 所により 夕方 から 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:くもり 所により 夕方 から 雨 22℃/17℃
+SUMMARY:くもり 所により 夕方 から 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260419
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は24℃\n最低気温は16℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は22℃\n最低気温は17℃
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:くもり 24℃/16℃
+SUMMARY:くもり 22℃/17℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260420
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は24℃\n最低気温は16℃
+DESCRIPTION:天気はくもり\n降水確率は30%\n最高気温は24℃\n最低気温は17℃
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
-SUMMARY:くもり時々晴 24℃/16℃
+SUMMARY:くもり 24℃/17℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260421
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は25℃\n最低気温は15℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は20%\n最高気温は26℃\n最低気温は16℃
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
-SUMMARY:くもり時々晴 25℃/15℃
+SUMMARY:くもり時々晴 26℃/16℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260422
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は25℃\n最低気温は16℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は20%\n最高気温は24℃\n最低気温は14℃
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-SUMMARY:晴れ時々くもり 25℃/16℃
+SUMMARY:くもり時々晴 24℃/14℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260423
-DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は24℃\n最低気温は17℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は22℃\n最低気温は17℃
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
-SUMMARY:くもり一時雨 24℃/17℃
+SUMMARY:くもり一時雨 22℃/17℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-kagoshima-20260424
+DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は22℃\n最低気温は15℃
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:くもり一時雨 22℃/15℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

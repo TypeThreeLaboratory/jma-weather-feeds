@@ -6,34 +6,34 @@ X-WR-CALNAME:週間天気予報 札幌
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20260417
-DESCRIPTION:天気は晴れ 朝晩 くもり\n降水確率は0%
+DESCRIPTION:天気は晴れ 夜 くもり\n降水確率は0%
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
-SUMMARY:晴れ 朝晩 くもり
+SUMMARY:晴れ 夜 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20260418
-DESCRIPTION:天気はくもり 朝 一時 雨 所により 昼前 から 夜のはじめ頃 雷\n降水確率は50%\n最高気温は17℃\n最低気温は8℃
+DESCRIPTION:天気はくもり 朝 一時 雨 所により 昼前 から 夜のはじめ頃 雷\n降水確率は50%
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:くもり 朝 一時 雨 所により 昼前 から 夜のはじめ頃 雷 17℃/8℃
+SUMMARY:くもり 朝 一時 雨 所により 昼前 から 夜のはじめ頃 雷
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20260419
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は16℃\n最低気温は9℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は16℃\n最低気温は7℃
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:くもり時々晴 16℃/9℃
+SUMMARY:晴れ 時々 くもり 16℃/7℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20260420
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は17℃\n最低気温は8℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は18℃\n最低気温は9℃
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
-SUMMARY:くもり時々晴 17℃/8℃
+SUMMARY:くもり時々晴 18℃/9℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -46,18 +46,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20260422
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は15℃\n最低気温は8℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は16℃\n最低気温は8℃
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-SUMMARY:くもり 15℃/8℃
+SUMMARY:くもり 16℃/8℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20260423
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は16℃\n最低気温は7℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は15℃\n最低気温は8℃
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
-SUMMARY:くもり時々晴 16℃/7℃
+SUMMARY:くもり時々晴 15℃/8℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-sapporo-20260424
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は15℃\n最低気温は7℃
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:くもり時々晴 15℃/7℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

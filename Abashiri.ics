@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 網走
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260417
-DESCRIPTION:天気は晴れ 朝晩 くもり\n降水確率は0%
+DESCRIPTION:天気は晴れ 夜 くもり\n降水確率は0%
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
-SUMMARY:晴れ 朝晩 くもり
+SUMMARY:晴れ 夜 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260418
-DESCRIPTION:天気はくもり 時々 晴れ 所により 夜のはじめ頃 雨\n降水確率は30%\n最高気温は20℃\n最低気温は4℃
+DESCRIPTION:天気はくもり 時々 晴れ 所により 夜のはじめ頃 雨\n降水確率は10%
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:くもり 時々 晴れ 所により 夜のはじめ頃 雨 20℃/4℃
+SUMMARY:くもり 時々 晴れ 所により 夜のはじめ頃 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260419
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は11℃\n最低気温は3℃
+DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は10%\n最高気温は12℃\n最低気温は4℃
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:くもり 11℃/3℃
+SUMMARY:くもり 時々 晴れ 12℃/4℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260420
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は15℃\n最低気温は3℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は16℃\n最低気温は3℃
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
-SUMMARY:くもり時々晴 15℃/3℃
+SUMMARY:くもり時々晴 16℃/3℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260421
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は15℃\n最低気温は5℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は16℃\n最低気温は7℃
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
-SUMMARY:くもり 15℃/5℃
+SUMMARY:くもり一時雨 16℃/7℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260422
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は11℃\n最低気温は4℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は13℃\n最低気温は6℃
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-SUMMARY:くもり時々晴 11℃/4℃
+SUMMARY:くもり時々晴 13℃/6℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260423
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は12℃\n最低気温は3℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は12℃\n最低気温は5℃
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
-SUMMARY:くもり時々晴 12℃/3℃
+SUMMARY:くもり時々晴 12℃/5℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-abashiri-20260424
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は11℃\n最低気温は4℃
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:くもり時々晴 11℃/4℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
