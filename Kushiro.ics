@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 釧路
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kushiro-20260419
-DESCRIPTION:天気は晴れ 時々 くもり 所により 未明 雨 で 雷を伴う\n降水確率は10%
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は0%
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:晴れ 時々 くもり 所により 未明 雨 で 雷を伴う
+SUMMARY:晴れ 時々 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kushiro-20260420
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は10%\n最高気温は8℃\n最低気温は3℃
+DESCRIPTION:天気はくもり 昼前 まで 時々 晴れ\n降水確率は10%\n最高気温は8℃\n最低気温は3℃
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
-SUMMARY:くもり 時々 晴れ 8℃/3℃
+SUMMARY:くもり 昼前 まで 時々 晴れ 8℃/3℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
