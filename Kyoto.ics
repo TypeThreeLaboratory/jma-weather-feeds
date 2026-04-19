@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 京都
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20260419
-DESCRIPTION:天気は晴れ 夕方 から くもり\n降水確率は0%
+DESCRIPTION:天気はくもり\n降水確率は0%
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:晴れ 夕方 から くもり
+SUMMARY:くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20260420
-DESCRIPTION:天気はくもり 昼前 まで 時々 晴れ 所により 夕方 から 雨\n降水確率は30%
+DESCRIPTION:天気はくもり 朝 から 昼前 晴れ 所により 夕方 から 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
-SUMMARY:くもり 昼前 まで 時々 晴れ 所により 夕方 から 雨
+SUMMARY:くもり 朝 から 昼前 晴れ 所により 夕方 から 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
