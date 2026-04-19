@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 奈良
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-nara-20260420
-DESCRIPTION:天気はくもり 所により 夕方 から 雨\n降水確率は20%
+DESCRIPTION:天気はくもり 所により 夕方 から 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
 SUMMARY:くもり 所により 夕方 から 雨
@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nara-20260421
-DESCRIPTION:天気は晴れ 一時 雨\n降水確率は50%\n最高気温は23℃\n最低気温は11℃
+DESCRIPTION:天気はくもり 後 晴れ 明け方 一時 雨\n降水確率は60%\n最高気温は23℃\n最低気温は11℃
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
-SUMMARY:晴れ 一時 雨 23℃/11℃
+SUMMARY:くもり 後 晴れ 明け方 一時 雨 23℃/11℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

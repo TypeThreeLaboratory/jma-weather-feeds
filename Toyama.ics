@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-toyama-20260421
-DESCRIPTION:天気は晴れ 一時 雨\n降水確率は70%\n最高気温は20℃\n最低気温は11℃
+DESCRIPTION:天気はくもり 後 晴れ 明け方 から 朝 雨 所により 朝 まで 雷 を伴う\n降水確率は80%\n最高気温は20℃\n最低気温は11℃
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
-SUMMARY:晴れ 一時 雨 20℃/11℃
+SUMMARY:くもり 後 晴れ 明け方 から 朝 雨 所により 朝 まで 雷 を伴う 20℃/11℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
