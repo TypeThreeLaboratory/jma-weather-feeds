@@ -14,50 +14,58 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20260421
-DESCRIPTION:天気はくもり 明け方 から 朝 雨 所により 昼過ぎ から 雷\n降水確率は70%\n最高気温は20℃\n最低気温は10℃
+DESCRIPTION:天気はくもり 明け方 から 朝 雨 所により 昼過ぎ から 雷\n降水確率は70%
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
-SUMMARY:くもり 明け方 から 朝 雨 所により 昼過ぎ から 雷 20℃/10℃
+SUMMARY:くもり 明け方 から 朝 雨 所により 昼過ぎ から 雷
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20260422
-DESCRIPTION:天気は晴れのち時々くもり\n降水確率は20%\n最高気温は22℃\n最低気温は10℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は24℃\n最低気温は10℃
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-SUMMARY:晴れのち時々くもり 22℃/10℃
+SUMMARY:晴れ 時々 くもり 24℃/10℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20260423
-DESCRIPTION:天気はくもりのち一時雨\n降水確率は50%\n最高気温は22℃\n最低気温は10℃
+DESCRIPTION:天気はくもりのち一時雨\n降水確率は50%\n最高気温は22℃\n最低気温は11℃
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
-SUMMARY:くもりのち一時雨 22℃/10℃
+SUMMARY:くもりのち一時雨 22℃/11℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20260424
-DESCRIPTION:天気はくもり時々雨\n降水確率は60%\n最高気温は16℃\n最低気温は9℃
+DESCRIPTION:天気はくもり時々雨\n降水確率は60%\n最高気温は15℃\n最低気温は8℃
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
-SUMMARY:くもり時々雨 16℃/9℃
+SUMMARY:くもり時々雨 15℃/8℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20260425
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は17℃\n最低気温は7℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は18℃\n最低気温は7℃
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-SUMMARY:くもり時々晴 17℃/7℃
+SUMMARY:晴れ時々くもり 18℃/7℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20260426
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は21℃\n最低気温は7℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は22℃\n最低気温は7℃
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-SUMMARY:くもり時々晴 21℃/7℃
+SUMMARY:くもり時々晴 22℃/7℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-yamagata-20260427
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は23℃\n最低気温は9℃
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:くもり時々晴 23℃/9℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
