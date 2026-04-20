@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260422
-DESCRIPTION:天気はくもり 一時 雨か雪\n降水確率は50%\n最高気温は11℃\n最低気温は6℃
+DESCRIPTION:天気はくもり 後 晴れ 明け方 一時 雨 所により 昼前 まで 雷 を伴う\n降水確率は50%\n最高気温は11℃\n最低気温は6℃
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-SUMMARY:くもり 一時 雨か雪 11℃/6℃
+SUMMARY:くもり 後 晴れ 明け方 一時 雨 所により 昼前 まで 雷 を伴う 11℃/6℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
