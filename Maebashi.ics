@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 前橋
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-maebashi-20260420
-DESCRIPTION:天気はくもり 昼過ぎ から 夕方 晴れ\n降水確率は10%
+DESCRIPTION:天気は晴れ 夜 くもり 所により 夜遅く 霧\n降水確率は10%
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
-SUMMARY:くもり 昼過ぎ から 夕方 晴れ
+SUMMARY:晴れ 夜 くもり 所により 夜遅く 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

@@ -6,26 +6,26 @@ X-WR-CALNAME:週間天気予報 熊本
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260420
-DESCRIPTION:天気はくもり 所により 雨\n降水確率は30%
+DESCRIPTION:天気は晴れ 夜 くもり 所により 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
-SUMMARY:くもり 所により 雨
+SUMMARY:晴れ 夜 くもり 所により 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260421
-DESCRIPTION:天気は晴れ 明け方 まで くもり\n降水確率は10%
+DESCRIPTION:天気は晴れ 明け方 まで くもり 所により 未明 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
-SUMMARY:晴れ 明け方 まで くもり
+SUMMARY:晴れ 明け方 まで くもり 所により 未明 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260422
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は24℃\n最低気温は12℃
+DESCRIPTION:天気はくもり 後 一時 雨\n降水確率は70%\n最高気温は26℃\n最低気温は13℃
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-SUMMARY:くもり 24℃/12℃
+SUMMARY:くもり 後 一時 雨 26℃/13℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

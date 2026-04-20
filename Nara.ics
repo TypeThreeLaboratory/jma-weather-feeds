@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 奈良
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-nara-20260420
-DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 夕方 から 雨\n降水確率は30%
+DESCRIPTION:天気はくもり 所により 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
-SUMMARY:晴れ 昼過ぎ から くもり 所により 夕方 から 雨
+SUMMARY:くもり 所により 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
