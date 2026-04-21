@@ -6,15 +6,15 @@ X-WR-CALNAME:週間天気予報 東京
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-tokyo-20260421
-DESCRIPTION:天気はくもり 昼過ぎ から 晴れ 所により 昼前 雨\n降水確率は0%
+DESCRIPTION:天気は晴れ\n降水確率は0%
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
-SUMMARY:くもり 昼過ぎ から 晴れ 所により 昼前 雨
+SUMMARY:晴れ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tokyo-20260422
-DESCRIPTION:天気は晴れ 昼過ぎ から くもり\n降水確率は10%
+DESCRIPTION:天気は晴れ 昼過ぎ から くもり\n降水確率は0%
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
 SUMMARY:晴れ 昼過ぎ から くもり
