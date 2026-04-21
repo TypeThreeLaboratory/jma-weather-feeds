@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 松山
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-matsuyama-20260421
-DESCRIPTION:天気はくもり 昼前 から 晴れ\n降水確率は10%
+DESCRIPTION:天気は晴れ\n降水確率は0%
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
-SUMMARY:くもり 昼前 から 晴れ
+SUMMARY:晴れ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsuyama-20260422
-DESCRIPTION:天気はくもり 昼前 まで 時々 晴れ 所により 夜遅く 雨\n降水確率は40%\n最高気温は23℃\n最低気温は11℃
+DESCRIPTION:天気はくもり 昼前 まで 時々 晴れ 所により 夜遅く 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-SUMMARY:くもり 昼前 まで 時々 晴れ 所により 夜遅く 雨 23℃/11℃
+SUMMARY:くもり 昼前 まで 時々 晴れ 所により 夜遅く 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsuyama-20260423
-DESCRIPTION:天気はくもり時々雨\n降水確率は80%\n最高気温は18℃\n最低気温は13℃
+DESCRIPTION:天気は雨 時々 くもり\n降水確率は90%\n最高気温は16℃\n最低気温は13℃
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
-SUMMARY:くもり時々雨 18℃/13℃
+SUMMARY:雨 時々 くもり 16℃/13℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsuyama-20260424
-DESCRIPTION:天気はくもり時々雨\n降水確率は50%\n最高気温は20℃\n最低気温は13℃
+DESCRIPTION:天気はくもりのち晴れ\n降水確率は30%\n最高気温は20℃\n最低気温は11℃
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
-SUMMARY:くもり時々雨 20℃/13℃
+SUMMARY:くもりのち晴れ 20℃/11℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsuyama-20260425
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は22℃\n最低気温は11℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は23℃\n最低気温は10℃
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-SUMMARY:くもり時々晴 22℃/11℃
+SUMMARY:くもり時々晴 23℃/10℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsuyama-20260426
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は23℃\n最低気温は12℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は21℃\n最低気温は13℃
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-SUMMARY:くもり時々晴 23℃/12℃
+SUMMARY:くもり 21℃/13℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsuyama-20260427
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は23℃\n最低気温は13℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は22℃\n最低気温は14℃
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260428
-SUMMARY:くもり時々晴 23℃/13℃
+SUMMARY:くもり時々晴 22℃/14℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-matsuyama-20260428
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は23℃\n最低気温は14℃
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:くもり時々晴 23℃/14℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

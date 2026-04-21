@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 福島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20260421
-DESCRIPTION:天気はくもり 後 晴れ 朝 一時 雨\n降水確率は60%
+DESCRIPTION:天気はくもり 昼過ぎ から 晴れ 所により 昼前 雨\n降水確率は10%
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
-SUMMARY:くもり 後 晴れ 朝 一時 雨
+SUMMARY:くもり 昼過ぎ から 晴れ 所により 昼前 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20260422
-DESCRIPTION:天気は晴れ 昼前 から 時々 くもり\n降水確率は10%\n最高気温は26℃\n最低気温は8℃
+DESCRIPTION:天気は晴れ 昼前 から 時々 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-SUMMARY:晴れ 昼前 から 時々 くもり 26℃/8℃
+SUMMARY:晴れ 昼前 から 時々 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20260423
-DESCRIPTION:天気はくもりのち一時雨\n降水確率は50%\n最高気温は22℃\n最低気温は11℃
+DESCRIPTION:天気はくもり 後 一時 雨\n降水確率は50%\n最高気温は23℃\n最低気温は9℃
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
-SUMMARY:くもりのち一時雨 22℃/11℃
+SUMMARY:くもり 後 一時 雨 23℃/9℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20260424
-DESCRIPTION:天気はくもり時々雨\n降水確率は70%\n最高気温は16℃\n最低気温は8℃
+DESCRIPTION:天気はくもり時々雨\n降水確率は60%\n最高気温は18℃\n最低気温は8℃
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
-SUMMARY:くもり時々雨 16℃/8℃
+SUMMARY:くもり時々雨 18℃/8℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20260425
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は19℃\n最低気温は7℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は19℃\n最低気温は6℃
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-SUMMARY:くもり 19℃/7℃
+SUMMARY:くもり時々晴 19℃/6℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20260426
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は22℃\n最低気温は7℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は24℃\n最低気温は7℃
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-SUMMARY:晴れ時々くもり 22℃/7℃
+SUMMARY:晴れ時々くもり 24℃/7℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20260427
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は22℃\n最低気温は9℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は20℃\n最低気温は10℃
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260428
-SUMMARY:くもり時々晴 22℃/9℃
+SUMMARY:くもり時々晴 20℃/10℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-fukushima-20260428
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は22℃\n最低気温は11℃
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:くもり 22℃/11℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
