@@ -6,15 +6,15 @@ X-WR-CALNAME:週間天気予報 那覇
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-naha-20260423
-DESCRIPTION:天気はくもり 昼前 から 時々 雨 所により 昼前 から 夕方 雷を伴い 激しく 降る\n降水確率は60%
+DESCRIPTION:天気はくもり 時々 雨 所により 昼過ぎ から 夕方 雷を伴い 激しく 降る\n降水確率は80%
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
-SUMMARY:くもり 昼前 から 時々 雨 所により 昼前 から 夕方 雷を伴い 激しく 降る
+SUMMARY:くもり 時々 雨 所により 昼過ぎ から 夕方 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-naha-20260424
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は70%\n最高気温は26℃\n最低気温は21℃
+DESCRIPTION:天気はくもり 時々 雨\n降水確率は80%\n最高気温は26℃\n最低気温は21℃
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:くもり 時々 雨 26℃/21℃

@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260424
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は6℃\n最低気温は2℃
+DESCRIPTION:天気はくもり 所により 明け方 から 朝 雪か雨\n降水確率は40%\n最高気温は6℃\n最低気温は2℃
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
-SUMMARY:くもり 6℃/2℃
+SUMMARY:くもり 所により 明け方 から 朝 雪か雨 6℃/2℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

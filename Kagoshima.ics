@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 鹿児島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260423
-DESCRIPTION:天気は雨 昼過ぎ から くもり 所により 明け方 雷を伴い 非常に 激しく 降る\n降水確率は90%
+DESCRIPTION:天気は雨 昼過ぎ から くもり 所により 明け方 雷を伴い 非常に 激しく 降る\n降水確率は80%
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
 SUMMARY:雨 昼過ぎ から くもり 所により 明け方 雷を伴い 非常に 激しく 降る
@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260424
-DESCRIPTION:天気はくもり\n降水確率は30%\n最高気温は22℃\n最低気温は17℃
+DESCRIPTION:天気はくもり 所により 夕方 まで 雨\n降水確率は30%\n最高気温は22℃\n最低気温は17℃
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
-SUMMARY:くもり 22℃/17℃
+SUMMARY:くもり 所により 夕方 まで 雨 22℃/17℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

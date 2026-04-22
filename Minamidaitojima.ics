@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260424
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は27℃\n最低気温は21℃
+DESCRIPTION:天気はくもり 朝 から 昼前 雨 所により 朝 から 夜のはじめ頃 雷 を伴う\n降水確率は60%\n最高気温は27℃\n最低気温は21℃
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
-SUMMARY:くもり 一時 雨 27℃/21℃
+SUMMARY:くもり 朝 から 昼前 雨 所により 朝 から 夜のはじめ頃 雷 を伴う 27℃/21℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
