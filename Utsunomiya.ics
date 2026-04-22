@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 宇都宮
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-utsunomiya-20260422
-DESCRIPTION:天気はくもり 所により 夜のはじめ頃 まで 雨\n降水確率は10%
+DESCRIPTION:天気はくもり 所により 夜のはじめ頃 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-SUMMARY:くもり 所により 夜のはじめ頃 まで 雨
+SUMMARY:くもり 所により 夜のはじめ頃 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
