@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 徳島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20260422
-DESCRIPTION:天気はくもり 昼過ぎ まで 時々 晴れ\n降水確率は20%
+DESCRIPTION:天気はくもり\n降水確率は20%
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-SUMMARY:くもり 昼過ぎ まで 時々 晴れ
+SUMMARY:くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20260423
-DESCRIPTION:天気は雨 朝晩 くもり 所により 昼前 から 夕方 雷 を伴う\n降水確率は90%\n最高気温は17℃\n最低気温は13℃
+DESCRIPTION:天気は雨 朝晩 くもり 所により 昼前 から 夕方 雷 を伴う\n降水確率は90%
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
-SUMMARY:雨 朝晩 くもり 所により 昼前 から 夕方 雷 を伴う 17℃/13℃
+SUMMARY:雨 朝晩 くもり 所により 昼前 から 夕方 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20260424
-DESCRIPTION:天気はくもりのち晴れ\n降水確率は40%\n最高気温は20℃\n最低気温は12℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は21℃\n最低気温は12℃
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
-SUMMARY:くもりのち晴れ 20℃/12℃
+SUMMARY:晴れ 時々 くもり 21℃/12℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20260425
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は21℃\n最低気温は10℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は20℃\n最低気温は11℃
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-SUMMARY:くもり時々晴 21℃/10℃
+SUMMARY:くもり時々晴 20℃/11℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20260426
-DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は21℃\n最低気温は13℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は19℃\n最低気温は13℃
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-SUMMARY:くもり一時雨 21℃/13℃
+SUMMARY:くもり一時雨 19℃/13℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20260427
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は22℃\n最低気温は15℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は23℃\n最低気温は13℃
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260428
-SUMMARY:くもり 22℃/15℃
+SUMMARY:くもり 23℃/13℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20260428
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は23℃\n最低気温は14℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は24℃\n最低気温は13℃
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
-SUMMARY:くもり時々晴 23℃/14℃
+SUMMARY:くもり時々晴 24℃/13℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-tokushima-20260429
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は24℃\n最低気温は15℃
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:くもり 24℃/15℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

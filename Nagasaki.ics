@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 長崎
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-nagasaki-20260422
-DESCRIPTION:天気はくもり 夕方 から 雨\n降水確率は90%
+DESCRIPTION:天気はくもり 昼過ぎ から 雨\n降水確率は90%
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-SUMMARY:くもり 夕方 から 雨
+SUMMARY:くもり 昼過ぎ から 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagasaki-20260423
-DESCRIPTION:天気は雨 夕方 から くもり 所により 明け方 まで 雷を伴い 激しく 降る\n降水確率は90%\n最高気温は20℃\n最低気温は14℃
+DESCRIPTION:天気は雨 夕方 から くもり 所により 明け方 まで 雷を伴い 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
-SUMMARY:雨 夕方 から くもり 所により 明け方 まで 雷を伴い 激しく 降る 20℃/14℃
+SUMMARY:雨 夕方 から くもり 所により 明け方 まで 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagasaki-20260424
-DESCRIPTION:天気はくもりのち晴れ\n降水確率は30%\n最高気温は22℃\n最低気温は13℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は23℃\n最低気温は13℃
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
-SUMMARY:くもりのち晴れ 22℃/13℃
+SUMMARY:晴れ 時々 くもり 23℃/13℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagasaki-20260425
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は24℃\n最低気温は11℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は24℃\n最低気温は12℃
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-SUMMARY:くもり時々晴 24℃/11℃
+SUMMARY:晴れ時々くもり 24℃/12℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagasaki-20260426
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は22℃\n最低気温は13℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は22℃\n最低気温は14℃
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-SUMMARY:くもり 22℃/13℃
+SUMMARY:くもり 22℃/14℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagasaki-20260427
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は23℃\n最低気温は15℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は23℃\n最低気温は14℃
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260428
-SUMMARY:くもり時々晴 23℃/15℃
+SUMMARY:晴れ時々くもり 23℃/14℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagasaki-20260428
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は22℃\n最低気温は15℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は24℃\n最低気温は15℃
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
-SUMMARY:くもり時々晴 22℃/15℃
+SUMMARY:くもり時々晴 24℃/15℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-nagasaki-20260429
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は22℃\n最低気温は15℃
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:くもり 22℃/15℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
