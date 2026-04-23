@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260425
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は10%\n最高気温は8℃\n最低気温は-1℃
+DESCRIPTION:天気はくもり 昼前 から 夕方 晴れ\n降水確率は10%\n最高気温は8℃\n最低気温は-1℃
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-SUMMARY:くもり 時々 晴れ 8℃/-1℃
+SUMMARY:くもり 昼前 から 夕方 晴れ 8℃/-1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
