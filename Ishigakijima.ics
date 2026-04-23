@@ -5,14 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 石垣島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-ishigakijima-20260423
-DESCRIPTION:天気は雨 夜 くもり 所により 雷 を伴う\n降水確率は20%
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260424
-SUMMARY:雨 夜 くもり 所により 雷 を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260424
 DESCRIPTION:天気はくもり 夕方 一時 雨 所により 明け方 まで 雷\n降水確率は50%
 DTSTART;VALUE=DATE:20260424
