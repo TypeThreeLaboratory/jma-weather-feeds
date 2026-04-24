@@ -14,18 +14,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260425
-DESCRIPTION:天気はくもり 所により 未明 雨\n降水確率は10%
+DESCRIPTION:天気はくもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-SUMMARY:くもり 所により 未明 雨
+SUMMARY:くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260426
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は60%\n最高気温は27℃\n最低気温は18℃
+DESCRIPTION:天気はくもり 時々 雨 所により 明け方 から 雷 を伴う\n降水確率は60%\n最高気温は27℃\n最低気温は18℃
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-SUMMARY:くもり 時々 雨 27℃/18℃
+SUMMARY:くもり 時々 雨 所により 明け方 から 雷 を伴う 27℃/18℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

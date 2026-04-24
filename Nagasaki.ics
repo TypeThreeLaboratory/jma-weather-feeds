@@ -22,10 +22,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagasaki-20260426
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は21℃\n最低気温は16℃
+DESCRIPTION:天気はくもり 朝 から 夕方 雨 所により 明け方 から 夜のはじめ頃 雷 を伴う\n降水確率は50%\n最高気温は21℃\n最低気温は16℃
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-SUMMARY:くもり 一時 雨 21℃/16℃
+SUMMARY:くもり 朝 から 夕方 雨 所により 明け方 から 夜のはじめ頃 雷 を伴う 21℃/16℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

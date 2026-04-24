@@ -14,18 +14,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260425
-DESCRIPTION:天気はくもり 夜 雨\n降水確率は70%
+DESCRIPTION:天気はくもり 夕方 から 雨\n降水確率は70%
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-SUMMARY:くもり 夜 雨
+SUMMARY:くもり 夕方 から 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260426
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は80%\n最高気温は22℃\n最低気温は16℃
+DESCRIPTION:天気は雨 夜 くもり 所により 朝 から 夜のはじめ頃 雷 を伴う\n降水確率は80%\n最高気温は22℃\n最低気温は16℃
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-SUMMARY:くもり 時々 雨 22℃/16℃
+SUMMARY:雨 夜 くもり 所により 朝 から 夜のはじめ頃 雷 を伴う 22℃/16℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
