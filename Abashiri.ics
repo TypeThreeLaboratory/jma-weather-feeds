@@ -14,18 +14,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260424
-DESCRIPTION:天気はくもり 夜のはじめ頃 一時 雪か雨 所により 夕方 まで 雷\n降水確率は50%
+DESCRIPTION:天気はくもり 夜のはじめ頃 雪か雨\n降水確率は50%
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
-SUMMARY:くもり 夜のはじめ頃 一時 雪か雨 所により 夕方 まで 雷
+SUMMARY:くもり 夜のはじめ頃 雪か雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260425
-DESCRIPTION:天気はくもり 昼前 から 夕方 晴れ\n降水確率は10%
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-SUMMARY:くもり 昼前 から 夕方 晴れ
+SUMMARY:晴れ 時々 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
