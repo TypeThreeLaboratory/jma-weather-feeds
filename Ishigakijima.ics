@@ -22,10 +22,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260426
-DESCRIPTION:天気は雨 昼前 から くもり 後 晴れ 所により 明け方 まで 雷を伴い 激しく 降る\n降水確率は60%
+DESCRIPTION:天気は雨 昼前 から くもり 後 晴れ 所により 明け方 雷を伴い 激しく 降る\n降水確率は50%
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-SUMMARY:雨 昼前 から くもり 後 晴れ 所により 明け方 まで 雷を伴い 激しく 降る
+SUMMARY:雨 昼前 から くもり 後 晴れ 所により 明け方 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
