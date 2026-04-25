@@ -22,18 +22,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-choshi-20260425
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は0%
+DESCRIPTION:天気は晴れ 夜のはじめ頃 くもり\n降水確率は0%
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-SUMMARY:晴れ 時々 くもり
+SUMMARY:晴れ 夜のはじめ頃 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-choshi-20260426
-DESCRIPTION:天気は晴れ 昼前 から くもり 所により 夜遅く 雨\n降水確率は30%
+DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 夜遅く 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-SUMMARY:晴れ 昼前 から くもり 所により 夜遅く 雨
+SUMMARY:晴れ 昼過ぎ から くもり 所により 夜遅く 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

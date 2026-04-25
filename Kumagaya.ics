@@ -22,18 +22,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumagaya-20260425
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は0%
+DESCRIPTION:天気は晴れ 夜遅く くもり\n降水確率は0%
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-SUMMARY:晴れ 時々 くもり
+SUMMARY:晴れ 夜遅く くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumagaya-20260426
-DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 夜遅く 雨\n降水確率は20%
+DESCRIPTION:天気はくもり 昼前 まで 時々 晴れ 所により 夜遅く 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-SUMMARY:晴れ 昼過ぎ から くもり 所により 夜遅く 雨
+SUMMARY:くもり 昼前 まで 時々 晴れ 所により 夜遅く 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
