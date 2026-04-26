@@ -30,18 +30,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20260426
-DESCRIPTION:天気は雨 夕方 まで 時々 くもり 所により 雷 を伴う\n降水確率は80%
+DESCRIPTION:天気は雨 所により 雷 を伴う\n降水確率は80%
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-SUMMARY:雨 夕方 まで 時々 くもり 所により 雷 を伴う
+SUMMARY:雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20260427
-DESCRIPTION:天気はくもり 後 晴れ 未明 雨 所により 明け方 まで 雷 を伴う\n降水確率は60%
+DESCRIPTION:天気はくもり 後 晴れ 明け方 まで 雨 所により 雷 を伴う\n降水確率は70%
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260428
-SUMMARY:くもり 後 晴れ 未明 雨 所により 明け方 まで 雷 を伴う
+SUMMARY:くもり 後 晴れ 明け方 まで 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
