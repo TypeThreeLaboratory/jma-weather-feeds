@@ -38,10 +38,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagano-20260428
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は30%\n最高気温は25℃\n最低気温は8℃
+DESCRIPTION:天気は晴れ 朝晩 くもり 所により 夜 雨\n降水確率は30%\n最高気温は25℃\n最低気温は8℃
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
-SUMMARY:晴れ 時々 くもり 25℃/8℃
+SUMMARY:晴れ 朝晩 くもり 所により 夜 雨 25℃/8℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
