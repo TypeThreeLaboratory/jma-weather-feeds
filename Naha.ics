@@ -30,10 +30,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-naha-20260426
-DESCRIPTION:天気は雨 夕方 から 晴れ 所により 夕方 まで 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 夕方 から 晴れ 所により 昼過ぎ 雨\n降水確率は10%
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-SUMMARY:雨 夕方 から 晴れ 所により 夕方 まで 雷 を伴う
+SUMMARY:くもり 夕方 から 晴れ 所により 昼過ぎ 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
