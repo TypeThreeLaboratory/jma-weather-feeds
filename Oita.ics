@@ -29,14 +29,6 @@ SUMMARY:くもり 22℃/12℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-oita-20260426
-DESCRIPTION:天気は雨 夜遅く くもり 所により 夜のはじめ頃 まで 雷を伴い 激しく 降る\n降水確率は50%
-DTSTART;VALUE=DATE:20260426
-DTEND;VALUE=DATE:20260427
-SUMMARY:雨 夜遅く くもり 所により 夜のはじめ頃 まで 雷を伴い 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-oita-20260427
 DESCRIPTION:天気は晴れ 明け方 まで くもり 所により 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20260427

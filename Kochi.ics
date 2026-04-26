@@ -29,14 +29,6 @@ SUMMARY:くもり時々晴 24℃/12℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-kochi-20260426
-DESCRIPTION:天気は雨 所により 夜のはじめ頃 まで 雷を伴い 非常に 激しく 降る\n降水確率は80%
-DTSTART;VALUE=DATE:20260426
-DTEND;VALUE=DATE:20260427
-SUMMARY:雨 所により 夜のはじめ頃 まで 雷を伴い 非常に 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-kochi-20260427
 DESCRIPTION:天気はくもり 後 晴れ 明け方 まで 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260427
