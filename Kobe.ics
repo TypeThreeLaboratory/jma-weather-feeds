@@ -38,10 +38,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kobe-20260428
-DESCRIPTION:天気はくもり 昼前 まで 時々 晴れ\n降水確率は10%
+DESCRIPTION:天気はくもり 昼過ぎ まで 時々 晴れ 北播丹波 では 昼前 まで 霧\n降水確率は10%
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
-SUMMARY:くもり 昼前 まで 時々 晴れ
+SUMMARY:くもり 昼過ぎ まで 時々 晴れ 北播丹波 では 昼前 まで 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

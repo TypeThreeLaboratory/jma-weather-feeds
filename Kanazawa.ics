@@ -38,18 +38,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kanazawa-20260428
-DESCRIPTION:天気は晴れ 後 くもり 夜のはじめ頃 一時 雨\n降水確率は60%
+DESCRIPTION:天気はくもり 朝 から 昼過ぎ 晴れ 所により 夕方 から 雨\n降水確率は40%
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
-SUMMARY:晴れ 後 くもり 夜のはじめ頃 一時 雨
+SUMMARY:くもり 朝 から 昼過ぎ 晴れ 所により 夕方 から 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kanazawa-20260429
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は17℃\n最低気温は12℃
+DESCRIPTION:天気はくもり 所により 明け方 から 昼前 雨\n降水確率は40%\n最高気温は17℃\n最低気温は12℃
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-SUMMARY:くもり 17℃/12℃
+SUMMARY:くもり 所により 明け方 から 昼前 雨 17℃/12℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

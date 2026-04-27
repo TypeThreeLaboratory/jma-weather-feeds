@@ -38,18 +38,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-niigata-20260428
-DESCRIPTION:天気はくもり 夜 雨\n降水確率は80%
+DESCRIPTION:天気はくもり 夜 雨 所により 夕方 から 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
-SUMMARY:くもり 夜 雨
+SUMMARY:くもり 夜 雨 所により 夕方 から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-niigata-20260429
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は60%\n最高気温は15℃\n最低気温は9℃
+DESCRIPTION:天気はくもり 朝 から 昼前 雨\n降水確率は60%\n最高気温は15℃\n最低気温は9℃
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-SUMMARY:くもり 一時 雨 15℃/9℃
+SUMMARY:くもり 朝 から 昼前 雨 15℃/9℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

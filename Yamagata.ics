@@ -38,18 +38,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20260428
-DESCRIPTION:天気はくもり 時々 晴れ 夜 雨 所により 昼過ぎ から 雷 を伴う\n降水確率は70%
+DESCRIPTION:天気はくもり 後 晴れ 夜 雨 所により 昼過ぎ から 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
-SUMMARY:くもり 時々 晴れ 夜 雨 所により 昼過ぎ から 雷 を伴う
+SUMMARY:くもり 後 晴れ 夜 雨 所により 昼過ぎ から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20260429
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は18℃\n最低気温は8℃
+DESCRIPTION:天気はくもり 夜 晴れ 所により 明け方 まで 雨\n降水確率は40%\n最高気温は18℃\n最低気温は8℃
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-SUMMARY:くもり 18℃/8℃
+SUMMARY:くもり 夜 晴れ 所により 明け方 まで 雨 18℃/8℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

@@ -38,18 +38,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260428
-DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 夕方 から 夜のはじめ頃 雨\n降水確率は40%
+DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 夕方 から 雨\n降水確率は40%
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
-SUMMARY:晴れ 昼過ぎ から くもり 所により 夕方 から 夜のはじめ頃 雨
+SUMMARY:晴れ 昼過ぎ から くもり 所により 夕方 から 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260429
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は18℃\n最低気温は10℃
+DESCRIPTION:天気はくもり 所により 朝 から 昼前 雨\n降水確率は40%\n最高気温は18℃\n最低気温は10℃
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-SUMMARY:くもり 18℃/10℃
+SUMMARY:くもり 所により 朝 から 昼前 雨 18℃/10℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
