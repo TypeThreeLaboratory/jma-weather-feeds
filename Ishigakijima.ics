@@ -46,18 +46,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260428
-DESCRIPTION:天気は晴れ 夕方 から くもり 所により 夜遅く 雨 で 雷を伴う\n降水確率は30%
+DESCRIPTION:天気は雨 所により 雷を伴い 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
-SUMMARY:晴れ 夕方 から くもり 所により 夜遅く 雨 で 雷を伴う
+SUMMARY:雨 所により 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260429
-DESCRIPTION:天気はくもり 朝晩 雨 所により 夜遅く 雷を伴い 激しく 降る\n降水確率は60%
+DESCRIPTION:天気はくもり 朝晩 雨 所により 雷を伴い 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-SUMMARY:くもり 朝晩 雨 所により 夜遅く 雷を伴い 激しく 降る
+SUMMARY:くもり 朝晩 雨 所により 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
