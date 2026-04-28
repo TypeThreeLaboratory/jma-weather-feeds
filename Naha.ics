@@ -46,18 +46,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-naha-20260429
-DESCRIPTION:天気は晴れ 後 くもり 夜遅く 雨 所により 夕方 から 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 夜遅く 雨 所により 夕方 から 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-SUMMARY:晴れ 後 くもり 夜遅く 雨 所により 夕方 から 雷 を伴う
+SUMMARY:くもり 夜遅く 雨 所により 夕方 から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-naha-20260430
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は90%\n最高気温は24℃\n最低気温は21℃
+DESCRIPTION:天気はくもり 時々 雨 所により 昼前 から 昼過ぎ 雷を伴い 激しく 降る\n降水確率は90%\n最高気温は24℃\n最低気温は21℃
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
-SUMMARY:くもり 時々 雨 24℃/21℃
+SUMMARY:くもり 時々 雨 所により 昼前 から 昼過ぎ 雷を伴い 激しく 降る 24℃/21℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
