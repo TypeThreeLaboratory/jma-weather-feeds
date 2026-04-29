@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 長野
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-nagano-20260501
-DESCRIPTION:天気は雨 時々 くもり\n降水確率は80%\n最高気温は19℃\n最低気温は10℃
+DESCRIPTION:天気は雨 昼過ぎ まで 時々 くもり 所により 昼前 から 雷 を伴う\n降水確率は80%\n最高気温は19℃\n最低気温は10℃
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:雨 時々 くもり 19℃/10℃
+SUMMARY:雨 昼過ぎ まで 時々 くもり 所により 昼前 から 雷 を伴う 19℃/10℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

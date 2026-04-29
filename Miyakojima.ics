@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 宮古島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20260501
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は30%\n最高気温は24℃\n最低気温は20℃
+DESCRIPTION:天気はくもり 昼前 から 晴れ\n降水確率は30%\n最高気温は24℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:くもり 時々 晴れ 24℃/20℃
+SUMMARY:くもり 昼前 から 晴れ 24℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -54,10 +54,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20260430
-DESCRIPTION:天気は雨 夕方 から くもり 所により 朝 から 昼前 雷を伴い 激しく 降る\n降水確率は60%
+DESCRIPTION:天気は雨 昼過ぎ から くもり 所により 朝 まで 雷を伴い 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
-SUMMARY:雨 夕方 から くもり 所により 朝 から 昼前 雷を伴い 激しく 降る
+SUMMARY:雨 昼過ぎ から くもり 所により 朝 まで 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

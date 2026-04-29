@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 岡山
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-okayama-20260501
-DESCRIPTION:天気は雨 後 くもり\n降水確率は70%\n最高気温は21℃\n最低気温は11℃
+DESCRIPTION:天気は雨 昼前 から くもり 所により 朝 から 夕方 雷 を伴う\n降水確率は80%\n最高気温は21℃\n最低気温は11℃
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:雨 後 くもり 21℃/11℃
+SUMMARY:雨 昼前 から くもり 所により 朝 から 夕方 雷 を伴う 21℃/11℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
