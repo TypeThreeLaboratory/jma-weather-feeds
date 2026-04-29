@@ -6,47 +6,55 @@ X-WR-CALNAME:週間天気予報 石垣島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260501
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は27℃\n最低気温は21℃
+DESCRIPTION:天気はくもり\n降水確率は30%\n最高気温は26℃\n最低気温は21℃
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:くもり 27℃/21℃
+SUMMARY:くもり 26℃/21℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260502
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は28℃\n最低気温は23℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は29℃\n最低気温は22℃
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
-SUMMARY:くもり 28℃/23℃
+SUMMARY:くもり 29℃/22℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260503
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は29℃\n最低気温は25℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は30℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
-SUMMARY:くもり 29℃/25℃
+SUMMARY:くもり 30℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260504
-DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は29℃\n最低気温は24℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は70%\n最高気温は28℃\n最低気温は23℃
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260505
-SUMMARY:くもり一時雨 29℃/24℃
+SUMMARY:くもり一時雨 28℃/23℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260505
-DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は28℃\n最低気温は24℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は27℃\n最低気温は22℃
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260506
-SUMMARY:くもり一時雨 28℃/24℃
+SUMMARY:くもり一時雨 27℃/22℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-ishigakijima-20260506
+DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は28℃\n最低気温は23℃
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:くもり一時雨 28℃/23℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260429
-DESCRIPTION:天気はくもり 時々 雨 所により 雷 を伴う\n降水確率は60%
+DESCRIPTION:天気はくもり 時々 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
 SUMMARY:くもり 時々 雨 所により 雷 を伴う
@@ -54,10 +62,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260430
-DESCRIPTION:天気は雨 昼過ぎ から くもり 所により 明け方 から 朝 雷を伴い 激しく 降る\n降水確率は70%\n最高気温は27℃\n最低気温は21℃
+DESCRIPTION:天気は雨 昼過ぎ から くもり 所により 明け方 から 朝 雷を伴い 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
-SUMMARY:雨 昼過ぎ から くもり 所により 明け方 から 朝 雷を伴い 激しく 降る 27℃/21℃
+SUMMARY:雨 昼過ぎ から くもり 所により 明け方 から 朝 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
