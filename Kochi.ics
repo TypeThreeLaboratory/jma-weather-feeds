@@ -6,26 +6,26 @@ X-WR-CALNAME:週間天気予報 高知
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kochi-20260501
-DESCRIPTION:天気はくもり 明け方 まで 雨 所により 夕方 まで 雷 を伴う\n降水確率は60%\n最高気温は20℃\n最低気温は14℃
+DESCRIPTION:天気はくもり 明け方 まで 雨 所により 夕方 まで 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:くもり 明け方 まで 雨 所により 夕方 まで 雷 を伴う 20℃/14℃
+SUMMARY:くもり 明け方 まで 雨 所により 夕方 まで 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kochi-20260502
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は10%\n最高気温は27℃\n最低気温は12℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は26℃\n最低気温は14℃
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
-SUMMARY:晴れ時々くもり 27℃/12℃
+SUMMARY:晴れ 時々 くもり 26℃/14℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kochi-20260503
-DESCRIPTION:天気はくもりのち一時雨\n降水確率は70%\n最高気温は23℃\n最低気温は15℃
+DESCRIPTION:天気はくもりのち一時雨\n降水確率は70%\n最高気温は25℃\n最低気温は15℃
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
-SUMMARY:くもりのち一時雨 23℃/15℃
+SUMMARY:くもりのち一時雨 25℃/15℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -38,18 +38,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kochi-20260505
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は24℃\n最低気温は13℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は25℃\n最低気温は13℃
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260506
-SUMMARY:くもり時々晴 24℃/13℃
+SUMMARY:くもり時々晴 25℃/13℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kochi-20260506
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は25℃\n最低気温は13℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は24℃\n最低気温は12℃
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
-SUMMARY:くもり時々晴 25℃/13℃
+SUMMARY:くもり時々晴 24℃/12℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-kochi-20260507
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は24℃\n最低気温は14℃
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:くもり 24℃/14℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
