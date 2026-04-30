@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 那覇
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-naha-20260501
-DESCRIPTION:天気はくもり 昼前 から 晴れ\n降水確率は20%
+DESCRIPTION:天気は晴れ 明け方 まで くもり 所により 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:くもり 昼前 から 晴れ
+SUMMARY:晴れ 明け方 まで くもり 所により 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -62,10 +62,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-naha-20260430
-DESCRIPTION:天気は雨 夕方 から くもり 所により 昼過ぎ まで 雷を伴い 激しく 降る\n降水確率は70%
+DESCRIPTION:天気はくもり 夜 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
-SUMMARY:雨 夕方 から くもり 所により 昼過ぎ まで 雷を伴い 激しく 降る
+SUMMARY:くもり 夜 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

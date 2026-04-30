@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 京都
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20260501
-DESCRIPTION:天気は雨 昼前 から 時々 くもり 所により 朝 から 夜のはじめ頃 雷 を伴う\n降水確率は80%
+DESCRIPTION:天気は雨 昼前 から 時々 くもり 所により 朝 から 夜のはじめ頃 雷 を伴う\n降水確率は70%
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:雨 昼前 から 時々 くもり 所により 朝 から 夜のはじめ頃 雷 を伴う

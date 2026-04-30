@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 熊谷
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kumagaya-20260501
-DESCRIPTION:天気は雨 昼過ぎ から くもり 所により 夕方 から 雷\n降水確率は80%
+DESCRIPTION:天気は雨 昼過ぎ から 時々 くもり 所により 昼前 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:雨 昼過ぎ から くもり 所により 夕方 から 雷
+SUMMARY:雨 昼過ぎ から 時々 くもり 所により 昼前 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 稚内
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260501
-DESCRIPTION:天気は晴れ 夕方 から くもり 所により 昼前 まで 霧\n降水確率は10%
+DESCRIPTION:天気は晴れ 後 くもり 夜遅く 雨\n降水確率は50%
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:晴れ 夕方 から くもり 所により 昼前 まで 霧
+SUMMARY:晴れ 後 くもり 夜遅く 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -62,10 +62,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260430
-DESCRIPTION:天気は晴れ 時々 くもり 所により 霧\n降水確率は0%
+DESCRIPTION:天気は晴れ 夜のはじめ頃 くもり 所により 霧\n降水確率は0%
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
-SUMMARY:晴れ 時々 くもり 所により 霧
+SUMMARY:晴れ 夜のはじめ頃 くもり 所により 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

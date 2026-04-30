@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 高知
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kochi-20260501
-DESCRIPTION:天気はくもり 明け方 まで 雨 所により 夕方 まで 雷 を伴う\n降水確率は60%
+DESCRIPTION:天気はくもり 明け方 まで 雨 所により 夕方 まで 雷 を伴う\n降水確率は70%
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:くもり 明け方 まで 雨 所により 夕方 まで 雷 を伴う
@@ -62,10 +62,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kochi-20260430
-DESCRIPTION:天気は雨 所により 夕方 から 雷を伴い 激しく 降る\n降水確率は90%
+DESCRIPTION:天気は雨 所により 雷を伴い 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
-SUMMARY:雨 所により 夕方 から 雷を伴い 激しく 降る
+SUMMARY:雨 所により 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
