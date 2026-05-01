@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 徳島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20260501
-DESCRIPTION:天気はくもり 昼過ぎ 一時 雨 所により 夜のはじめ頃 まで 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 夜遅く 晴れ\n降水確率は20%
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:くもり 昼過ぎ 一時 雨 所により 夜のはじめ頃 まで 雷 を伴う
+SUMMARY:くもり 夜遅く 晴れ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

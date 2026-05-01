@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 名古屋
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-nagoya-20260501
-DESCRIPTION:天気は雨 夜 くもり 所により 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 夜のはじめ頃 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:雨 夜 くもり 所により 雷 を伴う
+SUMMARY:くもり 夜のはじめ頃 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -22,10 +22,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagoya-20260503
-DESCRIPTION:天気はくもり 後 一時 雨\n降水確率は60%\n最高気温は24℃\n最低気温は15℃
+DESCRIPTION:天気はくもり 後 一時 雨\n降水確率は70%\n最高気温は25℃\n最低気温は15℃
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
-SUMMARY:くもり 後 一時 雨 24℃/15℃
+SUMMARY:くもり 後 一時 雨 25℃/15℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

@@ -6,15 +6,15 @@ X-WR-CALNAME:週間天気予報 津
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-tsu-20260501
-DESCRIPTION:天気は雨 昼過ぎ から くもり 所により 雷 を伴う\n降水確率は30%
+DESCRIPTION:天気は晴れ 夜 くもり 所により 雨 で 雷を伴う\n降水確率は30%
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:雨 昼過ぎ から くもり 所により 雷 を伴う
+SUMMARY:晴れ 夜 くもり 所により 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tsu-20260502
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
 SUMMARY:晴れ 時々 くもり
@@ -22,10 +22,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tsu-20260503
-DESCRIPTION:天気はくもり 後 一時 雨\n降水確率は60%\n最高気温は23℃\n最低気温は15℃
+DESCRIPTION:天気はくもり 後 雨\n降水確率は70%\n最高気温は23℃\n最低気温は15℃
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
-SUMMARY:くもり 後 一時 雨 23℃/15℃
+SUMMARY:くもり 後 雨 23℃/15℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

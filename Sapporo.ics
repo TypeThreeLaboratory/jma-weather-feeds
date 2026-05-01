@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 札幌
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20260501
-DESCRIPTION:天気は晴れ 後 くもり 夕方 から 雨 石狩南部 では 夜 激しく 降る\n降水確率は80%
+DESCRIPTION:天気は雨 石狩南部 では 夜 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:晴れ 後 くもり 夕方 から 雨 石狩南部 では 夜 激しく 降る
+SUMMARY:雨 石狩南部 では 夜 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

@@ -6,26 +6,26 @@ X-WR-CALNAME:週間天気予報 福島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20260501
-DESCRIPTION:天気は雨 所により 昼過ぎ まで 雷を伴い 激しく 降る\n降水確率は70%
+DESCRIPTION:天気はくもり 夜遅く 雨 所により 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:雨 所により 昼過ぎ まで 雷を伴い 激しく 降る
+SUMMARY:くもり 夜遅く 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20260502
-DESCRIPTION:天気は晴れ 未明 雨 所により 明け方 まで 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気は晴れ 明け方 まで くもり 所により 雨 で 雷を伴う\n降水確率は30%
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
-SUMMARY:晴れ 未明 雨 所により 明け方 まで 雷 を伴う
+SUMMARY:晴れ 明け方 まで くもり 所により 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20260503
-DESCRIPTION:天気は晴れ 後 一時 雨\n降水確率は50%\n最高気温は26℃\n最低気温は8℃
+DESCRIPTION:天気は晴れ 後 一時 雨\n降水確率は50%\n最高気温は25℃\n最低気温は7℃
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
-SUMMARY:晴れ 後 一時 雨 26℃/8℃
+SUMMARY:晴れ 後 一時 雨 25℃/7℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
