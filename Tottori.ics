@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 鳥取
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-tottori-20260502
-DESCRIPTION:天気は晴れ 夕方 から くもり\n降水確率は0%
+DESCRIPTION:天気はくもり\n降水確率は0%
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
-SUMMARY:晴れ 夕方 から くもり
+SUMMARY:くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tottori-20260503
-DESCRIPTION:天気はくもり 昼過ぎ から 雨\n降水確率は90%
+DESCRIPTION:天気はくもり 昼過ぎ から 雨 所により 夕方 から 雷 を伴う\n降水確率は90%
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
-SUMMARY:くもり 昼過ぎ から 雨
+SUMMARY:くもり 昼過ぎ から 雨 所により 夕方 から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
