@@ -5,14 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 富山
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-toyama-20260503
-DESCRIPTION:天気は雨 所により 夜遅く 雷を伴い 激しく 降る\n降水確率は90%
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260504
-SUMMARY:雨 所により 夜遅く 雷を伴い 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-toyama-20260504
 DESCRIPTION:天気は雨 時々 くもり 所により 未明 雷を伴い 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20260504
