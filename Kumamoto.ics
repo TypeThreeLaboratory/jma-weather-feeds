@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 熊本
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260503
-DESCRIPTION:天気は雨 朝晩 くもり 所により 昼過ぎ から 夕方 雷を伴い 非常に 激しく 降る\n降水確率は90%
+DESCRIPTION:天気は雨 所により 昼過ぎ から 夕方 雷を伴い 非常に 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
-SUMMARY:雨 朝晩 くもり 所により 昼過ぎ から 夕方 雷を伴い 非常に 激しく 降る
+SUMMARY:雨 所により 昼過ぎ から 夕方 雷を伴い 非常に 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260504
-DESCRIPTION:天気はくもり 昼前 から 晴れ 所により 明け方 まで 雨\n降水確率は50%\n最高気温は21℃\n最低気温は14℃
+DESCRIPTION:天気はくもり 昼前 から 晴れ 所により 明け方 まで 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260505
-SUMMARY:くもり 昼前 から 晴れ 所により 明け方 まで 雨 21℃/14℃
+SUMMARY:くもり 昼前 から 晴れ 所により 明け方 まで 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260505
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は24℃\n最低気温は11℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は23℃\n最低気温は10℃
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260506
-SUMMARY:晴れ時々くもり 24℃/11℃
+SUMMARY:晴れ 時々 くもり 23℃/10℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260506
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は26℃\n最低気温は12℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は26℃\n最低気温は11℃
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
-SUMMARY:くもり時々晴 26℃/12℃
+SUMMARY:くもり時々晴 26℃/11℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260507
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は28℃\n最低気温は13℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は27℃\n最低気温は13℃
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
-SUMMARY:晴れ時々くもり 28℃/13℃
+SUMMARY:晴れ時々くもり 27℃/13℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260508
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は25℃\n最低気温は14℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は23℃\n最低気温は15℃
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
-SUMMARY:くもり 25℃/14℃
+SUMMARY:くもり 23℃/15℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260509
-DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は24℃\n最低気温は15℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は25℃\n最低気温は15℃
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
-SUMMARY:くもり一時雨 24℃/15℃
+SUMMARY:くもり 25℃/15℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-kumamoto-20260510
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は26℃\n最低気温は13℃
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:くもり時々晴 26℃/13℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
