@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 福岡
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-fukuoka-20260507
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%
+DESCRIPTION:天気は晴れ 朝 から 昼過ぎ くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
-SUMMARY:晴れ 時々 くもり
+SUMMARY:晴れ 朝 から 昼過ぎ くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukuoka-20260508
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は21℃\n最低気温は15℃
+DESCRIPTION:天気はくもり 昼過ぎ から 晴れ 所により 朝 から 昼前 雨\n降水確率は40%\n最高気温は21℃\n最低気温は15℃
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
-SUMMARY:くもり 21℃/15℃
+SUMMARY:くもり 昼過ぎ から 晴れ 所により 朝 から 昼前 雨 21℃/15℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

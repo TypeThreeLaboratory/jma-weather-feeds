@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 秋田
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20260507
-DESCRIPTION:天気は晴れ\n降水確率は0%
+DESCRIPTION:天気は晴れ 能代山本地域 では 昼前 まで 霧\n降水確率は0%
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
-SUMMARY:晴れ
+SUMMARY:晴れ 能代山本地域 では 昼前 まで 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20260508
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は80%\n最高気温は20℃\n最低気温は12℃
+DESCRIPTION:天気はくもり 昼過ぎ から 雨\n降水確率は80%\n最高気温は20℃\n最低気温は12℃
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
-SUMMARY:くもり 時々 雨 20℃/12℃
+SUMMARY:くもり 昼過ぎ から 雨 20℃/12℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
