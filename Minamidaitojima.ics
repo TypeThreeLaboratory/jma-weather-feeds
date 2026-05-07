@@ -6,39 +6,39 @@ X-WR-CALNAME:週間天気予報 南大東
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260507
-DESCRIPTION:天気はくもり 朝 一時 雨 所により 昼前 まで 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 時々 晴れ 所により 夕方 まで 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
-SUMMARY:くもり 朝 一時 雨 所により 昼前 まで 雷 を伴う
+SUMMARY:くもり 時々 晴れ 所により 夕方 まで 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260508
-DESCRIPTION:天気はくもり 朝 から 昼前 晴れ 所により 夜 雨 で 雷を伴う\n降水確率は40%\n最高気温は28℃\n最低気温は22℃
+DESCRIPTION:天気はくもり 朝 から 昼前 晴れ 所により 夜 雨 で 雷を伴う\n降水確率は30%
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
-SUMMARY:くもり 朝 から 昼前 晴れ 所により 夜 雨 で 雷を伴う 28℃/22℃
+SUMMARY:くもり 朝 から 昼前 晴れ 所により 夜 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260509
-DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は28℃\n最低気温は22℃
+DESCRIPTION:天気はくもり 一時 雨\n降水確率は60%\n最高気温は26℃\n最低気温は22℃
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
-SUMMARY:くもり一時雨 28℃/22℃
+SUMMARY:くもり 一時 雨 26℃/22℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260510
-DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は27℃\n最低気温は21℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は70%\n最高気温は26℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
-SUMMARY:くもり一時雨 27℃/21℃
+SUMMARY:くもり一時雨 26℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260511
-DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は27℃\n最低気温は20℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は27℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260512
 SUMMARY:くもり一時雨 27℃/20℃
@@ -46,18 +46,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260512
-DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は26℃\n最低気温は21℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は27℃\n最低気温は19℃
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260513
-SUMMARY:くもり一時雨 26℃/21℃
+SUMMARY:くもり一時雨 27℃/19℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260513
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は27℃\n最低気温は21℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は27℃\n最低気温は19℃
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
-SUMMARY:くもり 27℃/21℃
+SUMMARY:くもり時々晴 27℃/19℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-minamidaitojima-20260514
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は27℃\n最低気温は20℃
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:くもり 27℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

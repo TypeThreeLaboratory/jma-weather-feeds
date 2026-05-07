@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 福岡
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-fukuoka-20260507
-DESCRIPTION:天気は晴れ 朝 から 昼過ぎ くもり\n降水確率は10%
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
-SUMMARY:晴れ 朝 から 昼過ぎ くもり
+SUMMARY:晴れ 時々 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukuoka-20260508
-DESCRIPTION:天気はくもり 昼過ぎ から 晴れ 所により 朝 から 昼前 雨\n降水確率は40%\n最高気温は21℃\n最低気温は15℃
+DESCRIPTION:天気はくもり 昼過ぎ から 晴れ 所により 朝 から 昼前 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
-SUMMARY:くもり 昼過ぎ から 晴れ 所により 朝 から 昼前 雨 21℃/15℃
+SUMMARY:くもり 昼過ぎ から 晴れ 所により 朝 から 昼前 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukuoka-20260509
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は10%\n最高気温は23℃\n最低気温は13℃
+DESCRIPTION:天気は晴れ\n降水確率は10%\n最高気温は23℃\n最低気温は15℃
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
-SUMMARY:晴れ時々くもり 23℃/13℃
+SUMMARY:晴れ 23℃/15℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukuoka-20260510
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は24℃\n最低気温は13℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は25℃\n最低気温は12℃
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
-SUMMARY:晴れ時々くもり 24℃/13℃
+SUMMARY:晴れ時々くもり 25℃/12℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukuoka-20260511
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は24℃\n最低気温は14℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は24℃\n最低気温は14℃
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260512
-SUMMARY:晴れ時々くもり 24℃/14℃
+SUMMARY:くもり 24℃/14℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukuoka-20260512
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は25℃\n最低気温は15℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は24℃\n最低気温は15℃
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260513
-SUMMARY:くもり時々晴 25℃/15℃
+SUMMARY:くもり時々晴 24℃/15℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukuoka-20260513
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は26℃\n最低気温は15℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は25℃\n最低気温は15℃
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
-SUMMARY:晴れ時々くもり 26℃/15℃
+SUMMARY:晴れ時々くもり 25℃/15℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-fukuoka-20260514
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は26℃\n最低気温は15℃
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:くもり時々晴 26℃/15℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
