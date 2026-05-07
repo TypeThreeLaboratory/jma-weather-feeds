@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 室蘭
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-muroran-20260508
-DESCRIPTION:天気はくもり 夜 雨 所により 夕方 から 雷 を伴う\n降水確率は70%
+DESCRIPTION:天気はくもり 朝晩 雨 所により 夕方 から 雷 を伴う\n降水確率は80%
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
-SUMMARY:くもり 夜 雨 所により 夕方 から 雷 を伴う
+SUMMARY:くもり 朝晩 雨 所により 夕方 から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-muroran-20260509
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は60%\n最高気温は12℃\n最低気温は8℃
+DESCRIPTION:天気はくもり 未明 雨 所により 昼前 まで 雷 を伴う\n降水確率は60%\n最高気温は12℃\n最低気温は8℃
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
-SUMMARY:くもり 一時 雨 12℃/8℃
+SUMMARY:くもり 未明 雨 所により 昼前 まで 雷 を伴う 12℃/8℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
