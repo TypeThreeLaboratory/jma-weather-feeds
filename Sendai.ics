@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 仙台
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-sendai-20260508
-DESCRIPTION:天気は晴れ 後 くもり 夕方 から 雨 所により 昼過ぎ から 雷 を伴う\n降水確率は60%
+DESCRIPTION:天気は雨 夜遅く くもり 所により 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
-SUMMARY:晴れ 後 くもり 夕方 から 雨 所により 昼過ぎ から 雷 を伴う
+SUMMARY:雨 夜遅く くもり 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -22,10 +22,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sendai-20260510
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は23℃\n最低気温は11℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は24℃\n最低気温は12℃
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
-SUMMARY:晴れ 時々 くもり 23℃/11℃
+SUMMARY:晴れ 時々 くもり 24℃/12℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
