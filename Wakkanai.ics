@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 稚内
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260513
-DESCRIPTION:天気はくもり 後 晴れ 明け方 から 朝 雨\n降水確率は50%
+DESCRIPTION:天気は雨 昼前 から くもり 後 晴れ\n降水確率は50%
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
-SUMMARY:くもり 後 晴れ 明け方 から 朝 雨
+SUMMARY:雨 昼前 から くもり 後 晴れ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260514
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は9℃\n最低気温は4℃
+DESCRIPTION:天気はくもり 昼前 から 晴れ\n降水確率は10%\n最高気温は9℃\n最低気温は4℃
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-SUMMARY:晴れ 時々 くもり 9℃/4℃
+SUMMARY:くもり 昼前 から 晴れ 9℃/4℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
