@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 甲府
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kofu-20260514
-DESCRIPTION:天気はくもり 時々 晴れ 昼過ぎ 一時 雨 所により 昼過ぎ から 夜のはじめ頃 雷を伴い 激しく 降る\n降水確率は50%
+DESCRIPTION:天気はくもり 昼過ぎ 一時 雨 所により 昼過ぎ から 夜のはじめ頃 雷を伴い 激しく 降る\n降水確率は50%
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
-SUMMARY:くもり 時々 晴れ 昼過ぎ 一時 雨 所により 昼過ぎ から 夜のはじめ頃 雷を伴い 激しく 降る
+SUMMARY:くもり 昼過ぎ 一時 雨 所により 昼過ぎ から 夜のはじめ頃 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kofu-20260515
-DESCRIPTION:天気は晴れ 明け方 まで くもり\n降水確率は20%\n最高気温は28℃\n最低気温は16℃
+DESCRIPTION:天気は晴れ 明け方 まで くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-SUMMARY:晴れ 明け方 まで くもり 28℃/16℃
+SUMMARY:晴れ 明け方 まで くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kofu-20260516
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は10%\n最高気温は30℃\n最低気温は16℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は30℃\n最低気温は16℃
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-SUMMARY:晴れ時々くもり 30℃/16℃
+SUMMARY:晴れ 時々 くもり 30℃/16℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kofu-20260517
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は10%\n最高気温は32℃\n最低気温は16℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は30℃\n最低気温は16℃
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-SUMMARY:晴れ時々くもり 32℃/16℃
+SUMMARY:晴れ時々くもり 30℃/16℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kofu-20260518
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は30℃\n最低気温は15℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は30℃\n最低気温は16℃
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260519
-SUMMARY:晴れ時々くもり 30℃/15℃
+SUMMARY:晴れ時々くもり 30℃/16℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kofu-20260519
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は29℃\n最低気温は17℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は30℃\n最低気温は17℃
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260520
-SUMMARY:晴れ時々くもり 29℃/17℃
+SUMMARY:晴れ時々くもり 30℃/17℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kofu-20260520
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は30℃\n最低気温は19℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は29℃\n最低気温は18℃
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260521
-SUMMARY:くもり時々晴 30℃/19℃
+SUMMARY:くもり時々晴 29℃/18℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-kofu-20260521
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は27℃\n最低気温は19℃
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:くもり 27℃/19℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
