@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 横浜
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-yokohama-20260520
-DESCRIPTION:天気は晴れ 後 くもり 夜遅く 雨\n降水確率は50%
+DESCRIPTION:天気はくもり 時々 晴れ 夜遅く 雨\n降水確率は50%
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260521
-SUMMARY:晴れ 後 くもり 夜遅く 雨
+SUMMARY:くもり 時々 晴れ 夜遅く 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-yokohama-20260521
-DESCRIPTION:天気は雨\n降水確率は80%\n最高気温は21℃\n最低気温は16℃
+DESCRIPTION:天気は雨 所により 雷 を伴う\n降水確率は80%\n最高気温は21℃\n最低気温は16℃
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
-SUMMARY:雨 21℃/16℃
+SUMMARY:雨 所により 雷 を伴う 21℃/16℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
