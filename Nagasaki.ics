@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 長崎
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-nagasaki-20260520
-DESCRIPTION:天気は晴れ 後 くもり 夜 雨 所により 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 夜 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260521
-SUMMARY:晴れ 後 くもり 夜 雨 所により 雷 を伴う
+SUMMARY:くもり 夜 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
