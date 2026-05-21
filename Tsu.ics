@@ -6,26 +6,26 @@ X-WR-CALNAME:週間天気予報 津
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-tsu-20260521
-DESCRIPTION:天気は雨 時々 くもり 所により 雷 を伴う\n降水確率は60%
+DESCRIPTION:天気は雨 所により 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
-SUMMARY:雨 時々 くもり 所により 雷 を伴う
+SUMMARY:雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tsu-20260522
-DESCRIPTION:天気はくもり 所により 朝晩 雨\n降水確率は30%
+DESCRIPTION:天気はくもり 朝 晴れ 所により 朝晩 雨 で 雷を伴う\n降水確率は30%
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-SUMMARY:くもり 所により 朝晩 雨
+SUMMARY:くもり 朝 晴れ 所により 朝晩 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tsu-20260523
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は70%\n最高気温は21℃\n最低気温は18℃
+DESCRIPTION:天気はくもり 一時 雨\n降水確率は70%\n最高気温は20℃\n最低気温は17℃
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-SUMMARY:くもり 一時 雨 21℃/18℃
+SUMMARY:くもり 一時 雨 20℃/17℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

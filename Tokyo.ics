@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 東京
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-tokyo-20260521
-DESCRIPTION:天気は雨 夕方 から 夜のはじめ頃 くもり 所により 夕方 まで 雷 を伴う\n降水確率は70%
+DESCRIPTION:天気は雨 夜のはじめ頃 くもり\n降水確率は50%
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
-SUMMARY:雨 夕方 から 夜のはじめ頃 くもり 所により 夕方 まで 雷 を伴う
+SUMMARY:雨 夜のはじめ頃 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
