@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-niigata-20260524
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は24℃\n最低気温は16℃
+DESCRIPTION:天気はくもり 所により 明け方 から 昼前 雨\n降水確率は50%\n最高気温は24℃\n最低気温は16℃
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-SUMMARY:くもり 一時 雨 24℃/16℃
+SUMMARY:くもり 所により 明け方 から 昼前 雨 24℃/16℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

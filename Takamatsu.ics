@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-takamatsu-20260524
-DESCRIPTION:天気はくもり 後 時々 晴れ\n降水確率は30%\n最高気温は29℃\n最低気温は20℃
+DESCRIPTION:天気はくもり 昼過ぎ から 時々 晴れ\n降水確率は30%\n最高気温は29℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-SUMMARY:くもり 後 時々 晴れ 29℃/20℃
+SUMMARY:くもり 昼過ぎ から 時々 晴れ 29℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
