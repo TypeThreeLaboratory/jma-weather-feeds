@@ -6,26 +6,26 @@ X-WR-CALNAME:週間天気予報 那覇
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-naha-20260522
-DESCRIPTION:天気は雨 所により 昼過ぎ から 夜のはじめ頃 雷を伴い 激しく 降る\n降水確率は80%
+DESCRIPTION:天気は雨 所により 夜遅く 雷を伴い 激しく 降る\n降水確率は70%
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
-SUMMARY:雨 所により 昼過ぎ から 夜のはじめ頃 雷を伴い 激しく 降る
+SUMMARY:雨 所により 夜遅く 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-naha-20260523
-DESCRIPTION:天気は雨 朝晩 くもり 所により 朝 から 昼過ぎ 雷を伴い 激しく 降る\n降水確率は80%
+DESCRIPTION:天気は雨 夜 くもり 所により 明け方 まで 雷を伴い 激しく 降る\n降水確率は80%
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-SUMMARY:雨 朝晩 くもり 所により 朝 から 昼過ぎ 雷を伴い 激しく 降る
+SUMMARY:雨 夜 くもり 所により 明け方 まで 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-naha-20260524
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は29℃\n最低気温は24℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は29℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-SUMMARY:くもり 29℃/24℃
+SUMMARY:くもり 29℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
