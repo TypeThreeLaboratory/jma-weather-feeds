@@ -5,14 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 那覇
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-naha-20260523
-DESCRIPTION:天気は雨 所により 夜のはじめ頃 雷を伴い 激しく 降る\n降水確率は60%
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-SUMMARY:雨 所により 夜のはじめ頃 雷を伴い 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-naha-20260524
 DESCRIPTION:天気はくもり 明け方 から 朝 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260524
