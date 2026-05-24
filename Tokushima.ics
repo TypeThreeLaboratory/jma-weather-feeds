@@ -5,14 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 徳島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-tokushima-20260524
-DESCRIPTION:天気は晴れ 夜のはじめ頃 くもり 所により 夜のはじめ頃 まで 雨\n降水確率は10%
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-SUMMARY:晴れ 夜のはじめ頃 くもり 所により 夜のはじめ頃 まで 雨
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20260525
 DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260525
