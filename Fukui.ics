@@ -30,18 +30,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260527
-DESCRIPTION:天気はくもり 昼過ぎ まで 時々 晴れ 所により 夜遅く 雨\n降水確率は30%
+DESCRIPTION:天気はくもり 時々 晴れ 夜遅く 雨\n降水確率は50%
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
-SUMMARY:くもり 昼過ぎ まで 時々 晴れ 所により 夜遅く 雨
+SUMMARY:くもり 時々 晴れ 夜遅く 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260528
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は70%\n最高気温は27℃\n最低気温は21℃
+DESCRIPTION:天気はくもり 時々 雨\n降水確率は80%\n最高気温は29℃\n最低気温は21℃
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
-SUMMARY:くもり 時々 雨 27℃/21℃
+SUMMARY:くもり 時々 雨 29℃/21℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
