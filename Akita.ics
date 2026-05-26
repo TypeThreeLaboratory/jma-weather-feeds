@@ -30,10 +30,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20260528
-DESCRIPTION:天気はくもり 後 雨\n降水確率は80%\n最高気温は27℃\n最低気温は19℃
+DESCRIPTION:天気はくもり 夕方 から 雨 所により 昼過ぎ から 夜のはじめ頃 雷 を伴う\n降水確率は80%\n最高気温は27℃\n最低気温は19℃
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
-SUMMARY:くもり 後 雨 27℃/19℃
+SUMMARY:くもり 夕方 から 雨 所により 昼過ぎ から 夜のはじめ頃 雷 を伴う 27℃/19℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
