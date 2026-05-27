@@ -30,18 +30,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20260528
-DESCRIPTION:天気はくもり 夕方 から 雨 所により 昼過ぎ から 夜のはじめ頃 雷 を伴う\n降水確率は80%
+DESCRIPTION:天気はくもり 昼過ぎ から 雨 所により 昼過ぎ から 夜のはじめ頃 雷 を伴う\n降水確率は90%
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
-SUMMARY:くもり 夕方 から 雨 所により 昼過ぎ から 夜のはじめ頃 雷 を伴う
+SUMMARY:くもり 昼過ぎ から 雨 所により 昼過ぎ から 夜のはじめ頃 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20260529
-DESCRIPTION:天気は雨 後 くもり\n降水確率は80%\n最高気温は21℃\n最低気温は14℃
+DESCRIPTION:天気はくもり 後 晴れ 明け方 まで 雨\n降水確率は80%\n最高気温は21℃\n最低気温は14℃
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
-SUMMARY:雨 後 くもり 21℃/14℃
+SUMMARY:くもり 後 晴れ 明け方 まで 雨 21℃/14℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
