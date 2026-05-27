@@ -30,15 +30,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-morioka-20260527
-DESCRIPTION:天気は晴れ 夕方 から くもり 所により 夜遅く 雨\n降水確率は20%
+DESCRIPTION:天気は晴れ 夜 くもり 所により 霧\n降水確率は10%
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
-SUMMARY:晴れ 夕方 から くもり 所により 夜遅く 雨
+SUMMARY:晴れ 夜 くもり 所により 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-morioka-20260528
-DESCRIPTION:天気はくもり 夕方 から 雨 所により 昼過ぎ から 夜のはじめ頃 雷 を伴う\n降水確率は70%
+DESCRIPTION:天気はくもり 夕方 から 雨 所により 昼過ぎ から 夜のはじめ頃 雷 を伴う\n降水確率は80%
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
 SUMMARY:くもり 夕方 から 雨 所により 昼過ぎ から 夜のはじめ頃 雷 を伴う
@@ -46,10 +46,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-morioka-20260529
-DESCRIPTION:天気は晴れ 一時 雨\n降水確率は50%\n最高気温は20℃\n最低気温は13℃
+DESCRIPTION:天気は晴れ 一時 雨\n降水確率は50%\n最高気温は21℃\n最低気温は12℃
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
-SUMMARY:晴れ 一時 雨 20℃/13℃
+SUMMARY:晴れ 一時 雨 21℃/12℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
