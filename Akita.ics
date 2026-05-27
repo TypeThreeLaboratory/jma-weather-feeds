@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 秋田
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20260601
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は28℃\n最低気温は14℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は27℃\n最低気温は14℃
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
-SUMMARY:晴れ時々くもり 28℃/14℃
+SUMMARY:晴れ時々くもり 27℃/14℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20260602
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は27℃\n最低気温は15℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は26℃\n最低気温は16℃
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
-SUMMARY:くもり時々晴 27℃/15℃
+SUMMARY:くもり時々晴 26℃/16℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-akita-20260603
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は25℃\n最低気温は16℃
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:くもり 25℃/16℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20260527
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は10%
+DESCRIPTION:天気は晴れ 夜 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
-SUMMARY:くもり 時々 晴れ
+SUMMARY:晴れ 夜 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20260528
-DESCRIPTION:天気はくもり 夕方 から 雨 所により 昼過ぎ から 夜のはじめ頃 雷 を伴う\n降水確率は80%\n最高気温は27℃\n最低気温は19℃
+DESCRIPTION:天気はくもり 夕方 から 雨 所により 昼過ぎ から 夜のはじめ頃 雷 を伴う\n降水確率は80%
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
-SUMMARY:くもり 夕方 から 雨 所により 昼過ぎ から 夜のはじめ頃 雷 を伴う 27℃/19℃
+SUMMARY:くもり 夕方 から 雨 所により 昼過ぎ から 夜のはじめ頃 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20260529
-DESCRIPTION:天気はくもり時々雨\n降水確率は80%\n最高気温は21℃\n最低気温は15℃
+DESCRIPTION:天気は雨 後 くもり\n降水確率は80%\n最高気温は20℃\n最低気温は15℃
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
-SUMMARY:くもり時々雨 21℃/15℃
+SUMMARY:雨 後 くもり 20℃/15℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20260530
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は21℃\n最低気温は15℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は22℃\n最低気温は15℃
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
-SUMMARY:くもり 21℃/15℃
+SUMMARY:くもり 22℃/15℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20260531
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は25℃\n最低気温は15℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は26℃\n最低気温は14℃
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-SUMMARY:晴れ時々くもり 25℃/15℃
+SUMMARY:晴れ時々くもり 26℃/14℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
