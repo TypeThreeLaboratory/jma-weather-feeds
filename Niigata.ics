@@ -38,18 +38,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-niigata-20260529
-DESCRIPTION:天気はくもり 後 晴れ 明け方 まで 雨\n降水確率は90%
+DESCRIPTION:天気は雨 昼前 から くもり 後 晴れ\n降水確率は50%
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
-SUMMARY:くもり 後 晴れ 明け方 まで 雨
+SUMMARY:雨 昼前 から くもり 後 晴れ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-niigata-20260530
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は27℃\n最低気温は17℃
+DESCRIPTION:天気は晴れ 昼過ぎ から 時々 くもり\n降水確率は10%\n最高気温は27℃\n最低気温は17℃
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
-SUMMARY:晴れ 時々 くもり 27℃/17℃
+SUMMARY:晴れ 昼過ぎ から 時々 くもり 27℃/17℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
