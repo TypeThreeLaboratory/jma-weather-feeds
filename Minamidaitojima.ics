@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 南大東
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260601
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は80%\n最高気温は29℃\n最低気温は27℃
+DESCRIPTION:天気はくもり 昼前 から 雨 所により 雷 を伴う\n降水確率は80%\n最高気温は29℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
-SUMMARY:くもり 時々 雨 29℃/27℃
+SUMMARY:くもり 昼前 から 雨 所により 雷 を伴う 29℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -54,10 +54,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260531
-DESCRIPTION:天気はくもり 所により 雨 で 雷を伴う\n降水確率は30%
+DESCRIPTION:天気はくもり 昼過ぎ まで 時々 晴れ 所により 夕方 から 雨 で 雷を伴う\n降水確率は10%
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-SUMMARY:くもり 所により 雨 で 雷を伴う
+SUMMARY:くもり 昼過ぎ まで 時々 晴れ 所により 夕方 から 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
