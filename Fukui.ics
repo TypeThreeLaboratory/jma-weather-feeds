@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 福井
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260601
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は33℃\n最低気温は16℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は32℃\n最低気温は16℃
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
-SUMMARY:晴れ 時々 くもり 33℃/16℃
+SUMMARY:晴れ 時々 くもり 32℃/16℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

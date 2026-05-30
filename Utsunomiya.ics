@@ -62,10 +62,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-utsunomiya-20260531
-DESCRIPTION:天気は晴れ 朝 から 昼前 くもり\n降水確率は0%
+DESCRIPTION:天気は晴れ 時々 くもり 所により 夕方 から 夜のはじめ頃 雨\n降水確率は10%
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-SUMMARY:晴れ 朝 から 昼前 くもり
+SUMMARY:晴れ 時々 くもり 所により 夕方 から 夜のはじめ頃 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

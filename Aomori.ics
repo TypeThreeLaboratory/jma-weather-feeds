@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 青森
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-aomori-20260601
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は28℃\n最低気温は14℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は28℃\n最低気温は12℃
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
-SUMMARY:晴れ 時々 くもり 28℃/14℃
+SUMMARY:晴れ 時々 くもり 28℃/12℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -54,10 +54,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-aomori-20260530
-DESCRIPTION:天気は雨 昼過ぎ から くもり 後 晴れ 所により 昼過ぎ まで 雷 を伴う\n降水確率は30%
+DESCRIPTION:天気は晴れ\n降水確率は0%
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
-SUMMARY:雨 昼過ぎ から くもり 後 晴れ 所により 昼過ぎ まで 雷 を伴う
+SUMMARY:晴れ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
