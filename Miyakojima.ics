@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 宮古島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20260601
-DESCRIPTION:天気は雨 夜 くもり 所により 朝 から 昼過ぎ 雷を伴い 激しく 降る\n降水確率は70%
+DESCRIPTION:天気は雨 夕方 から くもり 宮古島 では 明け方 から 昼前 雷を伴い 激しく 降る\n降水確率は70%
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
-SUMMARY:雨 夜 くもり 所により 朝 から 昼過ぎ 雷を伴い 激しく 降る
+SUMMARY:雨 夕方 から くもり 宮古島 では 明け方 から 昼前 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -62,10 +62,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20260531
-DESCRIPTION:天気はくもり 所により 昼過ぎ から 雨 で 雷を伴う\n降水確率は30%
+DESCRIPTION:天気はくもり 所により 夜 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-SUMMARY:くもり 所により 昼過ぎ から 雨 で 雷を伴う
+SUMMARY:くもり 所により 夜 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

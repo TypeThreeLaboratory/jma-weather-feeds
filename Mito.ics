@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 水戸
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-mito-20260601
-DESCRIPTION:天気は晴れ 昼過ぎ から 時々 くもり\n降水確率は0%
+DESCRIPTION:天気は晴れ 昼過ぎ から 時々 くもり 所により 昼前 まで 霧\n降水確率は0%
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
-SUMMARY:晴れ 昼過ぎ から 時々 くもり
+SUMMARY:晴れ 昼過ぎ から 時々 くもり 所により 昼前 まで 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -62,10 +62,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-mito-20260531
-DESCRIPTION:天気は晴れ 時々 くもり 所により 夕方 から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は20%
+DESCRIPTION:天気は晴れ 夜のはじめ頃 くもり 所により 夜のはじめ頃 まで 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-SUMMARY:晴れ 時々 くもり 所により 夕方 から 夜のはじめ頃 雨 で 雷を伴う
+SUMMARY:晴れ 夜のはじめ頃 くもり 所により 夜のはじめ頃 まで 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
