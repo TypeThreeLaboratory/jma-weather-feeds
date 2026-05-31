@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 秋田
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20260601
-DESCRIPTION:天気は晴れ 夜 くもり\n降水確率は0%
+DESCRIPTION:天気は晴れ 夜 くもり 海上 では 昼前 まで 霧\n降水確率は0%
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
-SUMMARY:晴れ 夜 くもり
+SUMMARY:晴れ 夜 くもり 海上 では 昼前 まで 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20260602
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は20%\n最高気温は27℃\n最低気温は16℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は27℃\n最低気温は16℃
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
-SUMMARY:くもり 時々 晴れ 27℃/16℃
+SUMMARY:晴れ 時々 くもり 27℃/16℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

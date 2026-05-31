@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 長崎
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-nagasaki-20260601
-DESCRIPTION:天気は晴れ 後 くもり 昼過ぎ から 雨 所により 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気は晴れ 後 くもり 夕方 から 雨 所により 昼過ぎ から 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
-SUMMARY:晴れ 後 くもり 昼過ぎ から 雨 所により 雷 を伴う
+SUMMARY:晴れ 後 くもり 夕方 から 雨 所により 昼過ぎ から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagasaki-20260602
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は60%\n最高気温は27℃\n最低気温は22℃
+DESCRIPTION:天気はくもり 昼過ぎ まで 時々 雨 所により 昼前 まで 雷 を伴う\n降水確率は60%\n最高気温は27℃\n最低気温は22℃
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
-SUMMARY:くもり 時々 雨 27℃/22℃
+SUMMARY:くもり 昼過ぎ まで 時々 雨 所により 昼前 まで 雷 を伴う 27℃/22℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

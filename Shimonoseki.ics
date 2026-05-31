@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 下関
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-shimonoseki-20260601
-DESCRIPTION:天気は晴れ 後 くもり 夜 雨 所により 昼過ぎ から 雷 を伴う\n降水確率は70%
+DESCRIPTION:天気は晴れ 後 くもり 夜 雨 所により 昼過ぎ から 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
 SUMMARY:晴れ 後 くもり 夜 雨 所により 昼過ぎ から 雷 を伴う
@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-shimonoseki-20260602
-DESCRIPTION:天気は雨 時々 くもり\n降水確率は80%\n最高気温は26℃\n最低気温は22℃
+DESCRIPTION:天気は雨 夕方 から くもり 所により 夕方 まで 雷 を伴う\n降水確率は80%\n最高気温は26℃\n最低気温は22℃
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
-SUMMARY:雨 時々 くもり 26℃/22℃
+SUMMARY:雨 夕方 から くもり 所により 夕方 まで 雷 を伴う 26℃/22℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
