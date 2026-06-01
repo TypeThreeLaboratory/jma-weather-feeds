@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 稚内
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260601
-DESCRIPTION:天気は晴れ 時々 くもり 利尻・礼文 では 夜のはじめ頃 まで 霧\n降水確率は10%
+DESCRIPTION:天気は晴れ 夜のはじめ頃 くもり 利尻・礼文 では 夜のはじめ頃 まで 霧\n降水確率は0%
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
-SUMMARY:晴れ 時々 くもり 利尻・礼文 では 夜のはじめ頃 まで 霧
+SUMMARY:晴れ 夜のはじめ頃 くもり 利尻・礼文 では 夜のはじめ頃 まで 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260602
-DESCRIPTION:天気はくもり 朝 から 昼過ぎ 晴れ\n降水確率は10%
+DESCRIPTION:天気はくもり 朝 から 昼過ぎ 晴れ 所により 明け方 から 霧\n降水確率は10%
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
-SUMMARY:くもり 朝 から 昼過ぎ 晴れ
+SUMMARY:くもり 朝 から 昼過ぎ 晴れ 所により 明け方 から 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
