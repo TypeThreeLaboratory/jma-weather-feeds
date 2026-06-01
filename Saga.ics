@@ -5,27 +5,19 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 佐賀
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-saga-20260601
-DESCRIPTION:天気はくもり 夜のはじめ頃 雨 所により 雷 を伴う\n降水確率は70%
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260602
-SUMMARY:くもり 夜のはじめ頃 雨 所により 雷 を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-saga-20260602
-DESCRIPTION:天気はくもり 昼過ぎ まで 時々 雨 所により 夕方 まで 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 昼過ぎ から 夕方 雨 所により 夕方 まで 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
-SUMMARY:くもり 昼過ぎ まで 時々 雨 所により 夕方 まで 雷 を伴う
+SUMMARY:くもり 昼過ぎ から 夕方 雨 所により 夕方 まで 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-saga-20260603
-DESCRIPTION:天気はくもり\n降水確率は30%\n最高気温は28℃\n最低気温は23℃
+DESCRIPTION:天気はくもり 昼過ぎ から 晴れ 所により 明け方 まで 雨\n降水確率は30%\n最高気温は28℃\n最低気温は23℃
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-SUMMARY:くもり 28℃/23℃
+SUMMARY:くもり 昼過ぎ から 晴れ 所により 明け方 まで 雨 28℃/23℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

@@ -5,27 +5,19 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 熊本
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-kumamoto-20260601
-DESCRIPTION:天気は雨 夜のはじめ頃 くもり 所により 雷 を伴う\n降水確率は50%
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260602
-SUMMARY:雨 夜のはじめ頃 くもり 所により 雷 を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260602
-DESCRIPTION:天気は雨 所により 昼前 から 夕方 雷を伴い 激しく 降る\n降水確率は60%
+DESCRIPTION:天気は雨 朝晩 くもり 所により 昼前 から 夕方 雷を伴い 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
-SUMMARY:雨 所により 昼前 から 夕方 雷を伴い 激しく 降る
+SUMMARY:雨 朝晩 くもり 所により 昼前 から 夕方 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260603
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は20%\n最高気温は27℃\n最低気温は23℃
+DESCRIPTION:天気はくもり 夕方 から 晴れ 所により 明け方 まで 雨\n降水確率は20%\n最高気温は27℃\n最低気温は23℃
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-SUMMARY:くもり 時々 晴れ 27℃/23℃
+SUMMARY:くもり 夕方 から 晴れ 所により 明け方 まで 雨 27℃/23℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
