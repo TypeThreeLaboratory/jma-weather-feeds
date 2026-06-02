@@ -5,27 +5,19 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 銚子
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-choshi-20260602
-DESCRIPTION:天気はくもり 夜 雨\n降水確率は70%
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260603
-SUMMARY:くもり 夜 雨
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-choshi-20260603
-DESCRIPTION:天気は雨 所により 朝 から 昼過ぎ 雷を伴い 非常に 激しく 降る\n降水確率は100%
+DESCRIPTION:天気は雨 夜 くもり 所により 朝 から 昼過ぎ 雷を伴い 非常に 激しく 降る\n降水確率は100%
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-SUMMARY:雨 所により 朝 から 昼過ぎ 雷を伴い 非常に 激しく 降る
+SUMMARY:雨 夜 くもり 所により 朝 から 昼過ぎ 雷を伴い 非常に 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-choshi-20260604
-DESCRIPTION:天気はくもり\n降水確率は30%\n最高気温は21℃\n最低気温は17℃
+DESCRIPTION:天気はくもり 昼過ぎ から 時々 晴れ\n降水確率は30%\n最高気温は21℃\n最低気温は17℃
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
-SUMMARY:くもり 21℃/17℃
+SUMMARY:くもり 昼過ぎ から 時々 晴れ 21℃/17℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

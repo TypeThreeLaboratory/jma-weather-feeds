@@ -5,19 +5,11 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 長野
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-nagano-20260602
-DESCRIPTION:天気は雨\n降水確率は60%
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260603
-SUMMARY:雨
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-nagano-20260603
-DESCRIPTION:天気は雨 夕方 から くもり 所により 明け方 から 朝 激しく 降る\n降水確率は90%
+DESCRIPTION:天気は雨 昼過ぎ から くもり 所により 朝 まで 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-SUMMARY:雨 夕方 から くもり 所により 明け方 から 朝 激しく 降る
+SUMMARY:雨 昼過ぎ から くもり 所により 朝 まで 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

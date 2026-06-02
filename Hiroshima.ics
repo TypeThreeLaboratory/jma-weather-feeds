@@ -5,19 +5,11 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 広島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-hiroshima-20260602
-DESCRIPTION:天気は雨 福山・尾三 では 激しく 降る\n降水確率は100%
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260603
-SUMMARY:雨 福山・尾三 では 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-hiroshima-20260603
-DESCRIPTION:天気はくもり 昼過ぎ から 晴れ 所により 未明 雨\n降水確率は30%
+DESCRIPTION:天気はくもり 昼過ぎ から 晴れ 福山・尾三 では 未明 雨 で 激しく 降る\n降水確率は40%
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-SUMMARY:くもり 昼過ぎ から 晴れ 所により 未明 雨
+SUMMARY:くもり 昼過ぎ から 晴れ 福山・尾三 では 未明 雨 で 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
