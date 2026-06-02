@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 岡山
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-okayama-20260603
-DESCRIPTION:天気はくもり 後 晴れ 未明 雨 所により 明け方 まで 激しく 降る\n降水確率は80%
+DESCRIPTION:天気はくもり 夕方 から 晴れ 所により 明け方 雨 で 激しく 降る\n降水確率は10%
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-SUMMARY:くもり 後 晴れ 未明 雨 所により 明け方 まで 激しく 降る
+SUMMARY:くもり 夕方 から 晴れ 所により 明け方 雨 で 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-okayama-20260604
-DESCRIPTION:天気はくもり\n降水確率は30%\n最高気温は27℃\n最低気温は19℃
+DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 夜遅く 雨\n降水確率は30%\n最高気温は27℃\n最低気温は19℃
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
-SUMMARY:くもり 27℃/19℃
+SUMMARY:晴れ 昼過ぎ から くもり 所により 夜遅く 雨 27℃/19℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
