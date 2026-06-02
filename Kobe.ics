@@ -6,23 +6,23 @@ X-WR-CALNAME:週間天気予報 神戸
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kobe-20260602
-DESCRIPTION:天気は雨 所により 夕方 から 雷を伴い 激しく 降る\n降水確率は80%
+DESCRIPTION:天気は雨 淡路島 では 夜遅く 雷を伴い 非常に 激しく 降る\n降水確率は80%
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
-SUMMARY:雨 所により 夕方 から 雷を伴い 激しく 降る
+SUMMARY:雨 淡路島 では 夜遅く 雷を伴い 非常に 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kobe-20260603
-DESCRIPTION:天気はくもり 明け方 まで 雨 所により 雷を伴い 激しく 降る\n降水確率は70%\n最高気温は28℃\n最低気温は21℃
+DESCRIPTION:天気は雨 昼前 から くもり 淡路島 では 明け方 まで 雷を伴い 非常に 激しく 降る\n降水確率は70%
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-SUMMARY:くもり 明け方 まで 雨 所により 雷を伴い 激しく 降る 28℃/21℃
+SUMMARY:雨 昼前 から くもり 淡路島 では 明け方 まで 雷を伴い 非常に 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kobe-20260604
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は27℃\n最低気温は21℃
+DESCRIPTION:天気はくもり\n降水確率は20%\n最高気温は27℃\n最低気温は21℃
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
 SUMMARY:くもり 27℃/21℃
@@ -30,34 +30,42 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kobe-20260605
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は27℃\n最低気温は21℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は27℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
-SUMMARY:くもり時々晴 27℃/21℃
+SUMMARY:くもり 27℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kobe-20260606
-DESCRIPTION:天気はくもり\n降水確率は30%\n最高気温は27℃\n最低気温は21℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は27℃\n最低気温は21℃
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
-SUMMARY:くもり 27℃/21℃
+SUMMARY:くもり時々晴 27℃/21℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kobe-20260607
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は27℃\n最低気温は21℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は27℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
-SUMMARY:くもり 27℃/21℃
+SUMMARY:くもり 27℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kobe-20260608
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は27℃\n最低気温は20℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は26℃\n最低気温は21℃
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260609
-SUMMARY:くもり 27℃/20℃
+SUMMARY:くもり 26℃/21℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-kobe-20260609
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は27℃\n最低気温は20℃
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:くもり時々晴 27℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
