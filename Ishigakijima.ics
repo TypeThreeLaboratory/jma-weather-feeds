@@ -5,27 +5,19 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 石垣島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-ishigakijima-20260603
-DESCRIPTION:天気は晴れ\n降水確率は10%
-DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260604
-SUMMARY:晴れ
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260604
-DESCRIPTION:天気は晴れ 朝晩 くもり 所により 夜遅く 雨\n降水確率は20%
+DESCRIPTION:天気は晴れ 朝晩 くもり 所により 夜遅く 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
-SUMMARY:晴れ 朝晩 くもり 所により 夜遅く 雨
+SUMMARY:晴れ 朝晩 くもり 所により 夜遅く 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260605
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は70%\n最高気温は31℃\n最低気温は28℃
+DESCRIPTION:天気はくもり 昼過ぎ から 雨 所により 夜 雷を伴い 激しく 降る\n降水確率は70%\n最高気温は31℃\n最低気温は28℃
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
-SUMMARY:くもり 時々 雨 31℃/28℃
+SUMMARY:くもり 昼過ぎ から 雨 所により 夜 雷を伴い 激しく 降る 31℃/28℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
