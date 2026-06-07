@@ -6,15 +6,15 @@ X-WR-CALNAME:週間天気予報 富山
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-toyama-20260607
-DESCRIPTION:天気はくもり 昼過ぎ から 夕方 雨\n降水確率は50%
+DESCRIPTION:天気はくもり 所により 夜のはじめ頃 まで 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
-SUMMARY:くもり 昼過ぎ から 夕方 雨
+SUMMARY:くもり 所により 夜のはじめ頃 まで 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-toyama-20260608
-DESCRIPTION:天気はくもり 夕方 から 雨\n降水確率は60%
+DESCRIPTION:天気はくもり 夕方 から 雨\n降水確率は70%
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260609
 SUMMARY:くもり 夕方 から 雨
@@ -22,10 +22,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-toyama-20260609
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は26℃\n最低気温は19℃
+DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は25℃\n最低気温は19℃
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
-SUMMARY:くもり 一時 雨 26℃/19℃
+SUMMARY:くもり 一時 雨 25℃/19℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
