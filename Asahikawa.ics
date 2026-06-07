@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 旭川
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20260608
-DESCRIPTION:天気はくもり 昼前 から 雨 所により 夜遅く 激しく 降る\n降水確率は70%
+DESCRIPTION:天気は雨 所により 夜遅く 激しく 降る\n降水確率は80%
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260609
-SUMMARY:くもり 昼前 から 雨 所により 夜遅く 激しく 降る
+SUMMARY:雨 所により 夜遅く 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20260609
-DESCRIPTION:天気は雨\n降水確率は90%\n最高気温は18℃\n最低気温は10℃
+DESCRIPTION:天気は雨 所により 明け方 まで 激しく 降る\n降水確率は90%\n最高気温は18℃\n最低気温は10℃
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
-SUMMARY:雨 18℃/10℃
+SUMMARY:雨 所により 明け方 まで 激しく 降る 18℃/10℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
