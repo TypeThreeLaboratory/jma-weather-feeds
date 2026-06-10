@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 宇都宮
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-utsunomiya-20260611
-DESCRIPTION:天気はくもり 所により 夕方 から 雨\n降水確率は30%
+DESCRIPTION:天気は晴れ 後 くもり 夜 雨 所により 昼過ぎ から 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
-SUMMARY:くもり 所により 夕方 から 雨
+SUMMARY:晴れ 後 くもり 夜 雨 所により 昼過ぎ から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-utsunomiya-20260612
-DESCRIPTION:天気はくもり 後 一時 雨\n降水確率は50%\n最高気温は25℃\n最低気温は17℃
+DESCRIPTION:天気はくもり 夜のはじめ頃 一時 雨 所により 雷 を伴う\n降水確率は50%\n最高気温は25℃\n最低気温は17℃
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
-SUMMARY:くもり 後 一時 雨 25℃/17℃
+SUMMARY:くもり 夜のはじめ頃 一時 雨 所により 雷 を伴う 25℃/17℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
