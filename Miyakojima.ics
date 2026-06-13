@@ -5,14 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 宮古島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-miyakojima-20260613
-DESCRIPTION:天気はくもり 夜のはじめ頃 雨 所により 雷を伴い 激しく 降る\n降水確率は50%
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260614
-SUMMARY:くもり 夜のはじめ頃 雨 所により 雷を伴い 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20260614
 DESCRIPTION:天気はくもり 朝晩 雨 所により 朝 雷を伴い 激しく 降る\n降水確率は50%
 DTSTART;VALUE=DATE:20260614
