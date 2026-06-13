@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 広島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-hiroshima-20260614
-DESCRIPTION:天気は晴れ 昼前 から くもり 所により 夜 雨\n降水確率は30%
+DESCRIPTION:天気はくもり 所により 夜 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
-SUMMARY:晴れ 昼前 から くもり 所により 夜 雨
+SUMMARY:くもり 所により 夜 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hiroshima-20260615
-DESCRIPTION:天気はくもり\n降水確率は30%\n最高気温は27℃\n最低気温は20℃
+DESCRIPTION:天気はくもり 昼過ぎ から 時々 晴れ\n降水確率は30%\n最高気温は27℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
-SUMMARY:くもり 27℃/20℃
+SUMMARY:くもり 昼過ぎ から 時々 晴れ 27℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
