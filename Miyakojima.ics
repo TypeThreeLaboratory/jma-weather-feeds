@@ -6,26 +6,26 @@ X-WR-CALNAME:週間天気予報 宮古島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20260614
-DESCRIPTION:天気はくもり 夜 雨 所により 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気は晴れ 後 くもり 夜 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
-SUMMARY:くもり 夜 雨 所により 雷 を伴う
+SUMMARY:晴れ 後 くもり 夜 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20260615
-DESCRIPTION:天気はくもり 時々 雨 所により 雷 を伴う\n降水確率は80%\n最高気温は28℃\n最低気温は25℃
+DESCRIPTION:天気はくもり 時々 雨 所により 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
-SUMMARY:くもり 時々 雨 所により 雷 を伴う 28℃/25℃
+SUMMARY:くもり 時々 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20260616
-DESCRIPTION:天気はくもり時々雨\n降水確率は70%\n最高気温は29℃\n最低気温は25℃
+DESCRIPTION:天気はくもり 時々 雨\n降水確率は70%\n最高気温は29℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
-SUMMARY:くもり時々雨 29℃/25℃
+SUMMARY:くもり 時々 雨 29℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -57,6 +57,14 @@ UID:jma-weather-ical-miyakojima-20260620
 DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は31℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
+SUMMARY:くもり時々晴 31℃/26℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-miyakojima-20260621
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は31℃\n最低気温は26℃
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
 SUMMARY:くもり時々晴 31℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
