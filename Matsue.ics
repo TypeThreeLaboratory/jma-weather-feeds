@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20260616
-DESCRIPTION:天気は晴れ 昼前 から 時々 くもり\n降水確率は0%
+DESCRIPTION:天気は晴れ 昼前 から 時々 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
 SUMMARY:晴れ 昼前 から 時々 くもり
