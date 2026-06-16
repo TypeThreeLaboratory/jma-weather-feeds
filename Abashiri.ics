@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 網走
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260616
-DESCRIPTION:天気は晴れ 夜 くもり 所により 霧\n降水確率は10%
+DESCRIPTION:天気は晴れ 夜 くもり 所により 霧\n降水確率は0%
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
 SUMMARY:晴れ 夜 くもり 所により 霧
@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260617
-DESCRIPTION:天気はくもり 昼過ぎ まで 時々 晴れ 所により 昼前 まで 霧\n降水確率は10%
+DESCRIPTION:天気はくもり 所により 昼前 まで 霧\n降水確率は10%
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
-SUMMARY:くもり 昼過ぎ まで 時々 晴れ 所により 昼前 まで 霧
+SUMMARY:くもり 所により 昼前 まで 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
