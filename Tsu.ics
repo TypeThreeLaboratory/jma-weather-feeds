@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tsu-20260618
-DESCRIPTION:天気はくもり 未明 雨 所により 昼過ぎ から 雷\n降水確率は50%
+DESCRIPTION:天気はくもり 明け方 まで 雨 所により 昼過ぎ から 雷\n降水確率は50%
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
-SUMMARY:くもり 未明 雨 所により 昼過ぎ から 雷
+SUMMARY:くもり 明け方 まで 雨 所により 昼過ぎ から 雷
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
