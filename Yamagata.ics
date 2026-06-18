@@ -6,15 +6,15 @@ X-WR-CALNAME:週間天気予報 山形
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20260618
-DESCRIPTION:天気は晴れ 後 くもり 夕方 から 雨 所により 雷を伴い 激しく 降る\n降水確率は60%
+DESCRIPTION:天気は晴れ 夜 雨 所により 雷を伴い 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
-SUMMARY:晴れ 後 くもり 夕方 から 雨 所により 雷を伴い 激しく 降る
+SUMMARY:晴れ 夜 雨 所により 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20260619
-DESCRIPTION:天気はくもり 明け方 まで 雨 所により 未明 雷を伴い 激しく 降る\n降水確率は60%
+DESCRIPTION:天気はくもり 明け方 まで 雨 所により 未明 雷を伴い 激しく 降る\n降水確率は50%
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:くもり 明け方 まで 雨 所により 未明 雷を伴い 激しく 降る
@@ -22,10 +22,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20260620
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は20%\n最高気温は25℃\n最低気温は19℃
+DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は20%\n最高気温は25℃\n最低気温は18℃
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
-SUMMARY:くもり 時々 晴れ 25℃/19℃
+SUMMARY:くもり 時々 晴れ 25℃/18℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
