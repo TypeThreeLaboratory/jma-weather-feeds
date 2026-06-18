@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hiroshima-20260620
-DESCRIPTION:天気は雨\n降水確率は90%\n最高気温は25℃\n最低気温は22℃
+DESCRIPTION:天気は雨 所により 明け方 から 夕方 雷を伴い 激しく 降る\n降水確率は90%\n最高気温は25℃\n最低気温は22℃
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
-SUMMARY:雨 25℃/22℃
+SUMMARY:雨 所により 明け方 から 夕方 雷を伴い 激しく 降る 25℃/22℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
