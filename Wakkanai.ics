@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 稚内
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260619
-DESCRIPTION:天気はくもり 朝 から 昼前 雨 所により 昼前 から 夜のはじめ頃 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 昼過ぎ 一時 雨 所により 夜のはじめ頃 まで 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
-SUMMARY:くもり 朝 から 昼前 雨 所により 昼前 から 夜のはじめ頃 雷 を伴う
+SUMMARY:くもり 昼過ぎ 一時 雨 所により 夜のはじめ頃 まで 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260620
-DESCRIPTION:天気はくもり 所により 雨\n降水確率は30%\n最高気温は17℃\n最低気温は11℃
+DESCRIPTION:天気はくもり 所により 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
-SUMMARY:くもり 所により 雨 17℃/11℃
+SUMMARY:くもり 所により 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260621
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は14℃\n最低気温は10℃
+DESCRIPTION:天気はくもり\n降水確率は20%\n最高気温は14℃\n最低気温は10℃
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-SUMMARY:くもり時々晴 14℃/10℃
+SUMMARY:くもり 14℃/10℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260622
-DESCRIPTION:天気はくもり\n降水確率は30%\n最高気温は14℃\n最低気温は9℃
+DESCRIPTION:天気はくもり\n降水確率は30%\n最高気温は15℃\n最低気温は9℃
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
-SUMMARY:くもり 14℃/9℃
+SUMMARY:くもり 15℃/9℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260623
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は15℃\n最低気温は9℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は16℃\n最低気温は9℃
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
-SUMMARY:くもり時々晴 15℃/9℃
+SUMMARY:くもり時々晴 16℃/9℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260624
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は17℃\n最低気温は10℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は18℃\n最低気温は11℃
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-SUMMARY:くもり時々晴 17℃/10℃
+SUMMARY:くもり時々晴 18℃/11℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260625
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は19℃\n最低気温は11℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は20℃\n最低気温は12℃
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-SUMMARY:くもり時々晴 19℃/11℃
+SUMMARY:くもり時々晴 20℃/12℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-wakkanai-20260626
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は21℃\n最低気温は13℃
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:くもり時々晴 21℃/13℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
