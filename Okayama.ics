@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 岡山
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-okayama-20260621
-DESCRIPTION:天気はくもり 所により 明け方 まで 雨 で 雷を伴う\n降水確率は20%
+DESCRIPTION:天気はくもり\n降水確率は20%
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-SUMMARY:くもり 所により 明け方 まで 雨 で 雷を伴う
+SUMMARY:くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

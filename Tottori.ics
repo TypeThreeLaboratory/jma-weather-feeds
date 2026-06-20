@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 鳥取
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-tottori-20260621
-DESCRIPTION:天気はくもり 時々 雨 所により 明け方 まで 雷\n降水確率は70%
+DESCRIPTION:天気はくもり 時々 雨\n降水確率は70%
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-SUMMARY:くもり 時々 雨 所により 明け方 まで 雷
+SUMMARY:くもり 時々 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
