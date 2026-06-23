@@ -6,26 +6,26 @@ X-WR-CALNAME:週間天気予報 網走
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260623
-DESCRIPTION:天気はくもり 所により 夕方 まで 雨\n降水確率は10%
+DESCRIPTION:天気は晴れ 夜 くもり 所により 霧\n降水確率は10%
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
-SUMMARY:くもり 所により 夕方 まで 雨
+SUMMARY:晴れ 夜 くもり 所により 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260624
-DESCRIPTION:天気はくもり 時々 晴れ 所により 昼前 まで 霧\n降水確率は10%
+DESCRIPTION:天気はくもり 昼前 から 時々 晴れ 所により 昼前 まで 霧\n降水確率は10%
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-SUMMARY:くもり 時々 晴れ 所により 昼前 まで 霧
+SUMMARY:くもり 昼前 から 時々 晴れ 所により 昼前 まで 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260625
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は25℃\n最低気温は12℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は26℃\n最低気温は12℃
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-SUMMARY:晴れ 時々 くもり 25℃/12℃
+SUMMARY:晴れ 時々 くもり 26℃/12℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
