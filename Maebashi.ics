@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 前橋
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-maebashi-20260624
-DESCRIPTION:天気はくもり 昼前 から 昼過ぎ 晴れ 所により 夜 雨\n降水確率は30%
+DESCRIPTION:天気はくもり 昼前 晴れ 所により 夜 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-SUMMARY:くもり 昼前 から 昼過ぎ 晴れ 所により 夜 雨
+SUMMARY:くもり 昼前 晴れ 所により 夜 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-maebashi-20260625
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は60%\n最高気温は22℃\n最低気温は19℃
+DESCRIPTION:天気は雨 朝晩 くもり\n降水確率は80%\n最高気温は22℃\n最低気温は19℃
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-SUMMARY:くもり 一時 雨 22℃/19℃
+SUMMARY:雨 朝晩 くもり 22℃/19℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
