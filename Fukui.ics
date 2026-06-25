@@ -22,26 +22,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260625
-DESCRIPTION:天気はくもり 昼過ぎ から 雨 所により 夜遅く 雷 を伴う\n降水確率は80%
+DESCRIPTION:天気は雨 所により 夜遅く 雷 を伴う\n降水確率は90%
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-SUMMARY:くもり 昼過ぎ から 雨 所により 夜遅く 雷 を伴う
+SUMMARY:雨 所により 夜遅く 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260626
-DESCRIPTION:天気は雨 昼過ぎ から 時々 くもり 所により 明け方 まで 雷を伴い 激しく 降る\n降水確率は80%
+DESCRIPTION:天気は雨 昼過ぎ から 時々 くもり 所により 朝 まで 雷を伴い 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-SUMMARY:雨 昼過ぎ から 時々 くもり 所により 明け方 まで 雷を伴い 激しく 降る
+SUMMARY:雨 昼過ぎ から 時々 くもり 所により 朝 まで 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260627
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は60%\n最高気温は27℃\n最低気温は21℃
+DESCRIPTION:天気はくもり 一時 雨\n降水確率は60%\n最高気温は26℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:くもり 一時 雨 27℃/21℃
+SUMMARY:くもり 一時 雨 26℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

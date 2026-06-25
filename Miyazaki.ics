@@ -22,26 +22,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260625
-DESCRIPTION:天気はくもり 時々 雨 所により 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 所により 雨 で 雷を伴う\n降水確率は40%
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-SUMMARY:くもり 時々 雨 所により 雷 を伴う
+SUMMARY:くもり 所により 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260626
-DESCRIPTION:天気は雨 明け方 から 昼前 くもり 所により 昼過ぎ から 雷を伴い 激しく 降る\n降水確率は80%
+DESCRIPTION:天気はくもり 昼前 から 雨 所により 夕方 から 雷を伴い 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-SUMMARY:雨 明け方 から 昼前 くもり 所により 昼過ぎ から 雷を伴い 激しく 降る
+SUMMARY:くもり 昼前 から 雨 所により 夕方 から 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260627
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は60%\n最高気温は29℃\n最低気温は21℃
+DESCRIPTION:天気はくもり 一時 雨\n降水確率は60%\n最高気温は29℃\n最低気温は22℃
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:くもり 一時 雨 29℃/21℃
+SUMMARY:くもり 一時 雨 29℃/22℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

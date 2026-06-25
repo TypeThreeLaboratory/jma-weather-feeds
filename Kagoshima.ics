@@ -22,26 +22,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260625
-DESCRIPTION:天気はくもり 昼過ぎ から 夕方 雨 所により 雷を伴い 激しく 降る\n降水確率は60%
+DESCRIPTION:天気はくもり 夜遅く 雨 所により 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-SUMMARY:くもり 昼過ぎ から 夕方 雨 所により 雷を伴い 激しく 降る
+SUMMARY:くもり 夜遅く 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260626
-DESCRIPTION:天気は雨 所により 朝 まで 雷を伴い 激しく 降る\n降水確率は80%
+DESCRIPTION:天気は雨 夕方 から 時々 くもり 所により 明け方 まで 雷を伴い 激しく 降る\n降水確率は70%
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-SUMMARY:雨 所により 朝 まで 雷を伴い 激しく 降る
+SUMMARY:雨 夕方 から 時々 くもり 所により 明け方 まで 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260627
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は60%\n最高気温は29℃\n最低気温は24℃
+DESCRIPTION:天気はくもり 一時 雨\n降水確率は60%\n最高気温は31℃\n最低気温は24℃
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:くもり 一時 雨 29℃/24℃
+SUMMARY:くもり 一時 雨 31℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
