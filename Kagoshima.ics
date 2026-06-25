@@ -21,14 +21,6 @@ SUMMARY:くもり一時雨 30℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-kagoshima-20260625
-DESCRIPTION:天気はくもり 夜遅く 雨 所により 雷 を伴う\n降水確率は60%
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260626
-SUMMARY:くもり 夜遅く 雨 所により 雷 を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260626
 DESCRIPTION:天気は雨 夕方 から 時々 くもり 所により 明け方 まで 雷を伴い 激しく 降る\n降水確率は70%
 DTSTART;VALUE=DATE:20260626
