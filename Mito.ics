@@ -22,18 +22,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-mito-20260626
-DESCRIPTION:天気は雨 昼過ぎ から 夜のはじめ頃 くもり\n降水確率は70%
+DESCRIPTION:天気は雨 時々 くもり\n降水確率は60%
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-SUMMARY:雨 昼過ぎ から 夜のはじめ頃 くもり
+SUMMARY:雨 時々 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-mito-20260627
-DESCRIPTION:天気は雨 時々 くもり\n降水確率は90%\n最高気温は28℃\n最低気温は19℃
+DESCRIPTION:天気は雨 所により 昼前 から 夜のはじめ頃 雷を伴い 非常に 激しく 降る\n降水確率は90%\n最高気温は28℃\n最低気温は19℃
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:雨 時々 くもり 28℃/19℃
+SUMMARY:雨 所により 昼前 から 夜のはじめ頃 雷を伴い 非常に 激しく 降る 28℃/19℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

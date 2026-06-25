@@ -22,18 +22,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumagaya-20260626
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は70%
+DESCRIPTION:天気はくもり 時々 雨 所により 昼過ぎ から 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-SUMMARY:くもり 時々 雨
+SUMMARY:くもり 時々 雨 所により 昼過ぎ から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumagaya-20260627
-DESCRIPTION:天気は雨 時々 くもり\n降水確率は90%\n最高気温は26℃\n最低気温は21℃
+DESCRIPTION:天気は雨 昼過ぎ から 時々 くもり 所により 朝 から 昼前 雷を伴い 非常に 激しく 降る\n降水確率は90%\n最高気温は26℃\n最低気温は21℃
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:雨 時々 くもり 26℃/21℃
+SUMMARY:雨 昼過ぎ から 時々 くもり 所により 朝 から 昼前 雷を伴い 非常に 激しく 降る 26℃/21℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
