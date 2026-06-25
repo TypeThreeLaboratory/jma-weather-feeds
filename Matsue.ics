@@ -6,50 +6,58 @@ X-WR-CALNAME:週間天気予報 松江
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20260701
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は28℃\n最低気温は20℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は29℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-SUMMARY:くもり 28℃/20℃
+SUMMARY:くもり 29℃/20℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-matsue-20260702
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は29℃\n最低気温は21℃
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:くもり 29℃/21℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20260625
-DESCRIPTION:天気は雨 昼過ぎ から 時々 くもり 所により 雷 を伴う\n降水確率は70%
+DESCRIPTION:天気は雨 時々 くもり 所により 雷 を伴う\n降水確率は70%
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-SUMMARY:雨 昼過ぎ から 時々 くもり 所により 雷 を伴う
+SUMMARY:雨 時々 くもり 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20260626
-DESCRIPTION:天気は雨 昼過ぎ から 時々 くもり 所により 夕方 まで 雷 を伴う\n降水確率は60%\n最高気温は26℃\n最低気温は22℃
+DESCRIPTION:天気は雨 昼過ぎ から 時々 くもり 所により 夕方 まで 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-SUMMARY:雨 昼過ぎ から 時々 くもり 所により 夕方 まで 雷 を伴う 26℃/22℃
+SUMMARY:雨 昼過ぎ から 時々 くもり 所により 夕方 まで 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20260627
-DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は25℃\n最低気温は19℃
+DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は24℃\n最低気温は19℃
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:くもり一時雨 25℃/19℃
+SUMMARY:くもり 一時 雨 24℃/19℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20260628
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は26℃\n最低気温は20℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は27℃\n最低気温は21℃
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
-SUMMARY:くもり時々晴 26℃/20℃
+SUMMARY:くもり 27℃/21℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20260629
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は30%\n最高気温は27℃\n最低気温は20℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は28℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
-SUMMARY:晴れ時々くもり 27℃/20℃
+SUMMARY:くもり時々晴 28℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
