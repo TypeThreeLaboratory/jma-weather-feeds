@@ -30,18 +30,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260627
-DESCRIPTION:天気は雨 朝晩 くもり 所により 昼前 から 昼過ぎ 雷を伴い 激しく 降る\n降水確率は70%
+DESCRIPTION:天気は雨 朝晩 くもり 所により 朝 から 夕方 雷を伴い 激しく 降る\n降水確率は70%
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:雨 朝晩 くもり 所により 昼前 から 昼過ぎ 雷を伴い 激しく 降る
+SUMMARY:雨 朝晩 くもり 所により 朝 から 夕方 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260628
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は70%\n最高気温は31℃\n最低気温は27℃
+DESCRIPTION:天気は雨 朝晩 くもり 所により 雷 を伴う\n降水確率は70%\n最高気温は31℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
-SUMMARY:くもり 時々 雨 31℃/27℃
+SUMMARY:雨 朝晩 くもり 所により 雷 を伴う 31℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

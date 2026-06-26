@@ -30,18 +30,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20260627
-DESCRIPTION:天気は雨 夕方 から くもり 所により 明け方 から 昼前 雷を伴い 激しく 降る\n降水確率は80%
+DESCRIPTION:天気は雨 夕方 から くもり 所により 昼前 まで 雷を伴い 激しく 降る\n降水確率は70%
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:雨 夕方 から くもり 所により 明け方 から 昼前 雷を伴い 激しく 降る
+SUMMARY:雨 夕方 から くもり 所により 昼前 まで 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20260628
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は40%\n最高気温は29℃\n最低気温は19℃
+DESCRIPTION:天気はくもり 所により 雨\n降水確率は40%\n最高気温は29℃\n最低気温は19℃
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
-SUMMARY:くもり 時々 晴れ 29℃/19℃
+SUMMARY:くもり 所により 雨 29℃/19℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
