@@ -30,18 +30,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260626
-DESCRIPTION:天気は雨 夜遅く くもり 所により 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気は雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-SUMMARY:雨 夜遅く くもり 所により 雷 を伴う
+SUMMARY:雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260627
-DESCRIPTION:天気はくもり 夜 晴れ 所により 昼過ぎ まで 雨 で 雷を伴う\n降水確率は30%
+DESCRIPTION:天気はくもり 明け方 まで 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:くもり 夜 晴れ 所により 昼過ぎ まで 雨 で 雷を伴う
+SUMMARY:くもり 明け方 まで 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
