@@ -38,18 +38,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260628
-DESCRIPTION:天気はくもり 所により 明け方 まで 雨\n降水確率は20%
+DESCRIPTION:天気はくもり 所により 明け方 雨\n降水確率は10%
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
-SUMMARY:くもり 所により 明け方 まで 雨
+SUMMARY:くもり 所により 明け方 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260629
-DESCRIPTION:天気はくもり\n降水確率は30%\n最高気温は18℃\n最低気温は12℃
+DESCRIPTION:天気はくもり 夕方 から 夜のはじめ頃 晴れ 所により 明け方 から 昼前 雨\n降水確率は30%\n最高気温は18℃\n最低気温は12℃
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
-SUMMARY:くもり 18℃/12℃
+SUMMARY:くもり 夕方 から 夜のはじめ頃 晴れ 所により 明け方 から 昼前 雨 18℃/12℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
