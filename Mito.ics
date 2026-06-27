@@ -38,18 +38,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-mito-20260627
-DESCRIPTION:天気は雨 時々 くもり 所により 夜のはじめ頃 まで 雷を伴い 激しく 降る\n降水確率は70%
+DESCRIPTION:天気は雨 夜遅く くもり 所により 夜のはじめ頃 まで 雷を伴い 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:雨 時々 くもり 所により 夜のはじめ頃 まで 雷を伴い 激しく 降る
+SUMMARY:雨 夜遅く くもり 所により 夜のはじめ頃 まで 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-mito-20260628
-DESCRIPTION:天気はくもり 朝 一時 雨\n降水確率は60%
+DESCRIPTION:天気はくもり 時々 雨\n降水確率は60%
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
-SUMMARY:くもり 朝 一時 雨
+SUMMARY:くもり 時々 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
