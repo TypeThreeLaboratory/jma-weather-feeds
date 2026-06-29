@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 稚内
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260701
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は18℃\n最低気温は13℃
+DESCRIPTION:天気はくもり 朝 から 昼前 雨\n降水確率は50%\n最高気温は18℃\n最低気温は13℃
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-SUMMARY:くもり 一時 雨 18℃/13℃
+SUMMARY:くもり 朝 から 昼前 雨 18℃/13℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
