@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 鹿児島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260701
-DESCRIPTION:天気はくもり時々雨\n降水確率は70%\n最高気温は28℃\n最低気温は23℃
+DESCRIPTION:天気はくもり 時々 雨\n降水確率は90%\n最高気温は28℃\n最低気温は24℃
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-SUMMARY:くもり時々雨 28℃/23℃
+SUMMARY:くもり 時々 雨 28℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -22,42 +22,50 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260703
-DESCRIPTION:天気はくもり時々雨\n降水確率は60%\n最高気温は32℃\n最低気温は25℃
+DESCRIPTION:天気はくもり時々雨\n降水確率は60%\n最高気温は31℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
-SUMMARY:くもり時々雨 32℃/25℃
+SUMMARY:くもり時々雨 31℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260704
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は34℃\n最低気温は25℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は32℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
-SUMMARY:くもり 34℃/25℃
+SUMMARY:くもり 32℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260705
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は34℃\n最低気温は25℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は33℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
-SUMMARY:くもり時々晴 34℃/25℃
+SUMMARY:くもり時々晴 33℃/25℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-kagoshima-20260706
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は33℃\n最低気温は25℃
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:くもり時々晴 33℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260629
-DESCRIPTION:天気はくもり 夕方 まで 時々 晴れ 所により 雨 で 雷を伴う\n降水確率は40%
+DESCRIPTION:天気は晴れ 夕方 から くもり 所により 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
-SUMMARY:くもり 夕方 まで 時々 晴れ 所により 雨 で 雷を伴う
+SUMMARY:晴れ 夕方 から くもり 所により 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260630
-DESCRIPTION:天気は雨 明け方 まで くもり 所により 雷 を伴う\n降水確率は80%\n最高気温は28℃\n最低気温は23℃
+DESCRIPTION:天気は雨 明け方 まで くもり 所により 雷 を伴う\n降水確率は80%
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
-SUMMARY:雨 明け方 まで くもり 所により 雷 を伴う 28℃/23℃
+SUMMARY:雨 明け方 まで くもり 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
