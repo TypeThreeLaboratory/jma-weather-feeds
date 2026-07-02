@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 大阪
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-osaka-20260703
-DESCRIPTION:天気はくもり 昼過ぎ から 時々 晴れ\n降水確率は10%
+DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は0%
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
-SUMMARY:くもり 昼過ぎ から 時々 晴れ
+SUMMARY:くもり 時々 晴れ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-osaka-20260704
-DESCRIPTION:天気はくもり 後 一時 雨\n降水確率は50%\n最高気温は30℃\n最低気温は22℃
+DESCRIPTION:天気はくもり 昼前 から 雨\n降水確率は80%\n最高気温は30℃\n最低気温は22℃
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
-SUMMARY:くもり 後 一時 雨 30℃/22℃
+SUMMARY:くもり 昼前 から 雨 30℃/22℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

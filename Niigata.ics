@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 新潟
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-niigata-20260703
-DESCRIPTION:天気は雨 昼過ぎ から くもり 所により 昼過ぎ から 夜のはじめ頃 雷\n降水確率は50%
+DESCRIPTION:天気は雨 昼過ぎ から くもり 所により 昼過ぎ から 夜のはじめ頃 雷\n降水確率は60%
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:雨 昼過ぎ から くもり 所により 昼過ぎ から 夜のはじめ頃 雷
@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-niigata-20260704
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は20%\n最高気温は28℃\n最低気温は19℃
+DESCRIPTION:天気は晴れ 朝晩 くもり\n降水確率は20%\n最高気温は28℃\n最低気温は19℃
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
-SUMMARY:くもり 時々 晴れ 28℃/19℃
+SUMMARY:晴れ 朝晩 くもり 28℃/19℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
