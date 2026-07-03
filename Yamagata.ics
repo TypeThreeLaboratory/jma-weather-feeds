@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20260705
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は30%\n最高気温は29℃\n最低気温は19℃
+DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 夕方 から 雨\n降水確率は30%\n最高気温は29℃\n最低気温は19℃
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
-SUMMARY:くもり 時々 晴れ 29℃/19℃
+SUMMARY:晴れ 昼過ぎ から くもり 所により 夕方 から 雨 29℃/19℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
