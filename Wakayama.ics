@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 和歌山
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-wakayama-20260703
-DESCRIPTION:天気は晴れ 夜 くもり\n降水確率は10%
+DESCRIPTION:天気は晴れ 夜 くもり\n降水確率は0%
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:晴れ 夜 くもり
@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakayama-20260704
-DESCRIPTION:天気はくもり 昼前 から 雨\n降水確率は70%
+DESCRIPTION:天気はくもり 昼前 から 雨 所により 夕方 から 夜のはじめ頃 雷を伴い 激しく 降る\n降水確率は80%
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
-SUMMARY:くもり 昼前 から 雨
+SUMMARY:くもり 昼前 から 雨 所により 夕方 から 夜のはじめ頃 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
