@@ -6,34 +6,34 @@ X-WR-CALNAME:週間天気予報 宮崎
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260705
-DESCRIPTION:天気はくもり 昼前 一時 雨 所により 雷 を伴う\n降水確率は60%
+DESCRIPTION:天気はくもり 昼過ぎ 一時 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
-SUMMARY:くもり 昼前 一時 雨 所により 雷 を伴う
+SUMMARY:くもり 昼過ぎ 一時 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260706
-DESCRIPTION:天気はくもり 朝 一時 雨 所により 夕方 まで 雷 を伴う\n降水確率は50%\n最高気温は34℃\n最低気温は26℃
+DESCRIPTION:天気はくもり 朝 一時 雨 所により 夕方 まで 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
-SUMMARY:くもり 朝 一時 雨 所により 夕方 まで 雷 を伴う 34℃/26℃
+SUMMARY:くもり 朝 一時 雨 所により 夕方 まで 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260707
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は36℃\n最低気温は25℃
+DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は30%\n最高気温は32℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
-SUMMARY:くもり時々晴 36℃/25℃
+SUMMARY:くもり 時々 晴れ 32℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260708
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は32℃\n最低気温は24℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は31℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
-SUMMARY:くもり 32℃/24℃
+SUMMARY:くもり 31℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -46,18 +46,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260710
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は31℃\n最低気温は24℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は30℃\n最低気温は24℃
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
-SUMMARY:くもり 31℃/24℃
+SUMMARY:くもり 30℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260711
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は32℃\n最低気温は25℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は30℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-SUMMARY:くもり 32℃/25℃
+SUMMARY:くもり一時雨 30℃/25℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-miyazaki-20260712
+DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は32℃\n最低気温は25℃
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:くもり一時雨 32℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
