@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20260709
-DESCRIPTION:天気はくもり 後 一時 雨\n降水確率は50%\n最高気温は28℃\n最低気温は19℃
+DESCRIPTION:天気はくもり 昼前 から 雨 所により 夜 激しく 降る\n降水確率は60%\n最高気温は28℃\n最低気温は19℃
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
-SUMMARY:くもり 後 一時 雨 28℃/19℃
+SUMMARY:くもり 昼前 から 雨 所により 夜 激しく 降る 28℃/19℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
