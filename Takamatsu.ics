@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 高松
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-takamatsu-20260711
-DESCRIPTION:天気は晴れ 昼過ぎ から 時々 くもり\n降水確率は10%
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-SUMMARY:晴れ 昼過ぎ から 時々 くもり
+SUMMARY:晴れ 時々 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-takamatsu-20260712
-DESCRIPTION:天気はくもり 昼過ぎ まで 時々 晴れ\n降水確率は10%\n最高気温は32℃\n最低気温は24℃
+DESCRIPTION:天気はくもり 昼過ぎ まで 時々 晴れ\n降水確率は10%
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
-SUMMARY:くもり 昼過ぎ まで 時々 晴れ 32℃/24℃
+SUMMARY:くもり 昼過ぎ まで 時々 晴れ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-takamatsu-20260713
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は35℃\n最低気温は25℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は34℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260714
-SUMMARY:晴れ時々くもり 35℃/25℃
+SUMMARY:晴れ 時々 くもり 34℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-takamatsu-20260714
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は36℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は37℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
-SUMMARY:晴れ時々くもり 36℃/26℃
+SUMMARY:晴れ時々くもり 37℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-takamatsu-20260715
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は36℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は37℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
-SUMMARY:晴れ時々くもり 36℃/26℃
+SUMMARY:晴れ時々くもり 37℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-takamatsu-20260716
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は35℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は36℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
-SUMMARY:晴れ時々くもり 35℃/26℃
+SUMMARY:晴れ時々くもり 36℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-takamatsu-20260717
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は35℃\n最低気温は26℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は34℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
-SUMMARY:くもり時々晴 35℃/26℃
+SUMMARY:くもり時々晴 34℃/26℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-takamatsu-20260718
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は35℃\n最低気温は25℃
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:くもり時々晴 35℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

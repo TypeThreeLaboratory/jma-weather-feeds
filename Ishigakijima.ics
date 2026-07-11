@@ -14,18 +14,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260712
-DESCRIPTION:天気はくもり 後 晴れ 未明 雨 所により 明け方 まで 雷 を伴う\n降水確率は50%\n最高気温は33℃\n最低気温は29℃
+DESCRIPTION:天気はくもり 後 晴れ 未明 雨 所により 明け方 まで 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
-SUMMARY:くもり 後 晴れ 未明 雨 所により 明け方 まで 雷 を伴う 33℃/29℃
+SUMMARY:くもり 後 晴れ 未明 雨 所により 明け方 まで 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260713
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は31℃\n最低気温は27℃
+DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は20%\n最高気温は33℃\n最低気温は29℃
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260714
-SUMMARY:くもり時々晴 31℃/27℃
+SUMMARY:くもり 時々 晴れ 33℃/29℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -58,6 +58,14 @@ DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は33�
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:くもり時々晴 33℃/29℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-ishigakijima-20260718
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は32℃\n最低気温は28℃
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:くもり時々晴 32℃/28℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

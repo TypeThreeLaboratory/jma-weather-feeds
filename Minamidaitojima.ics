@@ -6,26 +6,26 @@ X-WR-CALNAME:週間天気予報 南大東
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260711
-DESCRIPTION:天気はくもり 昼過ぎ から 時々 晴れ 所により 夕方 まで 雨 で 雷を伴う\n降水確率は30%
+DESCRIPTION:天気はくもり 時々 晴れ 所により 夕方 まで 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-SUMMARY:くもり 昼過ぎ から 時々 晴れ 所により 夕方 まで 雨 で 雷を伴う
+SUMMARY:くもり 時々 晴れ 所により 夕方 まで 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260712
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は40%\n最高気温は32℃\n最低気温は28℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
-SUMMARY:晴れ 時々 くもり 32℃/28℃
+SUMMARY:晴れ 時々 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260713
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は32℃\n最低気温は27℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は32℃\n最低気温は28℃
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260714
-SUMMARY:くもり時々晴 32℃/27℃
+SUMMARY:晴れ 時々 くもり 32℃/28℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -58,6 +58,14 @@ DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は33�
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:くもり時々晴 33℃/26℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-minamidaitojima-20260718
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は33℃\n最低気温は25℃
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:くもり時々晴 33℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
