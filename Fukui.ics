@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260713
-DESCRIPTION:天気はくもり\n降水確率は30%\n最高気温は32℃\n最低気温は25℃
+DESCRIPTION:天気はくもり 所により 昼前 から 夕方 雨 で 雷を伴い 激しく 降る\n降水確率は40%\n最高気温は32℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260714
-SUMMARY:くもり 32℃/25℃
+SUMMARY:くもり 所により 昼前 から 夕方 雨 で 雷を伴い 激しく 降る 32℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
