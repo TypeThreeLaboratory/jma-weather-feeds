@@ -14,50 +14,58 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20260713
-DESCRIPTION:天気はくもり 時々 晴れ 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は30%\n最高気温は34℃\n最低気温は25℃
+DESCRIPTION:天気はくもり 時々 晴れ 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260714
-SUMMARY:くもり 時々 晴れ 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う 34℃/25℃
+SUMMARY:くもり 時々 晴れ 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20260714
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は36℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は35℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
-SUMMARY:晴れ時々くもり 36℃/26℃
+SUMMARY:晴れ 時々 くもり 35℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20260715
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は38℃\n最低気温は26℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は37℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
-SUMMARY:晴れ時々くもり 38℃/26℃
+SUMMARY:くもり時々晴 37℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20260716
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は36℃\n最低気温は27℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は35℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
-SUMMARY:くもり時々晴 36℃/27℃
+SUMMARY:くもり時々晴 35℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20260717
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は36℃\n最低気温は26℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は35℃\n最低気温は24℃
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
-SUMMARY:くもり時々晴 36℃/26℃
+SUMMARY:くもり時々晴 35℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20260718
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は36℃\n最低気温は25℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は34℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-SUMMARY:くもり時々晴 36℃/25℃
+SUMMARY:くもり時々晴 34℃/25℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-kyoto-20260719
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は34℃\n最低気温は25℃
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:くもり時々晴 34℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 松江
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20260712
-DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は30%
+DESCRIPTION:天気は晴れ 夕方 から くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は30%
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
-SUMMARY:晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う
+SUMMARY:晴れ 夕方 から くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20260713
-DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は20%\n最高気温は33℃\n最低気温は25℃
+DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260714
-SUMMARY:晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う 33℃/25℃
+SUMMARY:晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20260714
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は34℃\n最低気温は24℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は33℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
-SUMMARY:晴れ時々くもり 34℃/24℃
+SUMMARY:晴れ 時々 くもり 33℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20260715
-DESCRIPTION:天気は晴れのち時々くもり\n降水確率は20%\n最高気温は35℃\n最低気温は25℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は34℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
-SUMMARY:晴れのち時々くもり 35℃/25℃
+SUMMARY:くもり時々晴 34℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20260716
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は32℃\n最低気温は25℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は33℃\n最低気温は23℃
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
-SUMMARY:くもり時々晴 32℃/25℃
+SUMMARY:くもり時々晴 33℃/23℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20260717
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は33℃\n最低気温は24℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は34℃\n最低気温は22℃
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
-SUMMARY:くもり時々晴 33℃/24℃
+SUMMARY:くもり時々晴 34℃/22℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20260718
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は33℃\n最低気温は24℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は34℃\n最低気温は24℃
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-SUMMARY:くもり時々晴 33℃/24℃
+SUMMARY:くもり時々晴 34℃/24℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-matsue-20260719
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は34℃\n最低気温は24℃
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:くもり時々晴 34℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
