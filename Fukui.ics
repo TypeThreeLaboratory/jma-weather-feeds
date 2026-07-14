@@ -6,23 +6,23 @@ X-WR-CALNAME:週間天気予報 福井
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260714
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は10%
+DESCRIPTION:天気は晴れ 夜のはじめ頃 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
-SUMMARY:くもり 時々 晴れ
+SUMMARY:晴れ 夜のはじめ頃 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260715
-DESCRIPTION:天気は晴れ 後 くもり 夕方 から 夜のはじめ頃 雨\n降水確率は50%
+DESCRIPTION:天気は晴れ 後 くもり 夜遅く 雨 所により 夜 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
-SUMMARY:晴れ 後 くもり 夕方 から 夜のはじめ頃 雨
+SUMMARY:晴れ 後 くもり 夜遅く 雨 所により 夜 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260716
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は60%\n最高気温は32℃\n最低気温は24℃
+DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は32℃\n最低気温は24℃
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
 SUMMARY:くもり 一時 雨 32℃/24℃
