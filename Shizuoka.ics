@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 静岡
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-shizuoka-20260715
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%
+DESCRIPTION:天気は晴れ 夜 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
-SUMMARY:晴れ 時々 くもり
+SUMMARY:晴れ 夜 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-shizuoka-20260716
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は30%\n最高気温は34℃\n最低気温は27℃
+DESCRIPTION:天気はくもり 時々 晴れ 所により 昼過ぎ から 雨\n降水確率は30%\n最高気温は34℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
-SUMMARY:くもり 時々 晴れ 34℃/27℃
+SUMMARY:くもり 時々 晴れ 所により 昼過ぎ から 雨 34℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

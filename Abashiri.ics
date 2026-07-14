@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 網走
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260715
-DESCRIPTION:天気はくもり 所により 昼過ぎ から 雨\n降水確率は30%
+DESCRIPTION:天気はくもり 所により 昼過ぎ から 雨 で 雷を伴う\n降水確率は30%
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
-SUMMARY:くもり 所により 昼過ぎ から 雨
+SUMMARY:くもり 所により 昼過ぎ から 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260716
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は27℃\n最低気温は20℃
+DESCRIPTION:天気はくもり 後 晴れ 明け方 から 朝 雨 所により 昼前 まで 雷 を伴う\n降水確率は60%\n最高気温は27℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
-SUMMARY:くもり 一時 雨 27℃/20℃
+SUMMARY:くもり 後 晴れ 明け方 から 朝 雨 所により 昼前 まで 雷 を伴う 27℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

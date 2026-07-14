@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260716
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は32℃\n最低気温は24℃
+DESCRIPTION:天気はくもり 明け方 まで 雨 所により 雷 を伴う\n降水確率は50%\n最高気温は32℃\n最低気温は24℃
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
-SUMMARY:くもり 一時 雨 32℃/24℃
+SUMMARY:くもり 明け方 まで 雨 所により 雷 を伴う 32℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

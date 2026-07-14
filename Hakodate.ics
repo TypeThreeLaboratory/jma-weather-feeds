@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 函館
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20260715
-DESCRIPTION:天気はくもり 夜 雨 所により 雷を伴い 激しく 降る\n降水確率は80%
+DESCRIPTION:天気はくもり 夜 雨 所により 雷を伴い 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
 SUMMARY:くもり 夜 雨 所により 雷を伴い 激しく 降る
@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20260716
-DESCRIPTION:天気は晴れ 一時 雨\n降水確率は60%\n最高気温は29℃\n最低気温は21℃
+DESCRIPTION:天気はくもり 後 晴れ 明け方 まで 雨 所により 雷 を伴う\n降水確率は70%\n最高気温は29℃\n最低気温は21℃
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
-SUMMARY:晴れ 一時 雨 29℃/21℃
+SUMMARY:くもり 後 晴れ 明け方 まで 雨 所により 雷 を伴う 29℃/21℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
