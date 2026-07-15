@@ -6,34 +6,34 @@ X-WR-CALNAME:週間天気予報 石垣島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260715
-DESCRIPTION:天気は晴れ 時々 くもり 所により 夕方 から 夜のはじめ頃 雨\n降水確率は20%
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
-SUMMARY:晴れ 時々 くもり 所により 夕方 から 夜のはじめ頃 雨
+SUMMARY:晴れ 時々 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260716
-DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 夕方 から 夜のはじめ頃 雨\n降水確率は30%\n最高気温は32℃\n最低気温は28℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
-SUMMARY:晴れ 昼過ぎ から くもり 所により 夕方 から 夜のはじめ頃 雨 32℃/28℃
+SUMMARY:晴れ 時々 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260717
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は33℃\n最低気温は29℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は31℃\n最低気温は28℃
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
-SUMMARY:晴れ時々くもり 33℃/29℃
+SUMMARY:晴れ 時々 くもり 31℃/28℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260718
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は33℃\n最低気温は29℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は33℃\n最低気温は28℃
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-SUMMARY:晴れ時々くもり 33℃/29℃
+SUMMARY:晴れ時々くもり 33℃/28℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -46,10 +46,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260720
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は33℃\n最低気温は28℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は32℃\n最低気温は28℃
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260721
-SUMMARY:晴れ時々くもり 33℃/28℃
+SUMMARY:晴れ時々くもり 32℃/28℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -57,6 +57,14 @@ UID:jma-weather-ical-ishigakijima-20260721
 DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は32℃\n最低気温は28℃
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
+SUMMARY:晴れ時々くもり 32℃/28℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-ishigakijima-20260722
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は32℃\n最低気温は28℃
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
 SUMMARY:晴れ時々くもり 32℃/28℃
 TRANSP:TRANSPARENT
 END:VEVENT
