@@ -6,15 +6,15 @@ X-WR-CALNAME:週間天気予報 富山
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-toyama-20260715
-DESCRIPTION:天気は晴れ 後 くもり 夜遅く 雨 所により 夕方 から 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 夜遅く 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
-SUMMARY:晴れ 後 くもり 夜遅く 雨 所により 夕方 から 雷 を伴う
+SUMMARY:くもり 夜遅く 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-toyama-20260716
-DESCRIPTION:天気はくもり 明け方 まで 雨 所により 雷を伴い 激しく 降る\n降水確率は70%
+DESCRIPTION:天気はくもり 明け方 まで 雨 所により 雷を伴い 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
 SUMMARY:くもり 明け方 まで 雨 所により 雷を伴い 激しく 降る
@@ -22,10 +22,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-toyama-20260717
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は31℃\n最低気温は25℃
+DESCRIPTION:天気はくもり 後 一時 雨\n降水確率は70%\n最高気温は30℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
-SUMMARY:くもり 31℃/25℃
+SUMMARY:くもり 後 一時 雨 30℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
