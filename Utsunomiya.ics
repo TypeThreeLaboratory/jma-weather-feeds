@@ -5,14 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 宇都宮
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-utsunomiya-20260716
-DESCRIPTION:天気は雨 夜遅く くもり 所により 夜のはじめ頃 まで 雷を伴い 非常に 激しく 降る\n降水確率は50%
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260717
-SUMMARY:雨 夜遅く くもり 所により 夜のはじめ頃 まで 雷を伴い 非常に 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-utsunomiya-20260717
 DESCRIPTION:天気はくもり 昼過ぎ から 雨 所により 雷を伴い 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260717
