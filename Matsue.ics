@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 松江
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20260717
-DESCRIPTION:天気はくもり 所により 夜のはじめ頃 まで 雨 で 雷を伴う\n降水確率は40%
+DESCRIPTION:天気はくもり 所により 夜のはじめ頃 まで 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:くもり 所により 夜のはじめ頃 まで 雨 で 雷を伴う
@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20260718
-DESCRIPTION:天気はくもり 所により 昼過ぎ から 夕方 雨 で 雷を伴い 激しく 降る\n降水確率は40%
+DESCRIPTION:天気はくもり 所により 昼過ぎ から 夕方 雨 で 雷を伴い 激しく 降る\n降水確率は30%
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
 SUMMARY:くもり 所により 昼過ぎ から 夕方 雨 で 雷を伴い 激しく 降る
