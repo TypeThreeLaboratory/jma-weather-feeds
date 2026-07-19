@@ -6,50 +6,50 @@ X-WR-CALNAME:週間天気予報 京都
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20260719
-DESCRIPTION:天気はくもり 所により 昼過ぎ から 雨 で 雷を伴う\n降水確率は30%
+DESCRIPTION:天気はくもり 時々 晴れ 所により 昼過ぎ から 雨 で 雷を伴う\n降水確率は30%
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
-SUMMARY:くもり 所により 昼過ぎ から 雨 で 雷を伴う
+SUMMARY:くもり 時々 晴れ 所により 昼過ぎ から 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20260720
-DESCRIPTION:天気はくもり 時々 晴れ 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は30%\n最高気温は35℃\n最低気温は28℃
+DESCRIPTION:天気はくもり 時々 晴れ 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260721
-SUMMARY:くもり 時々 晴れ 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う 35℃/28℃
+SUMMARY:くもり 時々 晴れ 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20260721
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は37℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は36℃\n最低気温は28℃
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-SUMMARY:晴れ時々くもり 37℃/26℃
+SUMMARY:晴れ 時々 くもり 36℃/28℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20260722
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は36℃\n最低気温は27℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は38℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
-SUMMARY:晴れ時々くもり 36℃/27℃
+SUMMARY:晴れ時々くもり 38℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20260723
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は37℃\n最低気温は27℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は39℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-SUMMARY:晴れ時々くもり 37℃/27℃
+SUMMARY:晴れ時々くもり 39℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20260724
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は37℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は38℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
-SUMMARY:晴れ時々くもり 37℃/26℃
+SUMMARY:晴れ時々くもり 38℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -58,6 +58,14 @@ DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は37�
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 SUMMARY:くもり時々晴 37℃/27℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-kyoto-20260726
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は36℃\n最低気温は27℃
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:くもり時々晴 36℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
