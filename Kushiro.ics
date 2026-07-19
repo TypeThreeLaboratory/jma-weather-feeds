@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 釧路
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kushiro-20260719
-DESCRIPTION:天気は雨 時々 くもり 所により 夕方 まで 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気は雨 夜のはじめ頃 くもり\n降水確率は60%
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
-SUMMARY:雨 時々 くもり 所により 夕方 まで 雷 を伴う
+SUMMARY:雨 夜のはじめ頃 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
