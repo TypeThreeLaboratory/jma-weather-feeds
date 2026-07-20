@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20260722
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は30%\n最高気温は35℃\n最低気温は25℃
+DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 昼前 から 雨 で 雷を伴う\n降水確率は30%\n最高気温は35℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
-SUMMARY:くもり 時々 晴れ 35℃/25℃
+SUMMARY:晴れ 昼過ぎ から くもり 所により 昼前 から 雨 で 雷を伴う 35℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
