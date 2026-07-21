@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 佐賀
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-saga-20260721
-DESCRIPTION:天気は晴れ 所により 昼過ぎ から 夕方 雨 で 雷を伴う\n降水確率は20%
+DESCRIPTION:天気は晴れ\n降水確率は10%
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-SUMMARY:晴れ 所により 昼過ぎ から 夕方 雨 で 雷を伴う
+SUMMARY:晴れ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +22,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-saga-20260723
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は35℃\n最低気温は27℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は35℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 SUMMARY:晴れ 時々 くもり 35℃/27℃
