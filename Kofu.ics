@@ -14,50 +14,58 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kofu-20260722
-DESCRIPTION:天気はくもり 朝 から 昼過ぎ 晴れ 所により 昼過ぎ から 雨 で 雷を伴う\n降水確率は30%\n最高気温は38℃\n最低気温は25℃
+DESCRIPTION:天気はくもり 朝 から 昼過ぎ 晴れ 所により 昼過ぎ から 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
-SUMMARY:くもり 朝 から 昼過ぎ 晴れ 所により 昼過ぎ から 雨 で 雷を伴う 38℃/25℃
+SUMMARY:くもり 朝 から 昼過ぎ 晴れ 所により 昼過ぎ から 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kofu-20260723
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は39℃\n最低気温は25℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は39℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-SUMMARY:くもり時々晴 39℃/25℃
+SUMMARY:晴れ 時々 くもり 39℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kofu-20260724
-DESCRIPTION:天気はくもり時々晴\n降水確率は40%\n最高気温は38℃\n最低気温は25℃
+DESCRIPTION:天気は晴れのち一時雨\n降水確率は50%\n最高気温は38℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
-SUMMARY:くもり時々晴 38℃/25℃
+SUMMARY:晴れのち一時雨 38℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kofu-20260725
-DESCRIPTION:天気はくもり時々晴\n降水確率は40%\n最高気温は37℃\n最低気温は25℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は40%\n最高気温は35℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-SUMMARY:くもり時々晴 37℃/25℃
+SUMMARY:くもり時々晴 35℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kofu-20260726
-DESCRIPTION:天気はくもり時々晴\n降水確率は40%\n最高気温は36℃\n最低気温は25℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は33℃\n最低気温は24℃
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-SUMMARY:くもり時々晴 36℃/25℃
+SUMMARY:くもり時々晴 33℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kofu-20260727
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は30%\n最高気温は35℃\n最低気温は24℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は35℃\n最低気温は24℃
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
-SUMMARY:晴れ時々くもり 35℃/24℃
+SUMMARY:くもり時々晴 35℃/24℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-kofu-20260728
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は35℃\n最低気温は24℃
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:くもり時々晴 35℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
