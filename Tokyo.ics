@@ -5,14 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 東京
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-tokyo-20260722
-DESCRIPTION:天気は晴れ 夜のはじめ頃 くもり 多摩西部 では 夜のはじめ頃 まで 雨 で 雷を伴い 激しく 降る\n降水確率は20%
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:晴れ 夜のはじめ頃 くもり 多摩西部 では 夜のはじめ頃 まで 雨 で 雷を伴い 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-tokyo-20260723
 DESCRIPTION:天気は晴れ 夕方 から くもり 所により 夕方 から 夜のはじめ頃 雨 で 雷を伴い 激しく 降る\n降水確率は30%
 DTSTART;VALUE=DATE:20260723
