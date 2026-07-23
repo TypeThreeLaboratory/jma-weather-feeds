@@ -14,18 +14,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-shimonoseki-20260724
-DESCRIPTION:天気は晴れ 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は20%
+DESCRIPTION:天気は晴れ 所により 昼過ぎ から 夜のはじめ頃 雨\n降水確率は10%
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
-SUMMARY:晴れ 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う
+SUMMARY:晴れ 所により 昼過ぎ から 夜のはじめ頃 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-shimonoseki-20260725
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は34℃\n最低気温は28℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は35℃\n最低気温は28℃
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-SUMMARY:晴れ 時々 くもり 34℃/28℃
+SUMMARY:晴れ 時々 くもり 35℃/28℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
