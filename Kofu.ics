@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kofu-20260725
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は30%\n最高気温は36℃\n最低気温は26℃
+DESCRIPTION:天気はくもり 朝 から 昼前 晴れ 所により 昼過ぎ から 雨 で 雷を伴う\n降水確率は30%\n最高気温は36℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-SUMMARY:くもり 時々 晴れ 36℃/26℃
+SUMMARY:くもり 朝 から 昼前 晴れ 所により 昼過ぎ から 雨 で 雷を伴う 36℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
