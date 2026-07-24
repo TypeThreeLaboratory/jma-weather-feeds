@@ -6,15 +6,15 @@ X-WR-CALNAME:週間天気予報 新潟
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-niigata-20260724
-DESCRIPTION:天気は雨 所により 昼過ぎ から 夜のはじめ頃 雷を伴い 非常に 激しく 降る\n降水確率は90%
+DESCRIPTION:天気は雨 所により 夜のはじめ頃 まで 雷を伴い 非常に 激しく 降る\n降水確率は70%
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
-SUMMARY:雨 所により 昼過ぎ から 夜のはじめ頃 雷を伴い 非常に 激しく 降る
+SUMMARY:雨 所により 夜のはじめ頃 まで 雷を伴い 非常に 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-niigata-20260725
-DESCRIPTION:天気は雨 所により 昼過ぎ から 雷を伴い 非常に 激しく 降る\n降水確率は70%
+DESCRIPTION:天気は雨 所により 昼過ぎ から 雷を伴い 非常に 激しく 降る\n降水確率は80%
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 SUMMARY:雨 所により 昼過ぎ から 雷を伴い 非常に 激しく 降る
@@ -22,10 +22,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-niigata-20260726
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は60%\n最高気温は31℃\n最低気温は24℃
+DESCRIPTION:天気はくもり 時々 雨\n降水確率は70%\n最高気温は28℃\n最低気温は24℃
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-SUMMARY:くもり 時々 雨 31℃/24℃
+SUMMARY:くもり 時々 雨 28℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
