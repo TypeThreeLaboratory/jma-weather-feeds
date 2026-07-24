@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kanazawa-20260726
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は31℃\n最低気温は26℃
+DESCRIPTION:天気はくもり 昼前 から 昼過ぎ 雨 所により 朝 から 夜のはじめ頃 雷 を伴う\n降水確率は50%\n最高気温は31℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-SUMMARY:くもり 一時 雨 31℃/26℃
+SUMMARY:くもり 昼前 から 昼過ぎ 雨 所により 朝 から 夜のはじめ頃 雷 を伴う 31℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
