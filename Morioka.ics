@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-morioka-20260725
-DESCRIPTION:天気は雨 所により 夜 激しく 降る\n降水確率は60%
+DESCRIPTION:天気は雨 所により 夜 激しく 降る\n降水確率は80%
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 SUMMARY:雨 所により 夜 激しく 降る
@@ -22,10 +22,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-morioka-20260726
-DESCRIPTION:天気は雨 所により 朝 まで 激しく 降る\n降水確率は60%
+DESCRIPTION:天気は雨 昼前 から 時々 くもり 所により 明け方 まで 激しく 降る\n降水確率は70%
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-SUMMARY:雨 所により 朝 まで 激しく 降る
+SUMMARY:雨 昼前 から 時々 くもり 所により 明け方 まで 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

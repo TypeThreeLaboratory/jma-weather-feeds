@@ -14,18 +14,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kanazawa-20260725
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%
+DESCRIPTION:天気は晴れ 夜遅く くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
-SUMMARY:晴れ 時々 くもり
+SUMMARY:晴れ 夜遅く くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kanazawa-20260726
-DESCRIPTION:天気はくもり 昼前 から 昼過ぎ 雨 所により 朝 から 夜のはじめ頃 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 所により 昼前 から 雨 で 雷を伴う\n降水確率は30%
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-SUMMARY:くもり 昼前 から 昼過ぎ 雨 所により 朝 から 夜のはじめ頃 雷 を伴う
+SUMMARY:くもり 所により 昼前 から 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
