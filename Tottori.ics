@@ -6,50 +6,58 @@ X-WR-CALNAME:週間天気予報 鳥取
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-tottori-20260801
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は36℃\n最低気温は25℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は35℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
+SUMMARY:晴れ時々くもり 35℃/25℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-tottori-20260802
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は36℃\n最低気温は25℃
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
 SUMMARY:晴れ時々くもり 36℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tottori-20260726
-DESCRIPTION:天気は晴れ 朝晩 くもり 所により 昼過ぎ から 雨 で 雷を伴う\n降水確率は20%
+DESCRIPTION:天気は晴れ 夜 くもり 所により 昼過ぎ から 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-SUMMARY:晴れ 朝晩 くもり 所により 昼過ぎ から 雨 で 雷を伴う
+SUMMARY:晴れ 夜 くもり 所により 昼過ぎ から 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tottori-20260727
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は40%\n最高気温は33℃\n最低気温は25℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
-SUMMARY:晴れ 時々 くもり 33℃/25℃
+SUMMARY:晴れ 時々 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tottori-20260728
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は30%\n最高気温は34℃\n最低気温は24℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は35℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
-SUMMARY:晴れ時々くもり 34℃/24℃
+SUMMARY:晴れ 時々 くもり 35℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tottori-20260729
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は35℃\n最低気温は25℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は35℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
-SUMMARY:くもり時々晴 35℃/25℃
+SUMMARY:くもり 35℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tottori-20260730
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は35℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は36℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:くもり時々晴 35℃/26℃
+SUMMARY:晴れ時々くもり 36℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
