@@ -22,18 +22,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20260727
-DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雷\n降水確率は10%
+DESCRIPTION:天気は晴れ 昼過ぎ から 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雷\n降水確率は10%
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
-SUMMARY:晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雷
+SUMMARY:晴れ 昼過ぎ から 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雷
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20260728
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は37℃\n最低気温は28℃
+DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夕方 雨 で 雷を伴う\n降水確率は10%\n最高気温は37℃\n最低気温は28℃
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
-SUMMARY:晴れ 時々 くもり 37℃/28℃
+SUMMARY:晴れ 時々 くもり 所により 昼過ぎ から 夕方 雨 で 雷を伴う 37℃/28℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
