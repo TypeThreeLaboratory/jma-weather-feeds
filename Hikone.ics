@@ -22,34 +22,34 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hikone-20260726
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%
+DESCRIPTION:天気は晴れ 夜のはじめ頃 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-SUMMARY:晴れ 時々 くもり
+SUMMARY:晴れ 夜のはじめ頃 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hikone-20260727
-DESCRIPTION:天気はくもり 時々 晴れ 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は20%
+DESCRIPTION:天気はくもり 時々 晴れ 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴い 激しく 降る\n降水確率は20%
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
-SUMMARY:くもり 時々 晴れ 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う
+SUMMARY:くもり 時々 晴れ 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hikone-20260728
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は33℃\n最低気温は26℃
+DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は30%\n最高気温は33℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
-SUMMARY:晴れ 時々 くもり 33℃/26℃
+SUMMARY:くもり 時々 晴れ 33℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hikone-20260729
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は33℃\n最低気温は26℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は40%\n最高気温は32℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
-SUMMARY:くもり時々晴 33℃/26℃
+SUMMARY:くもり時々晴 32℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

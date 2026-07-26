@@ -22,34 +22,34 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-choshi-20260726
-DESCRIPTION:天気は晴れ 後 くもり 夕方 から 雨 所により 夕方 から 夜のはじめ頃 雷を伴い 非常に 激しく 降る\n降水確率は60%
+DESCRIPTION:天気はくもり 夜のはじめ頃 雨 所により 夜のはじめ頃 まで 雷を伴い 非常に 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-SUMMARY:晴れ 後 くもり 夕方 から 雨 所により 夕方 から 夜のはじめ頃 雷を伴い 非常に 激しく 降る
+SUMMARY:くもり 夜のはじめ頃 雨 所により 夜のはじめ頃 まで 雷を伴い 非常に 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-choshi-20260727
-DESCRIPTION:天気はくもり 未明 雨 所により 明け方 まで 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 昼前 から 夕方 晴れ 所により 明け方 まで 雨 で 雷を伴う\n降水確率は30%
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
-SUMMARY:くもり 未明 雨 所により 明け方 まで 雷 を伴う
+SUMMARY:くもり 昼前 から 夕方 晴れ 所により 明け方 まで 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-choshi-20260728
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は31℃\n最低気温は24℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は30℃\n最低気温は24℃
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
-SUMMARY:くもり 31℃/24℃
+SUMMARY:くもり 30℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-choshi-20260729
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は32℃\n最低気温は24℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は31℃\n最低気温は24℃
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
-SUMMARY:くもり 32℃/24℃
+SUMMARY:くもり 31℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
