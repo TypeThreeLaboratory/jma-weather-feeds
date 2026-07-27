@@ -30,18 +30,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260728
-DESCRIPTION:天気はくもり 昼前 から 雨 所により 昼過ぎ から 雷を伴い 激しく 降る\n降水確率は80%
+DESCRIPTION:天気はくもり 昼前 から 雨 所により 雷を伴い 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
-SUMMARY:くもり 昼前 から 雨 所により 昼過ぎ から 雷を伴い 激しく 降る
+SUMMARY:くもり 昼前 から 雨 所により 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260729
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は32℃\n最低気温は25℃
+DESCRIPTION:天気は雨 昼前 から くもり 所により 明け方 まで 雷を伴い 激しく 降る\n降水確率は60%\n最高気温は32℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
-SUMMARY:くもり 一時 雨 32℃/25℃
+SUMMARY:雨 昼前 から くもり 所により 明け方 まで 雷を伴い 激しく 降る 32℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

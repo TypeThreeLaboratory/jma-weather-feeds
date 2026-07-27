@@ -38,10 +38,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260729
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は30%\n最高気温は32℃\n最低気温は27℃
+DESCRIPTION:天気は晴れ 時々 くもり 所により 雨 で 雷を伴う\n降水確率は30%\n最高気温は32℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
-SUMMARY:晴れ 時々 くもり 32℃/27℃
+SUMMARY:晴れ 時々 くもり 所により 雨 で 雷を伴う 32℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
