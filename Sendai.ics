@@ -37,14 +37,6 @@ SUMMARY:晴れ時々くもり 30℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-sendai-20260728
-DESCRIPTION:天気は雨 所により 夜 雷を伴い 非常に 激しく 降る\n降水確率は80%
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260729
-SUMMARY:雨 所により 夜 雷を伴い 非常に 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-sendai-20260729
 DESCRIPTION:天気はくもり 明け方 まで 雨 所により 雷を伴い 非常に 激しく 降る\n降水確率は70%
 DTSTART;VALUE=DATE:20260729
