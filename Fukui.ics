@@ -6,50 +6,58 @@ X-WR-CALNAME:週間天気予報 福井
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260801
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は35℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は34℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-SUMMARY:晴れ時々くもり 35℃/26℃
+SUMMARY:晴れ時々くもり 34℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260802
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は36℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は35℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-SUMMARY:晴れ時々くもり 36℃/26℃
+SUMMARY:晴れ時々くもり 35℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260803
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は35℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は35℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
+SUMMARY:晴れ時々くもり 35℃/27℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-fukui-20260804
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は35℃\n最低気温は26℃
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
 SUMMARY:晴れ時々くもり 35℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260728
-DESCRIPTION:天気はくもり 昼前 から 雨 所により 雷を伴い 激しく 降る\n降水確率は90%
+DESCRIPTION:天気は雨 所により 雷を伴い 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
-SUMMARY:くもり 昼前 から 雨 所により 雷を伴い 激しく 降る
+SUMMARY:雨 所により 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260729
-DESCRIPTION:天気は雨 昼前 から くもり 所により 明け方 まで 雷を伴い 激しく 降る\n降水確率は60%\n最高気温は32℃\n最低気温は25℃
+DESCRIPTION:天気は雨 昼前 から くもり 所により 明け方 まで 雷を伴い 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
-SUMMARY:雨 昼前 から くもり 所により 明け方 まで 雷を伴い 激しく 降る 32℃/25℃
+SUMMARY:雨 昼前 から くもり 所により 明け方 まで 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260730
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は33℃\n最低気温は25℃
+DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は30%\n最高気温は33℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:くもり時々晴 33℃/25℃
+SUMMARY:くもり 時々 晴れ 33℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
