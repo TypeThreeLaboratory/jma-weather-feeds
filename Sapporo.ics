@@ -38,7 +38,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20260729
-DESCRIPTION:天気はくもり 昼過ぎ から 雨 所により 雷 を伴う\n降水確率は60%
+DESCRIPTION:天気はくもり 昼過ぎ から 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
 SUMMARY:くもり 昼過ぎ から 雨 所により 雷 を伴う
@@ -46,10 +46,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20260730
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は25℃\n最低気温は20℃
+DESCRIPTION:天気はくもり 夜 雨\n降水確率は50%\n最高気温は25℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:くもり 一時 雨 25℃/20℃
+SUMMARY:くもり 夜 雨 25℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
