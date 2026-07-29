@@ -46,18 +46,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tottori-20260729
-DESCRIPTION:天気はくもり 夜 晴れ 所により 夕方 まで 雨 で 雷を伴う\n降水確率は30%
+DESCRIPTION:天気はくもり 夜 晴れ 所により 夕方 雨 で 雷を伴う\n降水確率は10%
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
-SUMMARY:くもり 夜 晴れ 所により 夕方 まで 雨 で 雷を伴う
+SUMMARY:くもり 夜 晴れ 所により 夕方 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tottori-20260730
-DESCRIPTION:天気は晴れ 明け方 まで くもり\n降水確率は10%
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:晴れ 明け方 まで くもり
+SUMMARY:晴れ 時々 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

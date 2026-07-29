@@ -46,18 +46,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20260729
-DESCRIPTION:天気はくもり 夕方 から 雨 所により 昼過ぎ から 雷 を伴う\n降水確率は60%
+DESCRIPTION:天気は雨 所により 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
-SUMMARY:くもり 夕方 から 雨 所により 昼過ぎ から 雷 を伴う
+SUMMARY:雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20260730
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は50%
+DESCRIPTION:天気はくもり 時々 雨 所により 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:くもり 時々 雨
+SUMMARY:くもり 時々 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
