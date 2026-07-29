@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 鳥取
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-tottori-20260801
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は36℃\n最低気温は25℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は37℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-SUMMARY:晴れ時々くもり 36℃/25℃
+SUMMARY:晴れ時々くもり 37℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -30,34 +30,42 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tottori-20260804
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は36℃\n最低気温は25℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は36℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
-SUMMARY:晴れ時々くもり 36℃/25℃
+SUMMARY:晴れ時々くもり 36℃/26℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-tottori-20260805
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は36℃\n最低気温は26℃
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:晴れ時々くもり 36℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tottori-20260729
-DESCRIPTION:天気はくもり 後 晴れ 明け方 まで 雨 所により 朝 まで 雷を伴い 激しく 降る\n降水確率は40%
+DESCRIPTION:天気はくもり 夜 晴れ 所により 夕方 まで 雨 で 雷を伴う\n降水確率は30%
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
-SUMMARY:くもり 後 晴れ 明け方 まで 雨 所により 朝 まで 雷を伴い 激しく 降る
+SUMMARY:くもり 夜 晴れ 所により 夕方 まで 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tottori-20260730
-DESCRIPTION:天気は晴れ 明け方 まで くもり\n降水確率は10%\n最高気温は36℃\n最低気温は25℃
+DESCRIPTION:天気は晴れ 明け方 まで くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:晴れ 明け方 まで くもり 36℃/25℃
+SUMMARY:晴れ 明け方 まで くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tottori-20260731
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は37℃\n最低気温は24℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は35℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-SUMMARY:晴れ時々くもり 37℃/24℃
+SUMMARY:晴れ 時々 くもり 35℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
