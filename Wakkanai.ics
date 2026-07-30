@@ -54,18 +54,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260730
-DESCRIPTION:天気は雨 所により 昼過ぎ から 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 夜 雨 所により 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-SUMMARY:雨 所により 昼過ぎ から 雷 を伴う
+SUMMARY:くもり 夜 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260731
-DESCRIPTION:天気は雨 昼前 から くもり 所により 昼前 まで 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 明け方 まで 雨 所により 昼前 まで 雷 を伴う\n降水確率は70%
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-SUMMARY:雨 昼前 から くもり 所により 昼前 まで 雷 を伴う
+SUMMARY:くもり 明け方 まで 雨 所により 昼前 まで 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
