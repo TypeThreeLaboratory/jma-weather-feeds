@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 津
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-tsu-20260801
-DESCRIPTION:天気は晴れ 昼過ぎ から 夕方 くもり\n降水確率は0%
+DESCRIPTION:天気は晴れ 昼過ぎ から 時々 くもり\n降水確率は0%
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-SUMMARY:晴れ 昼過ぎ から 夕方 くもり
+SUMMARY:晴れ 昼過ぎ から 時々 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

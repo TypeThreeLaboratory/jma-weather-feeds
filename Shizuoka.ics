@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-shizuoka-20260802
-DESCRIPTION:天気は晴れ 後 くもり\n降水確率は30%\n最高気温は35℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 夕方 から 夜のはじめ頃 雨 で 雷を伴い 激しく 降る\n降水確率は30%\n最高気温は35℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-SUMMARY:晴れ 後 くもり 35℃/26℃
+SUMMARY:晴れ 昼過ぎ から くもり 所により 夕方 から 夜のはじめ頃 雨 で 雷を伴い 激しく 降る 35℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
