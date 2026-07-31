@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 釧路
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kushiro-20260801
-DESCRIPTION:天気はくもり 所により 昼前 まで 霧\n降水確率は10%
+DESCRIPTION:天気はくもり 昼前 から 時々 晴れ 所により 昼前 まで 霧\n降水確率は10%
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-SUMMARY:くもり 所により 昼前 まで 霧
+SUMMARY:くもり 昼前 から 時々 晴れ 所により 昼前 まで 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -62,10 +62,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kushiro-20260731
-DESCRIPTION:天気はくもり 所により 夕方 まで 雨\n降水確率は20%
+DESCRIPTION:天気はくもり 所により 霧\n降水確率は10%
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-SUMMARY:くもり 所により 夕方 まで 雨
+SUMMARY:くもり 所により 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
