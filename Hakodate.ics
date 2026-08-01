@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 函館
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20260801
-DESCRIPTION:天気は雨 夜 くもり\n降水確率は60%
+DESCRIPTION:天気は雨 夜 くもり\n降水確率は20%
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:雨 夜 くもり
