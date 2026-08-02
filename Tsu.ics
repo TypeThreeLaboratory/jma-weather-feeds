@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 津
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-tsu-20260803
-DESCRIPTION:天気はくもり 北部 では 明け方 から 朝 雨 で 激しく 降る\n降水確率は30%
+DESCRIPTION:天気はくもり 所により 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-SUMMARY:くもり 北部 では 明け方 から 朝 雨 で 激しく 降る
+SUMMARY:くもり 所により 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tsu-20260804
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は30%\n最高気温は31℃\n最低気温は26℃
+DESCRIPTION:天気はくもり 昼過ぎ から 時々 晴れ\n降水確率は30%\n最高気温は31℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
-SUMMARY:くもり 時々 晴れ 31℃/26℃
+SUMMARY:くもり 昼過ぎ から 時々 晴れ 31℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
