@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260803
-DESCRIPTION:天気は晴れ 時々 くもり 所により 昼前 まで 霧\n降水確率は0%
+DESCRIPTION:天気は晴れ 朝晩 くもり 所により 昼前 まで 霧\n降水確率は0%
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-SUMMARY:晴れ 時々 くもり 所により 昼前 まで 霧
+SUMMARY:晴れ 朝晩 くもり 所により 昼前 まで 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
