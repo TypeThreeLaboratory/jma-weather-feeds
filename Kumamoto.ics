@@ -14,18 +14,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260806
-DESCRIPTION:天気は晴れ 昼過ぎ から 時々 くもり 所により 夕方 から 雨\n降水確率は30%
+DESCRIPTION:天気は晴れ 昼過ぎ から 時々 くもり 所により 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
-SUMMARY:晴れ 昼過ぎ から 時々 くもり 所により 夕方 から 雨
+SUMMARY:晴れ 昼過ぎ から 時々 くもり 所により 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260807
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は35℃\n最低気温は30℃
+DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は30%\n最高気温は36℃\n最低気温は30℃
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-SUMMARY:くもり 35℃/30℃
+SUMMARY:くもり 時々 晴れ 36℃/30℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
