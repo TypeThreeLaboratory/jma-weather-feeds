@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-naha-20260807
-DESCRIPTION:天気は雨\n降水確率は90%\n最高気温は31℃\n最低気温は27℃
+DESCRIPTION:天気は雨 所により 昼過ぎ から 夕方 雷を伴い 非常に 激しく 降る\n降水確率は90%\n最高気温は31℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-SUMMARY:雨 31℃/27℃
+SUMMARY:雨 所により 昼過ぎ から 夕方 雷を伴い 非常に 激しく 降る 31℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

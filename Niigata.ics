@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-niigata-20260807
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は34℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ 昼過ぎ から 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴い 激しく 降る\n降水確率は20%\n最高気温は34℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-SUMMARY:晴れ 時々 くもり 34℃/26℃
+SUMMARY:晴れ 昼過ぎ から 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴い 激しく 降る 34℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

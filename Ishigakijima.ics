@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260807
-DESCRIPTION:天気はくもり 後 一時 雨\n降水確率は60%\n最高気温は33℃\n最低気温は28℃
+DESCRIPTION:天気はくもり 昼前 から 雨 所により 夕方 から 雷を伴い 激しく 降る\n降水確率は60%\n最高気温は33℃\n最低気温は28℃
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-SUMMARY:くもり 後 一時 雨 33℃/28℃
+SUMMARY:くもり 昼前 から 雨 所により 夕方 から 雷を伴い 激しく 降る 33℃/28℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

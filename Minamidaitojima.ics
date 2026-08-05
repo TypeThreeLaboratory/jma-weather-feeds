@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260807
-DESCRIPTION:天気は雨\n降水確率は90%\n最高気温は32℃\n最低気温は28℃
+DESCRIPTION:天気は雨 夕方 から くもり 所により 明け方 まで 雷を伴い 非常に 激しく 降る\n降水確率は90%\n最高気温は32℃\n最低気温は28℃
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-SUMMARY:雨 32℃/28℃
+SUMMARY:雨 夕方 から くもり 所により 明け方 まで 雷を伴い 非常に 激しく 降る 32℃/28℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

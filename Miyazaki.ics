@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 宮崎
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260806
-DESCRIPTION:天気はくもり 昼前 から 雨 所により 昼過ぎ から 雷を伴い 激しく 降る\n降水確率は80%
+DESCRIPTION:天気はくもり 昼前 から 雨 所により 昼過ぎ から 雷を伴い 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
 SUMMARY:くもり 昼前 から 雨 所により 昼過ぎ から 雷を伴い 激しく 降る
@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260807
-DESCRIPTION:天気は雨\n降水確率は90%\n最高気温は32℃\n最低気温は28℃
+DESCRIPTION:天気は雨 所により 雷を伴い 激しく 降る\n降水確率は90%\n最高気温は32℃\n最低気温は28℃
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-SUMMARY:雨 32℃/28℃
+SUMMARY:雨 所により 雷を伴い 激しく 降る 32℃/28℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
