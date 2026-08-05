@@ -6,26 +6,26 @@ X-WR-CALNAME:週間天気予報 宮崎
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260805
-DESCRIPTION:天気はくもり 時々 晴れ 所により 雨\n降水確率は40%
+DESCRIPTION:天気は晴れ 夕方 から くもり 所により 雨\n降水確率は40%
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
-SUMMARY:くもり 時々 晴れ 所により 雨
+SUMMARY:晴れ 夕方 から くもり 所により 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260806
-DESCRIPTION:天気は雨 明け方 まで くもり 所により 昼過ぎ から 夕方 雷を伴い 激しく 降る\n降水確率は80%\n最高気温は32℃\n最低気温は28℃
+DESCRIPTION:天気は雨 明け方 まで くもり 所により 昼過ぎ から 夕方 雷を伴い 激しく 降る\n降水確率は80%
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
-SUMMARY:雨 明け方 まで くもり 所により 昼過ぎ から 夕方 雷を伴い 激しく 降る 32℃/28℃
+SUMMARY:雨 明け方 まで くもり 所により 昼過ぎ から 夕方 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260807
-DESCRIPTION:天気はくもり時々雨\n降水確率は70%\n最高気温は32℃\n最低気温は29℃
+DESCRIPTION:天気は雨\n降水確率は100%\n最高気温は31℃\n最低気温は29℃
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-SUMMARY:くもり時々雨 32℃/29℃
+SUMMARY:雨 31℃/29℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -38,18 +38,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260809
-DESCRIPTION:天気はくもり時々雨\n降水確率は70%\n最高気温は31℃\n最低気温は28℃
+DESCRIPTION:天気はくもり時々雨\n降水確率は70%\n最高気温は31℃\n最低気温は29℃
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-SUMMARY:くもり時々雨 31℃/28℃
+SUMMARY:くもり時々雨 31℃/29℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260810
-DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は32℃\n最低気温は27℃
+DESCRIPTION:天気はくもり時々雨\n降水確率は60%\n最高気温は32℃\n最低気温は28℃
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-SUMMARY:くもり一時雨 32℃/27℃
+SUMMARY:くもり時々雨 32℃/28℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -58,6 +58,14 @@ DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は34�
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
 SUMMARY:くもり一時雨 34℃/27℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-miyazaki-20260812
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は35℃\n最低気温は27℃
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:くもり 35℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
