@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 南大東
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260806
-DESCRIPTION:天気は雨 所により 夕方 から 雷を伴い 非常に 激しく 降る\n降水確率は90%
+DESCRIPTION:天気は雨 所により 夜 雷を伴い 非常に 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
-SUMMARY:雨 所により 夕方 から 雷を伴い 非常に 激しく 降る
+SUMMARY:雨 所により 夜 雷を伴い 非常に 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

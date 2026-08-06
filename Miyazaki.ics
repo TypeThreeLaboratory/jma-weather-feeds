@@ -6,26 +6,26 @@ X-WR-CALNAME:週間天気予報 宮崎
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260806
-DESCRIPTION:天気は雨 所により 昼過ぎ から 雷を伴い 激しく 降る\n降水確率は90%
+DESCRIPTION:天気は雨 所により 夜遅く 雷を伴い 激しく 降る\n降水確率は80%
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
-SUMMARY:雨 所により 昼過ぎ から 雷を伴い 激しく 降る
+SUMMARY:雨 所により 夜遅く 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260807
-DESCRIPTION:天気は雨 所により 雷を伴い 激しく 降る\n降水確率は90%
+DESCRIPTION:天気は雨 時々 くもり 所により 雷を伴い 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-SUMMARY:雨 所により 雷を伴い 激しく 降る
+SUMMARY:雨 時々 くもり 所により 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260808
-DESCRIPTION:天気は雨\n降水確率は90%\n最高気温は30℃\n最低気温は29℃
+DESCRIPTION:天気は雨 時々 くもり\n降水確率は90%\n最高気温は30℃\n最低気温は29℃
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-SUMMARY:雨 30℃/29℃
+SUMMARY:雨 時々 くもり 30℃/29℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
