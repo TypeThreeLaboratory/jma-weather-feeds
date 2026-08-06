@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 仙台
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-sendai-20260806
-DESCRIPTION:天気はくもり 昼前 から 夕方 晴れ 所により 朝 まで 雨\n降水確率は20%
+DESCRIPTION:天気は晴れ 夜 くもり 海上 では 霧\n降水確率は10%
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
-SUMMARY:くもり 昼前 から 夕方 晴れ 所により 朝 まで 雨
+SUMMARY:晴れ 夜 くもり 海上 では 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sendai-20260807
-DESCRIPTION:天気はくもり 朝 から 昼過ぎ 晴れ 所により 夕方 から 雨\n降水確率は30%\n最高気温は32℃\n最低気温は24℃
+DESCRIPTION:天気はくもり 朝 から 昼過ぎ 晴れ 所により 昼過ぎ から 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-SUMMARY:くもり 朝 から 昼過ぎ 晴れ 所により 夕方 から 雨 32℃/24℃
+SUMMARY:くもり 朝 から 昼過ぎ 晴れ 所により 昼過ぎ から 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sendai-20260808
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は31℃\n最低気温は24℃
+DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は40%\n最高気温は31℃\n最低気温は24℃
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-SUMMARY:くもり時々晴 31℃/24℃
+SUMMARY:くもり 時々 晴れ 31℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sendai-20260809
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は29℃\n最低気温は22℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は28℃\n最低気温は22℃
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-SUMMARY:くもり時々晴 29℃/22℃
+SUMMARY:くもり 28℃/22℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sendai-20260810
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は27℃\n最低気温は22℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は26℃\n最低気温は21℃
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-SUMMARY:くもり時々晴 27℃/22℃
+SUMMARY:くもり時々晴 26℃/21℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sendai-20260811
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は27℃\n最低気温は22℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は27℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
-SUMMARY:くもり時々晴 27℃/22℃
+SUMMARY:くもり 27℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sendai-20260812
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は28℃\n最低気温は22℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は25℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-SUMMARY:くもり時々晴 28℃/22℃
+SUMMARY:くもり 25℃/20℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-sendai-20260813
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は27℃\n最低気温は21℃
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:くもり 27℃/21℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

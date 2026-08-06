@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 和歌山
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-wakayama-20260806
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%
+DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は20%
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
-SUMMARY:晴れ 時々 くもり
+SUMMARY:くもり 時々 晴れ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakayama-20260807
-DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は40%\n最高気温は36℃\n最低気温は29℃
+DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-SUMMARY:晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う 36℃/29℃
+SUMMARY:晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakayama-20260808
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は36℃\n最低気温は28℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は30%\n最高気温は36℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-SUMMARY:くもり 36℃/28℃
+SUMMARY:晴れ 時々 くもり 36℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakayama-20260809
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は35℃\n最低気温は28℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は35℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-SUMMARY:くもり 35℃/28℃
+SUMMARY:くもり 35℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakayama-20260810
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は35℃\n最低気温は28℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は34℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-SUMMARY:くもり 35℃/28℃
+SUMMARY:くもり 34℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakayama-20260811
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は36℃\n最低気温は29℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は34℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
-SUMMARY:くもり時々晴 36℃/29℃
+SUMMARY:くもり時々晴 34℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakayama-20260812
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は35℃\n最低気温は28℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は34℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-SUMMARY:くもり時々晴 35℃/28℃
+SUMMARY:くもり時々晴 34℃/26℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-wakayama-20260813
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は33℃\n最低気温は25℃
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:くもり時々晴 33℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
