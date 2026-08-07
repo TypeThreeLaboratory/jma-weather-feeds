@@ -5,14 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 稚内
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-wakkanai-20260807
-DESCRIPTION:天気はくもり 夜遅く 雨 所により 雷 を伴う\n降水確率は50%
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260808
-SUMMARY:くもり 夜遅く 雨 所により 雷 を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20260808
 DESCRIPTION:天気はくもり 後 晴れ 明け方 まで 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260808
