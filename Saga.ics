@@ -6,26 +6,26 @@ X-WR-CALNAME:週間天気予報 佐賀
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-saga-20260807
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%
+DESCRIPTION:天気は晴れ 夜のはじめ頃 くもり 所により 夕方 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-SUMMARY:晴れ 時々 くもり
+SUMMARY:晴れ 夜のはじめ頃 くもり 所により 夕方 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-saga-20260808
-DESCRIPTION:天気はくもり 所により 昼過ぎ から 夜のはじめ頃 雨\n降水確率は20%
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-SUMMARY:くもり 所により 昼過ぎ から 夜のはじめ頃 雨
+SUMMARY:晴れ 時々 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-saga-20260809
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は20%\n最高気温は34℃\n最低気温は29℃
+DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は20%\n最高気温は33℃\n最低気温は28℃
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-SUMMARY:くもり 時々 晴れ 34℃/29℃
+SUMMARY:くもり 時々 晴れ 33℃/28℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
