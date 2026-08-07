@@ -5,16 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 札幌
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-sapporo-20260806
-DESCRIPTION:天気は晴れ 夜遅く くもり 所により 夜 霧\n降水確率は0%
-DTSTART;VALUE=DATE:20260806
-DTEND;VALUE=DATE:20260807
-SUMMARY:晴れ 夜遅く くもり 所により 夜 霧
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20260807
-DESCRIPTION:天気は晴れ 朝晩 くもり 所により 霧\n降水確率は0%
+DESCRIPTION:天気は晴れ 朝晩 くもり 所により 霧\n降水確率は10%
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:晴れ 朝晩 くもり 所により 霧
@@ -22,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20260808
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は26℃\n最低気温は20℃
+DESCRIPTION:天気はくもり 後 晴れ 明け方 から 朝 雨 所により 昼前 まで 雷 を伴う\n降水確率は50%\n最高気温は26℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-SUMMARY:くもり 一時 雨 26℃/20℃
+SUMMARY:くもり 後 晴れ 明け方 から 朝 雨 所により 昼前 まで 雷 を伴う 26℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
