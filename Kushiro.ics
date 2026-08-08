@@ -5,14 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 釧路
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-kushiro-20260808
-DESCRIPTION:天気は雨 所により 雷を伴い 激しく 降る\n降水確率は50%
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-SUMMARY:雨 所により 雷を伴い 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-kushiro-20260809
 DESCRIPTION:天気はくもり 後 晴れ 明け方 まで 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260809
