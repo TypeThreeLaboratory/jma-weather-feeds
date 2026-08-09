@@ -5,14 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 松江
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-matsue-20260809
-DESCRIPTION:天気はくもり 所により 夕方 雨 で 雷を伴い 激しく 降る\n降水確率は20%
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-SUMMARY:くもり 所により 夕方 雨 で 雷を伴い 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20260810
 DESCRIPTION:天気はくもり 昼前 から 晴れ 所により 夜のはじめ頃 まで 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260810
