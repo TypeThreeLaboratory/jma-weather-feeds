@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-choshi-20260811
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は29℃\n最低気温は21℃
+DESCRIPTION:天気はくもり 昼過ぎ から 雨 所により 夕方 から 夜のはじめ頃 雷を伴い 激しく 降る\n降水確率は60%\n最高気温は29℃\n最低気温は21℃
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
-SUMMARY:くもり 一時 雨 29℃/21℃
+SUMMARY:くもり 昼過ぎ から 雨 所により 夕方 から 夜のはじめ頃 雷を伴い 激しく 降る 29℃/21℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
