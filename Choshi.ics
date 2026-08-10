@@ -6,23 +6,23 @@ X-WR-CALNAME:週間天気予報 銚子
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-choshi-20260810
-DESCRIPTION:天気は晴れ 夕方 から くもり\n降水確率は10%
+DESCRIPTION:天気は晴れ 夜遅く くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-SUMMARY:晴れ 夕方 から くもり
+SUMMARY:晴れ 夜遅く くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-choshi-20260811
-DESCRIPTION:天気はくもり 昼過ぎ から 雨 所により 夕方 から 夜のはじめ頃 雷を伴い 激しく 降る\n降水確率は60%
+DESCRIPTION:天気はくもり 昼前 から 雨 所により 夜のはじめ頃 雷を伴い 非常に 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
-SUMMARY:くもり 昼過ぎ から 雨 所により 夕方 から 夜のはじめ頃 雷を伴い 激しく 降る
+SUMMARY:くもり 昼前 から 雨 所により 夜のはじめ頃 雷を伴い 非常に 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-choshi-20260812
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は60%\n最高気温は29℃\n最低気温は23℃
+DESCRIPTION:天気はくもり 一時 雨\n降水確率は70%\n最高気温は29℃\n最低気温は23℃
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:くもり 一時 雨 29℃/23℃
