@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-utsunomiya-20260812
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は80%\n最高気温は28℃\n最低気温は20℃
+DESCRIPTION:天気は雨 昼前 から くもり 所により 夜のはじめ頃 まで 雷を伴い 激しく 降る\n降水確率は80%\n最高気温は28℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-SUMMARY:くもり 時々 雨 28℃/20℃
+SUMMARY:雨 昼前 から くもり 所により 夜のはじめ頃 まで 雷を伴い 激しく 降る 28℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

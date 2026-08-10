@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kochi-20260812
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は32℃\n最低気温は22℃
+DESCRIPTION:天気はくもり 昼過ぎ まで 時々 晴れ 所により 夕方 から 雨\n降水確率は40%\n最高気温は32℃\n最低気温は22℃
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-SUMMARY:くもり 32℃/22℃
+SUMMARY:くもり 昼過ぎ まで 時々 晴れ 所により 夕方 から 雨 32℃/22℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

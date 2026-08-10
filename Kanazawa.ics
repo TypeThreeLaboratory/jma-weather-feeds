@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 金沢
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kanazawa-20260811
-DESCRIPTION:天気は晴れ 後 くもり 夜遅く 雨 所により 雷を伴い 激しく 降る\n降水確率は60%
+DESCRIPTION:天気は晴れ 後 くもり 夜遅く 雨 所により 雷を伴い 激しく 降る\n降水確率は50%
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
 SUMMARY:晴れ 後 くもり 夜遅く 雨 所により 雷を伴い 激しく 降る
@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kanazawa-20260812
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は33℃\n最低気温は25℃
+DESCRIPTION:天気は晴れ 時々 くもり 明け方 まで 雨 所により 雷を伴い 激しく 降る\n降水確率は50%\n最高気温は33℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-SUMMARY:くもり 一時 雨 33℃/25℃
+SUMMARY:晴れ 時々 くもり 明け方 まで 雨 所により 雷を伴い 激しく 降る 33℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
