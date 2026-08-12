@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 甲府
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kofu-20260813
-DESCRIPTION:天気はくもり 朝 晴れ 所により 雨 で 雷を伴う\n降水確率は30%
+DESCRIPTION:天気は晴れ 昼前 から くもり 所により 雨 で 雷を伴う\n降水確率は30%
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-SUMMARY:くもり 朝 晴れ 所により 雨 で 雷を伴う
+SUMMARY:晴れ 昼前 から くもり 所により 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kofu-20260814
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は60%\n最高気温は32℃\n最低気温は23℃
+DESCRIPTION:天気はくもり 昼過ぎ から 時々 雨 所により 昼前 から 雷 を伴う\n降水確率は60%\n最高気温は32℃\n最低気温は23℃
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-SUMMARY:くもり 一時 雨 32℃/23℃
+SUMMARY:くもり 昼過ぎ から 時々 雨 所により 昼前 から 雷 を伴う 32℃/23℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
