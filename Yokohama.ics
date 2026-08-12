@@ -5,14 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 横浜
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-yokohama-20260812
-DESCRIPTION:天気はくもり 夜のはじめ頃 雨 所により 雷を伴い 激しく 降る\n降水確率は50%
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-SUMMARY:くもり 夜のはじめ頃 雨 所により 雷を伴い 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-yokohama-20260813
 DESCRIPTION:天気は雨 朝晩 くもり 所により 朝 から 雷を伴い 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260813
