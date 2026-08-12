@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 金沢
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kanazawa-20260812
-DESCRIPTION:天気はくもり 所により 雨 で 雷を伴い 激しく 降る\n降水確率は30%
+DESCRIPTION:天気はくもり 所により 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-SUMMARY:くもり 所により 雨 で 雷を伴い 激しく 降る
+SUMMARY:くもり 所により 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
