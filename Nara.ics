@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 奈良
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-nara-20260813
-DESCRIPTION:天気はくもり 所により 雨 で 雷を伴う\n降水確率は40%
+DESCRIPTION:天気はくもり 所により 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
 SUMMARY:くもり 所により 雨 で 雷を伴う
