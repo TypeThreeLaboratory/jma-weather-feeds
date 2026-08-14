@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 鹿児島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260815
-DESCRIPTION:天気はくもり 昼過ぎ まで 時々 晴れ 所により 雨\n降水確率は30%
+DESCRIPTION:天気は晴れ 夕方 から くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-SUMMARY:くもり 昼過ぎ まで 時々 晴れ 所により 雨
+SUMMARY:晴れ 夕方 から くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260816
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は31℃\n最低気温は26℃
+DESCRIPTION:天気はくもり 所により 昼前 から 昼過ぎ 雨\n降水確率は40%\n最高気温は31℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-SUMMARY:くもり 31℃/26℃
+SUMMARY:くもり 所により 昼前 から 昼過ぎ 雨 31℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
