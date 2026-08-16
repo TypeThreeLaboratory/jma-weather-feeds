@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 新潟
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-niigata-20260816
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は10%
+DESCRIPTION:天気は晴れ 時々 くもり 所により 昼前 から 夕方 雨 で 雷を伴い 激しく 降る\n降水確率は20%
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
-SUMMARY:くもり 時々 晴れ
+SUMMARY:晴れ 時々 くもり 所により 昼前 から 夕方 雨 で 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
