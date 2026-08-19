@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 熊本
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260819
-DESCRIPTION:天気は晴れ 朝晩 くもり 所により 昼過ぎ から 夜のはじめ頃 雨\n降水確率は20%
+DESCRIPTION:天気は晴れ 夜 くもり 所により 昼過ぎ から 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-SUMMARY:晴れ 朝晩 くもり 所により 昼過ぎ から 夜のはじめ頃 雨
+SUMMARY:晴れ 夜 くもり 所により 昼過ぎ から 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260820
-DESCRIPTION:天気はくもり 時々 晴れ 所により 夕方 雨 で 雷を伴い 激しく 降る\n降水確率は30%\n最高気温は37℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 夕方 から 夜のはじめ頃 雨 で 雷を伴い 激しく 降る\n降水確率は40%
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-SUMMARY:くもり 時々 晴れ 所により 夕方 雨 で 雷を伴い 激しく 降る 37℃/26℃
+SUMMARY:晴れ 昼過ぎ から くもり 所により 夕方 から 夜のはじめ頃 雨 で 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260821
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は34℃\n最低気温は26℃
+DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は30%\n最高気温は37℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-SUMMARY:くもり 34℃/26℃
+SUMMARY:くもり 時々 晴れ 37℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260822
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は34℃\n最低気温は26℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は35℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-SUMMARY:くもり 34℃/26℃
+SUMMARY:くもり時々晴 35℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260823
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は34℃\n最低気温は26℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は35℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-SUMMARY:くもり時々晴 34℃/26℃
+SUMMARY:くもり時々晴 35℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260824
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は33℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は35℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-SUMMARY:くもり時々晴 33℃/26℃
+SUMMARY:晴れ時々くもり 35℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260825
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は33℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は35℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-SUMMARY:くもり時々晴 33℃/26℃
+SUMMARY:晴れ時々くもり 35℃/26℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-kumamoto-20260826
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は35℃\n最低気温は26℃
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:くもり時々晴 35℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
