@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hiroshima-20260822
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は30%\n最高気温は35℃\n最低気温は27℃
+DESCRIPTION:天気は晴れ 朝晩 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は30%\n最高気温は35℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-SUMMARY:くもり 時々 晴れ 35℃/27℃
+SUMMARY:晴れ 朝晩 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う 35℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
