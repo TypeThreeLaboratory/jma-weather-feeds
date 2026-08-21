@@ -6,26 +6,26 @@ X-WR-CALNAME:週間天気予報 松山
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-matsuyama-20260821
-DESCRIPTION:天気は晴れ 昼過ぎ から 時々 くもり 所により 昼過ぎ から 夕方 雨 で 雷を伴い 激しく 降る\n降水確率は20%
+DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夕方 雨 で 雷を伴い 激しく 降る\n降水確率は20%
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-SUMMARY:晴れ 昼過ぎ から 時々 くもり 所により 昼過ぎ から 夕方 雨 で 雷を伴い 激しく 降る
+SUMMARY:晴れ 時々 くもり 所により 昼過ぎ から 夕方 雨 で 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsuyama-20260822
-DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夕方 雨\n降水確率は30%\n最高気温は34℃\n最低気温は25℃
+DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夕方 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-SUMMARY:晴れ 時々 くもり 所により 昼過ぎ から 夕方 雨 34℃/25℃
+SUMMARY:晴れ 時々 くもり 所により 昼過ぎ から 夕方 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsuyama-20260823
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は34℃\n最低気温は25℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は35℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-SUMMARY:晴れ時々くもり 34℃/25℃
+SUMMARY:晴れ 時々 くもり 35℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -46,10 +46,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsuyama-20260826
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は34℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は35℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-SUMMARY:晴れ時々くもり 34℃/26℃
+SUMMARY:晴れ時々くもり 35℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -57,6 +57,14 @@ UID:jma-weather-ical-matsuyama-20260827
 DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は34℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
+SUMMARY:くもり時々晴 34℃/26℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-matsuyama-20260828
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は34℃\n最低気温は26℃
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
 SUMMARY:くもり時々晴 34℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
