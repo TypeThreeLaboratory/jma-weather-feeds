@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 熊本
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260821
-DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 夕方 から 夜のはじめ頃 雨 で 雷を伴い 非常に 激しく 降る\n降水確率は30%
+DESCRIPTION:天気は晴れ 夜 くもり 所により 夜のはじめ頃 まで 雨 で 雷を伴い 非常に 激しく 降る\n降水確率は30%
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-SUMMARY:晴れ 昼過ぎ から くもり 所により 夕方 から 夜のはじめ頃 雨 で 雷を伴い 非常に 激しく 降る
+SUMMARY:晴れ 夜 くもり 所により 夜のはじめ頃 まで 雨 で 雷を伴い 非常に 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
