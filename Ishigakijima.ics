@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 石垣島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20260822
-DESCRIPTION:天気は雨 所により 夜 雷を伴い 非常に 激しく 降る\n降水確率は80%
+DESCRIPTION:天気は雨 所により 雷を伴い 非常に 激しく 降る\n降水確率は80%
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-SUMMARY:雨 所により 夜 雷を伴い 非常に 激しく 降る
+SUMMARY:雨 所により 雷を伴い 非常に 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
