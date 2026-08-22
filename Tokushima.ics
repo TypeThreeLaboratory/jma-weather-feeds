@@ -6,15 +6,15 @@ X-WR-CALNAME:週間天気予報 徳島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20260822
-DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夕方 雨 で 雷を伴い 激しく 降る\n降水確率は20%
+DESCRIPTION:天気は晴れ 夜のはじめ頃 くもり 所により 夕方 雨 で 雷を伴い 激しく 降る\n降水確率は10%
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-SUMMARY:晴れ 時々 くもり 所により 昼過ぎ から 夕方 雨 で 雷を伴い 激しく 降る
+SUMMARY:晴れ 夜のはじめ頃 くもり 所により 夕方 雨 で 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20260823
-DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夕方 雨\n降水確率は10%
+DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夕方 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:晴れ 時々 くもり 所により 昼過ぎ から 夕方 雨
