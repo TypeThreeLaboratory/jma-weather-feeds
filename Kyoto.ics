@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 京都
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20260825
-DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴い 激しく 降る\n降水確率は20%
+DESCRIPTION:天気は晴れ 昼過ぎ から 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-SUMMARY:晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴い 激しく 降る
+SUMMARY:晴れ 昼過ぎ から 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20260826
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は37℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 雨 で 雷を伴う\n降水確率は20%\n最高気温は37℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-SUMMARY:晴れ 時々 くもり 37℃/26℃
+SUMMARY:晴れ 時々 くもり 所により 昼過ぎ から 雨 で 雷を伴う 37℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
