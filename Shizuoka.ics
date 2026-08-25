@@ -22,10 +22,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-shizuoka-20260827
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は35℃\n最低気温は27℃
+DESCRIPTION:天気はくもり 時々 雨 所により 夕方 まで 雷を伴い 激しく 降る\n降水確率は50%\n最高気温は35℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-SUMMARY:くもり 一時 雨 35℃/27℃
+SUMMARY:くもり 時々 雨 所により 夕方 まで 雷を伴い 激しく 降る 35℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

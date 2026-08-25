@@ -14,18 +14,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260826
-DESCRIPTION:天気はくもり 昼前 から 時々 晴れ 所により 夕方 から 夜のはじめ頃 雨\n降水確率は20%
+DESCRIPTION:天気はくもり 夕方 晴れ 所により 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-SUMMARY:くもり 昼前 から 時々 晴れ 所により 夕方 から 夜のはじめ頃 雨
+SUMMARY:くもり 夕方 晴れ 所により 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260827
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は27℃\n最低気温は18℃
+DESCRIPTION:天気はくもり 未明 雨 所により 昼前 から 雷\n降水確率は50%\n最高気温は27℃\n最低気温は18℃
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-SUMMARY:くもり 一時 雨 27℃/18℃
+SUMMARY:くもり 未明 雨 所により 昼前 から 雷 27℃/18℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

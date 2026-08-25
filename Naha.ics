@@ -14,18 +14,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-naha-20260826
-DESCRIPTION:天気は雨 夕方 から くもり 所により 明け方 まで 雷を伴い 激しく 降る\n降水確率は80%
+DESCRIPTION:天気は雨 夜 くもり 所により 朝 まで 雷を伴い 激しく 降る\n降水確率は70%
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-SUMMARY:雨 夕方 から くもり 所により 明け方 まで 雷を伴い 激しく 降る
+SUMMARY:雨 夜 くもり 所により 朝 まで 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-naha-20260827
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は32℃\n最低気温は27℃
+DESCRIPTION:天気はくもり 時々 晴れ 所により 朝 から 雨\n降水確率は50%\n最高気温は32℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-SUMMARY:くもり 一時 雨 32℃/27℃
+SUMMARY:くもり 時々 晴れ 所により 朝 から 雨 32℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
