@@ -38,7 +38,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsuyama-20260828
-DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は33℃\n最低気温は26℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は33℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:くもり一時雨 33℃/26℃
