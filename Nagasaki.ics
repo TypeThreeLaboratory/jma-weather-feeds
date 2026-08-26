@@ -21,14 +21,6 @@ SUMMARY:くもり時々晴 33℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-nagasaki-20260826
-DESCRIPTION:天気はくもり 所により 雨 で 雷を伴う\n降水確率は20%
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:くもり 所により 雨 で 雷を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-nagasaki-20260827
 DESCRIPTION:天気は晴れ 後 くもり 昼過ぎ から 夕方 雨 所により 昼過ぎ から 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260827
