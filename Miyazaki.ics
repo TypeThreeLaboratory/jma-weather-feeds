@@ -22,18 +22,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260826
-DESCRIPTION:天気はくもり 所により 雨 で 雷を伴う\n降水確率は40%
+DESCRIPTION:天気はくもり 夜のはじめ頃 雨 所により 夜のはじめ頃 まで 雷を伴い 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-SUMMARY:くもり 所により 雨 で 雷を伴う
+SUMMARY:くもり 夜のはじめ頃 雨 所により 夜のはじめ頃 まで 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20260827
-DESCRIPTION:天気はくもり 昼前 から 昼過ぎ 雨\n降水確率は60%
+DESCRIPTION:天気はくもり 朝 から 昼前 雨 所により 夕方 まで 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-SUMMARY:くもり 昼前 から 昼過ぎ 雨
+SUMMARY:くもり 朝 から 昼前 雨 所により 夕方 まで 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

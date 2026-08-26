@@ -22,18 +22,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-saga-20260826
-DESCRIPTION:天気は晴れ 夕方 から くもり 所により 夕方 雨 で 雷を伴い 激しく 降る\n降水確率は20%
+DESCRIPTION:天気はくもり 所により 夕方 雨 で 雷を伴い 激しく 降る\n降水確率は20%
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-SUMMARY:晴れ 夕方 から くもり 所により 夕方 雨 で 雷を伴い 激しく 降る
+SUMMARY:くもり 所により 夕方 雨 で 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-saga-20260827
-DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 雨 で 雷を伴う\n降水確率は40%
+DESCRIPTION:天気は晴れ 昼前 から くもり 所により 夕方 雨 で 雷を伴い 激しく 降る\n降水確率は40%
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-SUMMARY:晴れ 昼過ぎ から くもり 所により 雨 で 雷を伴う
+SUMMARY:晴れ 昼前 から くもり 所により 夕方 雨 で 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

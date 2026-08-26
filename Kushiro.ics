@@ -22,23 +22,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kushiro-20260826
-DESCRIPTION:天気はくもり 昼過ぎ 晴れ 所により 夕方 から 雨\n降水確率は20%
+DESCRIPTION:天気はくもり 夜遅く 雨\n降水確率は50%
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-SUMMARY:くもり 昼過ぎ 晴れ 所により 夕方 から 雨
+SUMMARY:くもり 夜遅く 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kushiro-20260827
-DESCRIPTION:天気はくもり 未明 雨 所により 昼前 から 雷\n降水確率は50%
+DESCRIPTION:天気はくもり 朝晩 雨 所により 昼前 から 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-SUMMARY:くもり 未明 雨 所により 昼前 から 雷
+SUMMARY:くもり 朝晩 雨 所により 昼前 から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kushiro-20260828
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は50%\n最高気温は27℃\n最低気温は19℃
+DESCRIPTION:天気はくもり 時々 雨\n降水確率は60%\n最高気温は27℃\n最低気温は19℃
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:くもり 時々 雨 27℃/19℃

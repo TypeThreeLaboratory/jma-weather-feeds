@@ -22,18 +22,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kobe-20260826
-DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴い 激しく 降る\n降水確率は30%
+DESCRIPTION:天気は晴れ 夜のはじめ頃 くもり 所により 夜のはじめ頃 まで 雨 で 雷を伴い 激しく 降る\n降水確率は30%
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-SUMMARY:晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴い 激しく 降る
+SUMMARY:晴れ 夜のはじめ頃 くもり 所により 夜のはじめ頃 まで 雨 で 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kobe-20260827
-DESCRIPTION:天気はくもり 昼過ぎ から 雨 所により 昼過ぎ から 夜のはじめ頃 雷を伴い 激しく 降る\n降水確率は50%
+DESCRIPTION:天気はくもり 昼過ぎ から 時々 雨 所により 昼過ぎ から 夜のはじめ頃 雷を伴い 激しく 降る\n降水確率は50%
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-SUMMARY:くもり 昼過ぎ から 雨 所により 昼過ぎ から 夜のはじめ頃 雷を伴い 激しく 降る
+SUMMARY:くもり 昼過ぎ から 時々 雨 所により 昼過ぎ から 夜のはじめ頃 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

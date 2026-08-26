@@ -22,18 +22,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-maebashi-20260826
-DESCRIPTION:天気は晴れ 後 くもり 夜のはじめ頃 一時 雨 所により 雷を伴い 非常に 激しく 降る\n降水確率は50%
+DESCRIPTION:天気はくもり 夜のはじめ頃 雨 所により 雷を伴い 非常に 激しく 降る\n降水確率は50%
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-SUMMARY:晴れ 後 くもり 夜のはじめ頃 一時 雨 所により 雷を伴い 非常に 激しく 降る
+SUMMARY:くもり 夜のはじめ頃 雨 所により 雷を伴い 非常に 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-maebashi-20260827
-DESCRIPTION:天気はくもり 時々 雨 所により 昼前 から 夕方 雷を伴い 激しく 降る\n降水確率は50%
+DESCRIPTION:天気はくもり 時々 雨 所により 夕方 まで 雷を伴い 激しく 降る\n降水確率は50%
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-SUMMARY:くもり 時々 雨 所により 昼前 から 夕方 雷を伴い 激しく 降る
+SUMMARY:くもり 時々 雨 所により 夕方 まで 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
