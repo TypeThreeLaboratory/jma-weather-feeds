@@ -37,27 +37,19 @@ SUMMARY:くもり 31℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-gifu-20260828
-DESCRIPTION:天気はくもり 所により 雨\n降水確率は30%
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:くもり 所により 雨
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-gifu-20260829
-DESCRIPTION:天気は雨 朝晩 くもり 所により 朝 から 夜のはじめ頃 雷を伴い 激しく 降る\n降水確率は80%
+DESCRIPTION:天気は雨 所により 朝 から 夜のはじめ頃 雷を伴い 激しく 降る\n降水確率は80%
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-SUMMARY:雨 朝晩 くもり 所により 朝 から 夜のはじめ頃 雷を伴い 激しく 降る
+SUMMARY:雨 所により 朝 から 夜のはじめ頃 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-gifu-20260830
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は34℃\n最低気温は25℃
+DESCRIPTION:天気はくもり 所により 夕方 まで 雨 で 雷を伴う\n降水確率は40%\n最高気温は34℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-SUMMARY:くもり 34℃/25℃
+SUMMARY:くもり 所により 夕方 まで 雨 で 雷を伴う 34℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

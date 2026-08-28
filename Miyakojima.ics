@@ -37,27 +37,19 @@ SUMMARY:くもり一時雨 30℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-miyakojima-20260828
-DESCRIPTION:天気は晴れ 所により 雨 で 雷を伴う\n降水確率は30%
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:晴れ 所により 雨 で 雷を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20260829
-DESCRIPTION:天気はくもり 時々 晴れ 所により 雨 で 雷を伴う\n降水確率は30%
+DESCRIPTION:天気は雨 昼前 から くもり 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-SUMMARY:くもり 時々 晴れ 所により 雨 で 雷を伴う
+SUMMARY:雨 昼前 から くもり 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20260830
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は31℃\n最低気温は27℃
+DESCRIPTION:天気はくもり 昼過ぎ から 時々 雨 所により 雷 を伴う\n降水確率は50%\n最高気温は31℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-SUMMARY:くもり 31℃/27℃
+SUMMARY:くもり 昼過ぎ から 時々 雨 所により 雷 を伴う 31℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

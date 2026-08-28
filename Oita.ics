@@ -37,16 +37,8 @@ SUMMARY:くもり 30℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-oita-20260828
-DESCRIPTION:天気は晴れ 夜 くもり 所により 夕方 雨 で 雷を伴い 激しく 降る\n降水確率は20%
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:晴れ 夜 くもり 所により 夕方 雨 で 雷を伴い 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-oita-20260829
-DESCRIPTION:天気は晴れ 時々 くもり 所により 夕方 から 夜のはじめ頃 雨\n降水確率は10%
+DESCRIPTION:天気は晴れ 時々 くもり 所により 夕方 から 夜のはじめ頃 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:晴れ 時々 くもり 所により 夕方 から 夜のはじめ頃 雨
@@ -54,10 +46,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-oita-20260830
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は36℃\n最低気温は27℃
+DESCRIPTION:天気は晴れ 夕方 から 夜のはじめ頃 くもり 所により 夕方 から 雨\n降水確率は20%\n最高気温は36℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-SUMMARY:晴れ 時々 くもり 36℃/27℃
+SUMMARY:晴れ 夕方 から 夜のはじめ頃 くもり 所により 夕方 から 雨 36℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
