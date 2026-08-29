@@ -45,14 +45,6 @@ SUMMARY:くもり時々晴 31℃/22℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-fukui-20260829
-DESCRIPTION:天気は雨 所により 雷を伴い 非常に 激しく 降る\n降水確率は90%
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:雨 所により 雷を伴い 非常に 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20260830
 DESCRIPTION:天気は雨 昼過ぎ から 時々 くもり 所により 明け方 まで 雷を伴い 非常に 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20260830
