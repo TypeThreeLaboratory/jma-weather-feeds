@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 熊本
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260901
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は37℃\n最低気温は26℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は36℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:くもり時々晴 37℃/26℃
+SUMMARY:くもり時々晴 36℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -22,42 +22,50 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260903
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は36℃\n最低気温は26℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は35℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-SUMMARY:くもり 36℃/26℃
+SUMMARY:くもり 35℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260904
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は33℃\n最低気温は26℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は35℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-SUMMARY:くもり 33℃/26℃
+SUMMARY:くもり 35℃/27℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-kumamoto-20260905
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は32℃\n最低気温は26℃
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:くもり 32℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260829
-DESCRIPTION:天気は晴れ 時々 くもり 所により 夕方 から 夜のはじめ頃 雨\n降水確率は20%
+DESCRIPTION:天気は晴れ 夕方 から くもり 所により 夕方 から 夜のはじめ頃 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
-SUMMARY:晴れ 時々 くもり 所により 夕方 から 夜のはじめ頃 雨
+SUMMARY:晴れ 夕方 から くもり 所により 夕方 から 夜のはじめ頃 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260830
-DESCRIPTION:天気は晴れ 夕方 から 夜のはじめ頃 くもり 所により 夕方 から 雨\n降水確率は20%\n最高気温は37℃\n最低気温は27℃
+DESCRIPTION:天気は晴れ 夕方 から 夜のはじめ頃 くもり 所により 夕方 から 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-SUMMARY:晴れ 夕方 から 夜のはじめ頃 くもり 所により 夕方 から 雨 37℃/27℃
+SUMMARY:晴れ 夕方 から 夜のはじめ頃 くもり 所により 夕方 から 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260831
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は37℃\n最低気温は26℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は30%\n最高気温は36℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-SUMMARY:くもり時々晴 37℃/26℃
+SUMMARY:晴れ 時々 くもり 36℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
