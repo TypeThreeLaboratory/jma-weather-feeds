@@ -53,14 +53,6 @@ SUMMARY:くもり 30℃/22℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-nagoya-20260830
-DESCRIPTION:天気は晴れ 夜のはじめ頃 くもり 所により 夜のはじめ頃 まで 雨 で 雷を伴う\n降水確率は20%
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:晴れ 夜のはじめ頃 くもり 所により 夜のはじめ頃 まで 雨 で 雷を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-nagoya-20260831
 DESCRIPTION:天気は晴れ 夜 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20260831
