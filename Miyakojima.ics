@@ -54,18 +54,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20260830
-DESCRIPTION:天気は晴れ 時々 くもり 夕方 一時 雨 所により 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気は晴れ 所により 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
-SUMMARY:晴れ 時々 くもり 夕方 一時 雨 所により 雷 を伴う
+SUMMARY:晴れ 所により 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20260831
-DESCRIPTION:天気はくもり 時々 晴れ 夜 雨 所により 昼過ぎ から 雷 を伴う\n降水確率は60%
+DESCRIPTION:天気はくもり 時々 晴れ 夜 雨 所により 雷を伴い 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-SUMMARY:くもり 時々 晴れ 夜 雨 所により 昼過ぎ から 雷 を伴う
+SUMMARY:くもり 時々 晴れ 夜 雨 所により 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
