@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 熊谷
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kumagaya-20260901
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は40%\n最高気温は34℃\n最低気温は23℃
+DESCRIPTION:天気はくもり 所により 明け方 まで 雨\n降水確率は40%\n最高気温は34℃\n最低気温は23℃
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:くもり 時々 晴れ 34℃/23℃
+SUMMARY:くもり 所により 明け方 まで 雨 34℃/23℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -54,10 +54,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumagaya-20260831
-DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 夜 雨\n降水確率は30%
+DESCRIPTION:天気はくもり 所により 夜 雨\n降水確率は40%
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-SUMMARY:晴れ 昼過ぎ から くもり 所により 夜 雨
+SUMMARY:くもり 所により 夜 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
