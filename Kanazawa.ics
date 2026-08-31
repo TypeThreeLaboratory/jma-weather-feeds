@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 金沢
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kanazawa-20260901
-DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は30%
+DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う
@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kanazawa-20260902
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は33℃\n最低気温は25℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は34℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-SUMMARY:くもり 33℃/25℃
+SUMMARY:くもり 34℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -58,14 +58,6 @@ DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は30℃\n最低
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:くもり 30℃/22℃
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:jma-weather-ical-kanazawa-20260831
-DESCRIPTION:天気は晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨\n降水確率は20%
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-SUMMARY:晴れ 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
