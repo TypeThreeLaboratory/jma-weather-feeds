@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 那覇
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-naha-20260902
-DESCRIPTION:天気は晴れ 後 くもり 夜 雨 所により 昼過ぎ から 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気は晴れ 夜 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-SUMMARY:晴れ 後 くもり 夜 雨 所により 昼過ぎ から 雷 を伴う
+SUMMARY:晴れ 夜 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
