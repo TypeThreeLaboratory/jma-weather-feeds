@@ -5,14 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 前橋
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-maebashi-20260902
-DESCRIPTION:天気は晴れ 夜 くもり 所により 雨 で 雷を伴い 激しく 降る\n降水確率は30%
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:晴れ 夜 くもり 所により 雨 で 雷を伴い 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-maebashi-20260903
 DESCRIPTION:天気はくもり 昼過ぎ から 雨 所により 昼過ぎ から 夕方 雷を伴い 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260903

@@ -5,14 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 山形
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-yamagata-20260902
-DESCRIPTION:天気はくもり 所により 夕方 雨 で 雷を伴い 激しく 降る\n降水確率は20%
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:くもり 所により 夕方 雨 で 雷を伴い 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20260903
 DESCRIPTION:天気は雨 夜 くもり 所により 朝 から 夕方 雷を伴い 激しく 降る\n降水確率は70%
 DTSTART;VALUE=DATE:20260903
