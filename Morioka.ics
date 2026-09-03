@@ -6,34 +6,34 @@ X-WR-CALNAME:週間天気予報 盛岡
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-morioka-20260903
-DESCRIPTION:天気は雨 昼過ぎ から 時々 くもり 所により 昼前 まで 雷を伴い 激しく 降る\n降水確率は80%
+DESCRIPTION:天気は雨 時々 くもり 所により 昼前 雷を伴い 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-SUMMARY:雨 昼過ぎ から 時々 くもり 所により 昼前 まで 雷を伴い 激しく 降る
+SUMMARY:雨 時々 くもり 所により 昼前 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-morioka-20260904
-DESCRIPTION:天気は晴れ 朝晩 くもり 所により 明け方 まで 雨\n降水確率は20%\n最高気温は27℃\n最低気温は18℃
+DESCRIPTION:天気は晴れ 朝晩 くもり 所により 明け方 まで 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-SUMMARY:晴れ 朝晩 くもり 所により 明け方 まで 雨 27℃/18℃
+SUMMARY:晴れ 朝晩 くもり 所により 明け方 まで 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-morioka-20260905
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は26℃\n最低気温は16℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は26℃\n最低気温は15℃
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
-SUMMARY:くもり時々晴 26℃/16℃
+SUMMARY:くもり 26℃/15℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-morioka-20260906
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は26℃\n最低気温は16℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は27℃\n最低気温は14℃
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
-SUMMARY:くもり時々晴 26℃/16℃
+SUMMARY:くもり時々晴 27℃/14℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -54,10 +54,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-morioka-20260909
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は29℃\n最低気温は20℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は27℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-SUMMARY:くもり 29℃/20℃
+SUMMARY:くもり 27℃/20℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-morioka-20260910
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は28℃\n最低気温は20℃
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:くもり 28℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
