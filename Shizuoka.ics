@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 静岡
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-shizuoka-20260904
-DESCRIPTION:天気はくもり 昼過ぎ から 雨 所により 雷 を伴う\n降水確率は60%
+DESCRIPTION:天気は雨 所により 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-SUMMARY:くもり 昼過ぎ から 雨 所により 雷 を伴う
+SUMMARY:雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
