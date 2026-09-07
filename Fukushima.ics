@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20260909
-DESCRIPTION:天気は雨 時々 くもり\n降水確率は90%\n最高気温は23℃\n最低気温は19℃
+DESCRIPTION:天気は雨 所により 昼前 まで 雷を伴い 激しく 降る\n降水確率は90%\n最高気温は23℃\n最低気温は19℃
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-SUMMARY:雨 時々 くもり 23℃/19℃
+SUMMARY:雨 所により 昼前 まで 雷を伴い 激しく 降る 23℃/19℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
