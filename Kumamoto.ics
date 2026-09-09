@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260911
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は60%\n最高気温は30℃\n最低気温は24℃
+DESCRIPTION:天気はくもり 未明 雨 所により 昼過ぎ から 夜のはじめ頃 雷\n降水確率は60%\n最高気温は30℃\n最低気温は24℃
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-SUMMARY:くもり 一時 雨 30℃/24℃
+SUMMARY:くもり 未明 雨 所により 昼過ぎ から 夜のはじめ頃 雷 30℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
