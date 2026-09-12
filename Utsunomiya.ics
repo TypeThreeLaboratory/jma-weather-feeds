@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-utsunomiya-20260914
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は40%\n最高気温は33℃\n最低気温は21℃
+DESCRIPTION:天気はくもり 朝 から 昼過ぎ 晴れ 所により 夕方 から 雨 で 雷を伴う\n降水確率は40%\n最高気温は33℃\n最低気温は21℃
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-SUMMARY:くもり 時々 晴れ 33℃/21℃
+SUMMARY:くもり 朝 から 昼過ぎ 晴れ 所により 夕方 から 雨 で 雷を伴う 33℃/21℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
