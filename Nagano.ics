@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagano-20260913
-DESCRIPTION:天気はくもり 朝 から 昼前 晴れ 所により 昼過ぎ から 夜のはじめ頃 雨\n降水確率は40%
+DESCRIPTION:天気はくもり 朝 晴れ 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は40%
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
-SUMMARY:くもり 朝 から 昼前 晴れ 所により 昼過ぎ から 夜のはじめ頃 雨
+SUMMARY:くもり 朝 晴れ 所により 昼過ぎ から 夜のはじめ頃 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -30,10 +30,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagano-20260915
-DESCRIPTION:天気はくもり時々雨\n降水確率は70%\n最高気温は28℃\n最低気温は20℃
+DESCRIPTION:天気はくもり時々雨\n降水確率は70%\n最高気温は27℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-SUMMARY:くもり時々雨 28℃/20℃
+SUMMARY:くもり時々雨 27℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
