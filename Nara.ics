@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nara-20260915
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は80%\n最高気温は28℃\n最低気温は22℃
+DESCRIPTION:天気は雨 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雷を伴い 激しく 降る\n降水確率は80%\n最高気温は28℃\n最低気温は22℃
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-SUMMARY:くもり 時々 雨 28℃/22℃
+SUMMARY:雨 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雷を伴い 激しく 降る 28℃/22℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
