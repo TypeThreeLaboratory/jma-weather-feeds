@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 佐賀
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-saga-20260914
-DESCRIPTION:天気は雨 夜 くもり 所により 夜のはじめ頃 まで 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 所により 雨\n降水確率は40%
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-SUMMARY:雨 夜 くもり 所により 夜のはじめ頃 まで 雷 を伴う
+SUMMARY:くもり 所により 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-saga-20260915
-DESCRIPTION:天気は雨 昼過ぎ から くもり\n降水確率は50%
+DESCRIPTION:天気は雨 昼前 から くもり\n降水確率は50%
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-SUMMARY:雨 昼過ぎ から くもり
+SUMMARY:雨 昼前 から くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
