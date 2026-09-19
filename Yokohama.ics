@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-yokohama-20260921
-DESCRIPTION:天気は雨\n降水確率は90%\n最高気温は27℃\n最低気温は20℃
+DESCRIPTION:天気は雨 所により 昼過ぎ から 雷を伴い 非常に 激しく 降る\n降水確率は90%\n最高気温は27℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-SUMMARY:雨 27℃/20℃
+SUMMARY:雨 所により 昼過ぎ から 雷を伴い 非常に 激しく 降る 27℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
