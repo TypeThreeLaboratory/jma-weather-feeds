@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 長野
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-nagano-20260921
-DESCRIPTION:天気はくもり 夕方 から 雨 所により 夜のはじめ頃 まで 雷 を伴う\n降水確率は60%
+DESCRIPTION:天気はくもり 夜遅く 雨 所により 夜のはじめ頃 まで 雷\n降水確率は50%
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-SUMMARY:くもり 夕方 から 雨 所により 夜のはじめ頃 まで 雷 を伴う
+SUMMARY:くもり 夜遅く 雨 所により 夜のはじめ頃 まで 雷
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
