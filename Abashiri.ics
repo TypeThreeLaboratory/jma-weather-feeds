@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20260924
-DESCRIPTION:天気は晴れ 後 くもり 昼過ぎ から 夕方 雨 所により 昼前 から 夕方 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気は晴れ 後 くもり 昼過ぎ から 夕方 雨 所により 昼前 から 夕方 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:晴れ 後 くもり 昼過ぎ から 夕方 雨 所により 昼前 から 夕方 雷 を伴う
