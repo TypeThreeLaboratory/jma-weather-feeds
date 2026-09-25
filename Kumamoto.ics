@@ -22,18 +22,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260925
-DESCRIPTION:天気は晴れ 夕方 から くもり 所により 夕方 から 夜のはじめ頃 雨\n降水確率は10%
+DESCRIPTION:天気は晴れ 夜 くもり 所により 夜のはじめ頃 雨\n降水確率は10%
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:晴れ 夕方 から くもり 所により 夕方 から 夜のはじめ頃 雨
+SUMMARY:晴れ 夜 くもり 所により 夜のはじめ頃 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20260926
-DESCRIPTION:天気は雨 時々 くもり 所により 夜 雷 を伴う\n降水確率は60%
+DESCRIPTION:天気は雨 明け方 まで くもり 所により 朝 から 雷 を伴う\n降水確率は80%
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-SUMMARY:雨 時々 くもり 所により 夜 雷 を伴う
+SUMMARY:雨 明け方 まで くもり 所により 朝 から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
