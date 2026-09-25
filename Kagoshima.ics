@@ -22,18 +22,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260926
-DESCRIPTION:天気はくもり 昼前 まで 時々 晴れ 所により 朝 から 雨 で 雷を伴う\n降水確率は40%
+DESCRIPTION:天気はくもり 夜遅く 雨 所により 夕方 から 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-SUMMARY:くもり 昼前 まで 時々 晴れ 所により 朝 から 雨 で 雷を伴う
+SUMMARY:くもり 夜遅く 雨 所により 夕方 から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kagoshima-20260927
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は60%\n最高気温は31℃\n最低気温は25℃
+DESCRIPTION:天気は雨 昼前 から くもり 所により 雷 を伴う\n降水確率は60%\n最高気温は31℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-SUMMARY:くもり 一時 雨 31℃/25℃
+SUMMARY:雨 昼前 から くもり 所により 雷 を伴う 31℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
