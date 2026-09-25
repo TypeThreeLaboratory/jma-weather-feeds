@@ -21,14 +21,6 @@ SUMMARY:くもり 31℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-minamidaitojima-20260925
-DESCRIPTION:天気はくもり 夜のはじめ頃 晴れ 所により 雨 で 雷を伴う\n降水確率は20%
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:くもり 夜のはじめ頃 晴れ 所により 雨 で 雷を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260926
 DESCRIPTION:天気はくもり 明け方 一時 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260926
