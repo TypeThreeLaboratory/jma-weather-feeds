@@ -29,14 +29,6 @@ SUMMARY:晴れ時々くもり 25℃/18℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-fukuoka-20260926
-DESCRIPTION:天気は雨 夜遅く くもり 所により 夕方 雷を伴い 激しく 降る\n降水確率は50%
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:雨 夜遅く くもり 所により 夕方 雷を伴い 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-fukuoka-20260927
 DESCRIPTION:天気はくもり 時々 雨 所により 夕方 まで 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260927
