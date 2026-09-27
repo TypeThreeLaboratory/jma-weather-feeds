@@ -37,27 +37,19 @@ SUMMARY:くもり 17℃/7℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-asahikawa-20260927
-DESCRIPTION:天気はくもり 夜のはじめ頃 雨 所により 雷 を伴う\n降水確率は50%
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:くもり 夜のはじめ頃 雨 所により 雷 を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20260928
-DESCRIPTION:天気はくもり 時々 雨 所により 昼前 から 夕方 雷を伴い 激しく 降る\n降水確率は60%
+DESCRIPTION:天気はくもり 昼過ぎ から 夕方 雨 所により 昼前 から 夕方 雷を伴い 激しく 降る\n降水確率は70%
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-SUMMARY:くもり 時々 雨 所により 昼前 から 夕方 雷を伴い 激しく 降る
+SUMMARY:くもり 昼過ぎ から 夕方 雨 所により 昼前 から 夕方 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20260929
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は70%\n最高気温は18℃\n最低気温は13℃
+DESCRIPTION:天気はくもり 朝 から 昼前 雨 所により 明け方 まで 雷\n降水確率は70%\n最高気温は18℃\n最低気温は13℃
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-SUMMARY:くもり 一時 雨 18℃/13℃
+SUMMARY:くもり 朝 から 昼前 雨 所により 明け方 まで 雷 18℃/13℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
