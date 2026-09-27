@@ -38,23 +38,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-oita-20260927
-DESCRIPTION:天気は雨 夕方 から 時々 くもり 所により 夕方 まで 雷を伴い 激しく 降る\n降水確率は60%
+DESCRIPTION:天気はくもり 所により 雨 で 雷を伴う\n降水確率は30%
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-SUMMARY:雨 夕方 から 時々 くもり 所により 夕方 まで 雷を伴い 激しく 降る
+SUMMARY:くもり 所により 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-oita-20260928
-DESCRIPTION:天気は雨 明け方 まで くもり 所により 昼過ぎ から 夕方 雷を伴い 激しく 降る\n降水確率は70%
+DESCRIPTION:天気は雨 明け方 まで くもり 所により 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-SUMMARY:雨 明け方 まで くもり 所により 昼過ぎ から 夕方 雷を伴い 激しく 降る
+SUMMARY:雨 明け方 まで くもり 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-oita-20260929
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は70%\n最高気温は26℃\n最低気温は22℃
+DESCRIPTION:天気はくもり 時々 雨\n降水確率は50%\n最高気温は26℃\n最低気温は22℃
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:くもり 時々 雨 26℃/22℃

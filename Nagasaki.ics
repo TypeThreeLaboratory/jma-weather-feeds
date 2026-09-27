@@ -38,23 +38,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagasaki-20260927
-DESCRIPTION:天気は雨 所により 夕方 まで 雷を伴い 非常に 激しく 降る\n降水確率は70%
+DESCRIPTION:天気は雨 夜のはじめ頃 くもり 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-SUMMARY:雨 所により 夕方 まで 雷を伴い 非常に 激しく 降る
+SUMMARY:雨 夜のはじめ頃 くもり 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagasaki-20260928
-DESCRIPTION:天気は雨 所により 昼前 から 昼過ぎ 雷を伴い 激しく 降る\n降水確率は80%
+DESCRIPTION:天気は雨 所により 明け方 から 朝 雷を伴い 激しく 降る\n降水確率は80%
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-SUMMARY:雨 所により 昼前 から 昼過ぎ 雷を伴い 激しく 降る
+SUMMARY:雨 所により 明け方 から 朝 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagasaki-20260929
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は60%\n最高気温は28℃\n最低気温は22℃
+DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は28℃\n最低気温は22℃
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:くもり 一時 雨 28℃/22℃
