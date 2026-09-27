@@ -38,18 +38,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260928
-DESCRIPTION:天気は雨 朝晩 くもり 所により 朝 から 昼前 雷を伴い 激しく 降る\n降水確率は70%
+DESCRIPTION:天気は雨 夕方 から くもり 所により 朝 まで 雷を伴い 激しく 降る\n降水確率は60%
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-SUMMARY:雨 朝晩 くもり 所により 朝 から 昼前 雷を伴い 激しく 降る
+SUMMARY:雨 夕方 から くもり 所により 朝 まで 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-minamidaitojima-20260929
-DESCRIPTION:天気は雨 後 くもり\n降水確率は50%\n最高気温は31℃\n最低気温は27℃
+DESCRIPTION:天気はくもり 昼前 から 時々 晴れ 所により 昼前 まで 雨 で 雷を伴う\n降水確率は50%\n最高気温は31℃\n最低気温は27℃
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-SUMMARY:雨 後 くもり 31℃/27℃
+SUMMARY:くもり 昼前 から 時々 晴れ 所により 昼前 まで 雨 で 雷を伴う 31℃/27℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
