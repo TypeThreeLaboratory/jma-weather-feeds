@@ -5,19 +5,11 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 釧路
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-kushiro-20261005
-DESCRIPTION:天気は晴れ 後 くもり 夜遅く 雨\n降水確率は60%
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:晴れ 後 くもり 夜遅く 雨
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-kushiro-20261006
-DESCRIPTION:天気は雨 昼前 から くもり 後 晴れ\n降水確率は80%
+DESCRIPTION:天気は雨 昼前 から くもり 後 晴れ 所により 朝 まで 雷 を伴う\n降水確率は80%
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:雨 昼前 から くもり 後 晴れ
+SUMMARY:雨 昼前 から くもり 後 晴れ 所により 朝 まで 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

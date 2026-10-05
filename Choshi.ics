@@ -5,16 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 銚子
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-choshi-20261005
-DESCRIPTION:天気は雨 夕方 から くもり\n降水確率は50%
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:雨 夕方 から くもり
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-choshi-20261006
-DESCRIPTION:天気はくもり 昼前 から 時々 晴れ 所により 明け方 まで 雨\n降水確率は20%
+DESCRIPTION:天気はくもり 昼前 から 時々 晴れ 所により 明け方 まで 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:くもり 昼前 から 時々 晴れ 所により 明け方 まで 雨

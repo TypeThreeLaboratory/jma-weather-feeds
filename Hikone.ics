@@ -5,24 +5,16 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 彦根
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-hikone-20261005
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は60%
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:くもり 時々 雨
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-hikone-20261006
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は20%
+DESCRIPTION:天気はくもり 昼過ぎ から 時々 晴れ 所により 明け方 まで 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:くもり 時々 晴れ
+SUMMARY:くもり 昼過ぎ から 時々 晴れ 所により 明け方 まで 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hikone-20261007
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は24℃\n最低気温は17℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は24℃\n最低気温は17℃
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:晴れ 時々 くもり 24℃/17℃
