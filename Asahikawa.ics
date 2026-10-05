@@ -14,50 +14,58 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261006
-DESCRIPTION:天気は雨 昼前 から くもり 所により 未明 雷を伴い 激しく 降る\n降水確率は80%\n最高気温は22℃\n最低気温は12℃
+DESCRIPTION:天気は雨 昼前 から くもり 所により 明け方 まで 雷を伴い 激しく 降る\n降水確率は70%
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:雨 昼前 から くもり 所により 未明 雷を伴い 激しく 降る 22℃/12℃
+SUMMARY:雨 昼前 から くもり 所により 明け方 まで 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261007
-DESCRIPTION:天気はくもり\n降水確率は30%\n最高気温は19℃\n最低気温は7℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は19℃\n最低気温は8℃
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:くもり 19℃/7℃
+SUMMARY:晴れ 時々 くもり 19℃/8℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261008
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は18℃\n最低気温は5℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は19℃\n最低気温は6℃
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-SUMMARY:晴れ時々くもり 18℃/5℃
+SUMMARY:晴れ時々くもり 19℃/6℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261009
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は21℃\n最低気温は8℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は20%\n最高気温は20℃\n最低気温は9℃
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:くもり時々晴 21℃/8℃
+SUMMARY:くもり時々晴 20℃/9℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261010
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は22℃\n最低気温は10℃
+DESCRIPTION:天気はくもり\n降水確率は30%\n最高気温は23℃\n最低気温は8℃
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-SUMMARY:くもり 22℃/10℃
+SUMMARY:くもり 23℃/8℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261011
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は19℃\n最低気温は8℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は21℃\n最低気温は9℃
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-SUMMARY:くもり 19℃/8℃
+SUMMARY:くもり 21℃/9℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-asahikawa-20261012
+DESCRIPTION:天気はくもり\n降水確率は30%\n最高気温は20℃\n最低気温は9℃
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:くもり 20℃/9℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
