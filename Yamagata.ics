@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 山形
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20261010
-DESCRIPTION:天気は晴れ\n降水確率は0%
+DESCRIPTION:天気は晴れ 所により 昼前 まで 霧\n降水確率は0%
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-SUMMARY:晴れ
+SUMMARY:晴れ 所により 昼前 まで 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20261011
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は25℃\n最低気温は14℃
+DESCRIPTION:天気は晴れ 昼前 から 昼過ぎ くもり\n降水確率は10%\n最高気温は25℃\n最低気温は14℃
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-SUMMARY:晴れ 時々 くもり 25℃/14℃
+SUMMARY:晴れ 昼前 から 昼過ぎ くもり 25℃/14℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
