@@ -6,15 +6,15 @@ X-WR-CALNAME:週間天気予報 岡山
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-okayama-20261011
-DESCRIPTION:天気は晴れ 夜 くもり\n降水確率は0%
+DESCRIPTION:天気は晴れ 夜遅く くもり\n降水確率は0%
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-SUMMARY:晴れ 夜 くもり
+SUMMARY:晴れ 夜遅く くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-okayama-20261012
-DESCRIPTION:天気はくもり 昼前 から 晴れ\n降水確率は20%
+DESCRIPTION:天気はくもり 昼前 から 晴れ\n降水確率は10%
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:くもり 昼前 から 晴れ
