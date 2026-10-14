@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 津
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-tsu-20261015
-DESCRIPTION:天気は晴れ 伊賀 では 明け方 から 昼前 霧\n降水確率は0%
+DESCRIPTION:天気は晴れ 伊賀 では 昼前 まで 霧\n降水確率は0%
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-SUMMARY:晴れ 伊賀 では 明け方 から 昼前 霧
+SUMMARY:晴れ 伊賀 では 昼前 まで 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
