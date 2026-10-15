@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 神戸
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kobe-20261016
-DESCRIPTION:天気は晴れ\n降水確率は0%
+DESCRIPTION:天気は晴れ 昼過ぎ から 夕方 くもり 北播丹波 では 昼前 まで 霧\n降水確率は10%
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:晴れ
+SUMMARY:晴れ 昼過ぎ から 夕方 くもり 北播丹波 では 昼前 まで 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
