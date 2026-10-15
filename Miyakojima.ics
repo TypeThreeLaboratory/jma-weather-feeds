@@ -6,39 +6,39 @@ X-WR-CALNAME:週間天気予報 宮古島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20261015
-DESCRIPTION:天気はくもり 朝晩 晴れ 所により 昼前 まで 雨\n降水確率は20%
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-SUMMARY:くもり 朝晩 晴れ 所により 昼前 まで 雨
+SUMMARY:晴れ 時々 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20261016
-DESCRIPTION:天気はくもり 昼過ぎ から 晴れ 所により 朝 から 昼過ぎ 雨\n降水確率は20%\n最高気温は30℃\n最低気温は25℃
+DESCRIPTION:天気はくもり 昼過ぎ から 晴れ 所により 朝 から 昼過ぎ 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:くもり 昼過ぎ から 晴れ 所により 朝 から 昼過ぎ 雨 30℃/25℃
+SUMMARY:くもり 昼過ぎ から 晴れ 所により 朝 から 昼過ぎ 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20261017
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は29℃\n最低気温は25℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は30℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-SUMMARY:くもり時々晴 29℃/25℃
+SUMMARY:晴れ 時々 くもり 30℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20261018
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は30℃\n最低気温は25℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は29℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
-SUMMARY:くもり時々晴 30℃/25℃
+SUMMARY:くもり時々晴 29℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20261019
-DESCRIPTION:天気はくもり時々晴\n降水確率は40%\n最高気温は30℃\n最低気温は25℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は30℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:くもり時々晴 30℃/25℃
@@ -46,18 +46,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20261020
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は30℃\n最低気温は25℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は30℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-SUMMARY:くもり 30℃/25℃
+SUMMARY:晴れ時々くもり 30℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20261021
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は29℃\n最低気温は25℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は29℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-SUMMARY:くもり 29℃/25℃
+SUMMARY:くもり時々晴 29℃/25℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-miyakojima-20261022
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は28℃\n最低気温は24℃
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:くもり 28℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
