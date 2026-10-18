@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 福井
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20261019
-DESCRIPTION:天気はくもり 昼過ぎ から 雨 所により 雷 を伴う\n降水確率は80%
+DESCRIPTION:天気はくもり 昼過ぎ から 雨 所により 雷 を伴う\n降水確率は90%
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:くもり 昼過ぎ から 雨 所により 雷 を伴う
@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20261020
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は80%\n最高気温は24℃\n最低気温は21℃
+DESCRIPTION:天気は雨 朝晩 くもり 所により 雷 を伴う\n降水確率は90%\n最高気温は24℃\n最低気温は21℃
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-SUMMARY:くもり 時々 雨 24℃/21℃
+SUMMARY:雨 朝晩 くもり 所により 雷 を伴う 24℃/21℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
