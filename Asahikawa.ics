@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261021
-DESCRIPTION:天気は雨 時々 くもり\n降水確率は80%\n最高気温は12℃\n最低気温は5℃
+DESCRIPTION:天気はくもり 昼前 から 雨 所により 夜 雷 を伴う\n降水確率は80%\n最高気温は12℃\n最低気温は5℃
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-SUMMARY:雨 時々 くもり 12℃/5℃
+SUMMARY:くもり 昼前 から 雨 所により 夜 雷 を伴う 12℃/5℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

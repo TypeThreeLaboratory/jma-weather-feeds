@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumagaya-20261021
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は30%\n最高気温は33℃\n最低気温は20℃
+DESCRIPTION:天気はくもり 時々 晴れ 所により 夜 雨\n降水確率は30%\n最高気温は33℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-SUMMARY:くもり 時々 晴れ 33℃/20℃
+SUMMARY:くもり 時々 晴れ 所により 夜 雨 33℃/20℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
