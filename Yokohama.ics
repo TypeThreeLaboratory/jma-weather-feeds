@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 横浜
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-yokohama-20261020
-DESCRIPTION:天気はくもり 所により 雨 で 雷を伴う\n降水確率は40%
+DESCRIPTION:天気はくもり 所により 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:くもり 所により 雨 で 雷を伴う
