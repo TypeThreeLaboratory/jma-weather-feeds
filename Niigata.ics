@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 新潟
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-niigata-20261024
-DESCRIPTION:天気はくもり 昼前 から 雨\n降水確率は70%
+DESCRIPTION:天気はくもり 昼前 から 雨\n降水確率は80%
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:くもり 昼前 から 雨
@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-niigata-20261025
-DESCRIPTION:天気は雨 時々 くもり\n降水確率は80%\n最高気温は19℃\n最低気温は16℃
+DESCRIPTION:天気は雨 夜 くもり 所により 昼前 から 昼過ぎ 激しく 降る\n降水確率は90%\n最高気温は19℃\n最低気温は16℃
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-SUMMARY:雨 時々 くもり 19℃/16℃
+SUMMARY:雨 夜 くもり 所により 昼前 から 昼過ぎ 激しく 降る 19℃/16℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
