@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 宮古島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20261023
-DESCRIPTION:天気は雨 所により 昼過ぎ から 夕方 雷を伴い 非常に 激しく 降る\n降水確率は90%
+DESCRIPTION:天気は雨 所により 昼過ぎ から 夕方 雷を伴い 非常に 激しく 降る\n降水確率は100%
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:雨 所により 昼過ぎ から 夕方 雷を伴い 非常に 激しく 降る
@@ -14,34 +14,34 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20261024
-DESCRIPTION:天気は雨 所により 昼前 まで 雷を伴い 激しく 降る\n降水確率は90%\n最高気温は30℃\n最低気温は26℃
+DESCRIPTION:天気は雨 所により 昼前 まで 雷を伴い 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-SUMMARY:雨 所により 昼前 まで 雷を伴い 激しく 降る 30℃/26℃
+SUMMARY:雨 所により 昼前 まで 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20261025
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は30℃\n最低気温は26℃
+DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は29℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-SUMMARY:くもり時々晴 30℃/26℃
+SUMMARY:くもり 一時 雨 29℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20261026
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は30℃\n最低気温は26℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は29℃\n最低気温は26℃
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-SUMMARY:くもり時々晴 30℃/26℃
+SUMMARY:くもり時々晴 29℃/26℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20261027
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は29℃\n最低気温は25℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は28℃\n最低気温は25℃
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:くもり 29℃/25℃
+SUMMARY:くもり時々晴 28℃/25℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -57,6 +57,14 @@ UID:jma-weather-ical-miyakojima-20261029
 DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は28℃\n最低気温は24℃
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
+SUMMARY:くもり時々晴 28℃/24℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-miyakojima-20261030
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は28℃\n最低気温は24℃
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
 SUMMARY:くもり時々晴 28℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
