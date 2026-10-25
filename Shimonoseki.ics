@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-shimonoseki-20261025
-DESCRIPTION:天気は雨 所により 雷 を伴う\n降水確率は80%
+DESCRIPTION:天気は雨 所により 雷 を伴う\n降水確率は70%
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:雨 所により 雷 を伴う
@@ -30,7 +30,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-shimonoseki-20261027
-DESCRIPTION:天気はくもり 後 晴れ\n降水確率は30%\n最高気温は25℃\n最低気温は19℃
+DESCRIPTION:天気はくもり 後 晴れ\n降水確率は20%\n最高気温は25℃\n最低気温は19℃
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:くもり 後 晴れ 25℃/19℃

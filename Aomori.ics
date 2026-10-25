@@ -14,23 +14,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-aomori-20261025
-DESCRIPTION:天気は雨 昼過ぎ から くもり 後 晴れ\n降水確率は20%
+DESCRIPTION:天気はくもり 夜遅く 晴れ\n降水確率は10%
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-SUMMARY:雨 昼過ぎ から くもり 後 晴れ
+SUMMARY:くもり 夜遅く 晴れ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-aomori-20261026
-DESCRIPTION:天気は晴れ 昼前 から 夕方 くもり\n降水確率は0%
+DESCRIPTION:天気は晴れ 昼前 から 時々 くもり\n降水確率は0%
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-SUMMARY:晴れ 昼前 から 夕方 くもり
+SUMMARY:晴れ 昼前 から 時々 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-aomori-20261027
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は80%\n最高気温は16℃\n最低気温は8℃
+DESCRIPTION:天気はくもり 一時 雨\n降水確率は70%\n最高気温は16℃\n最低気温は8℃
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:くもり 一時 雨 16℃/8℃

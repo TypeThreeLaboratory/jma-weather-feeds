@@ -22,7 +22,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20261026
-DESCRIPTION:天気は雨 夜 くもり 所により 夕方 まで 雷 を伴う\n降水確率は80%
+DESCRIPTION:天気は雨 夜 くもり 所により 夕方 まで 雷 を伴う\n降水確率は90%
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:雨 夜 くもり 所により 夕方 まで 雷 を伴う
