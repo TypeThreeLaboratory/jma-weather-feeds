@@ -14,18 +14,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagasaki-20261026
-DESCRIPTION:天気は雨 夜 くもり 所により 明け方 まで 雷を伴い 非常に 激しく 降る\n降水確率は90%
+DESCRIPTION:天気は雨 夕方 から くもり 所により 明け方 雷を伴い 非常に 激しく 降る\n降水確率は80%
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-SUMMARY:雨 夜 くもり 所により 明け方 まで 雷を伴い 非常に 激しく 降る
+SUMMARY:雨 夕方 から くもり 所により 明け方 雷を伴い 非常に 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagasaki-20261027
-DESCRIPTION:天気はくもり 後 晴れ\n降水確率は20%\n最高気温は24℃\n最低気温は18℃
+DESCRIPTION:天気はくもり 昼過ぎ から 晴れ\n降水確率は20%\n最高気温は24℃\n最低気温は18℃
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:くもり 後 晴れ 24℃/18℃
+SUMMARY:くもり 昼過ぎ から 晴れ 24℃/18℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

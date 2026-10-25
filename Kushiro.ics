@@ -14,18 +14,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kushiro-20261026
-DESCRIPTION:天気は晴れ 昼過ぎ から 時々 くもり\n降水確率は0%
+DESCRIPTION:天気は晴れ 夜 くもり\n降水確率は0%
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-SUMMARY:晴れ 昼過ぎ から 時々 くもり
+SUMMARY:晴れ 夜 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kushiro-20261027
-DESCRIPTION:天気は晴れ 後 くもり\n降水確率は40%\n最高気温は13℃\n最低気温は3℃
+DESCRIPTION:天気は晴れ 後 くもり 夜のはじめ頃 一時 雨\n降水確率は50%\n最高気温は13℃\n最低気温は3℃
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:晴れ 後 くもり 13℃/3℃
+SUMMARY:晴れ 後 くもり 夜のはじめ頃 一時 雨 13℃/3℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
