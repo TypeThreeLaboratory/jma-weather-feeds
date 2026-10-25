@@ -5,32 +5,40 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 岡山
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
+UID:jma-weather-ical-okayama-20261101
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は19℃\n最低気温は11℃
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:くもり時々晴 19℃/11℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:jma-weather-ical-okayama-20261025
-DESCRIPTION:天気はくもり 昼前 から 雨 所により 昼前 から 夕方 雷を伴い 激しく 降る\n降水確率は80%
+DESCRIPTION:天気は雨 所により 夕方 まで 雷を伴い 激しく 降る\n降水確率は80%
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-SUMMARY:くもり 昼前 から 雨 所により 昼前 から 夕方 雷を伴い 激しく 降る
+SUMMARY:雨 所により 夕方 まで 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-okayama-20261026
-DESCRIPTION:天気は雨 所により 朝 から 昼前 雷を伴い 激しく 降る\n降水確率は90%\n最高気温は22℃\n最低気温は19℃
+DESCRIPTION:天気は雨 所により 朝 から 昼前 雷を伴い 激しく 降る\n降水確率は90%
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-SUMMARY:雨 所により 朝 から 昼前 雷を伴い 激しく 降る 22℃/19℃
+SUMMARY:雨 所により 朝 から 昼前 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-okayama-20261027
-DESCRIPTION:天気はくもりのち晴れ\n降水確率は30%\n最高気温は24℃\n最低気温は16℃
+DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は30%\n最高気温は24℃\n最低気温は16℃
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:くもりのち晴れ 24℃/16℃
+SUMMARY:くもり 時々 晴れ 24℃/16℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-okayama-20261028
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は19℃\n最低気温は9℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は10%\n最高気温は19℃\n最低気温は9℃
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:晴れ時々くもり 19℃/9℃
@@ -38,10 +46,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-okayama-20261029
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は19℃\n最低気温は7℃
+DESCRIPTION:天気は晴れのちくもり\n降水確率は20%\n最高気温は19℃\n最低気温は7℃
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:晴れ時々くもり 19℃/7℃
+SUMMARY:晴れのちくもり 19℃/7℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -54,10 +62,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-okayama-20261031
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は21℃\n最低気温は11℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は23℃\n最低気温は12℃
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:くもり時々晴 21℃/11℃
+SUMMARY:くもり時々晴 23℃/12℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
