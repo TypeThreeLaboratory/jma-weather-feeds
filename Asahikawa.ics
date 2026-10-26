@@ -22,18 +22,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261027
-DESCRIPTION:天気はくもり 昼過ぎ から 雨か雪 所により 昼前 から 雷 を伴う\n降水確率は70%
+DESCRIPTION:天気はくもり 夕方 から 雨か雪 所により 昼前 から 雷 を伴う\n降水確率は80%
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:くもり 昼過ぎ から 雨か雪 所により 昼前 から 雷 を伴う
+SUMMARY:くもり 夕方 から 雨か雪 所により 昼前 から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261028
-DESCRIPTION:天気はくもり 時々 雪か雨\n降水確率は80%\n最高気温は5℃\n最低気温は1℃
+DESCRIPTION:天気はくもり 時々 雪か雨 所により 夕方 まで 雷 を伴う\n降水確率は80%\n最高気温は5℃\n最低気温は1℃
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:くもり 時々 雪か雨 5℃/1℃
+SUMMARY:くもり 時々 雪か雨 所により 夕方 まで 雷 を伴う 5℃/1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

@@ -22,18 +22,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-naha-20261027
-DESCRIPTION:天気はくもり 所により 雨\n降水確率は20%
+DESCRIPTION:天気はくもり 時々 晴れ 所により 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:くもり 所により 雨
+SUMMARY:くもり 時々 晴れ 所により 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-naha-20261028
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は20%\n最高気温は27℃\n最低気温は23℃
+DESCRIPTION:天気はくもり 時々 晴れ 所により 明け方 まで 雨\n降水確率は20%\n最高気温は27℃\n最低気温は23℃
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:くもり 時々 晴れ 27℃/23℃
+SUMMARY:くもり 時々 晴れ 所により 明け方 まで 雨 27℃/23℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
