@@ -46,7 +46,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-miyazaki-20261029
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は20%\n最高気温は24℃\n最低気温は12℃
+DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は30%\n最高気温は24℃\n最低気温は12℃
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:くもり 時々 晴れ 24℃/12℃

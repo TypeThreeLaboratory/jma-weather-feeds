@@ -30,26 +30,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20261027
-DESCRIPTION:天気は晴れ 後 くもり 夜遅く 雨 所により 夜 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 夜遅く 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:晴れ 後 くもり 夜遅く 雨 所により 夜 雷 を伴う
+SUMMARY:くもり 夜遅く 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20261028
-DESCRIPTION:天気はくもり 時々 雪か雨 所により 夕方 まで 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 未明 雨か雪 所により 夕方 まで 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:くもり 時々 雪か雨 所により 夕方 まで 雷 を伴う
+SUMMARY:くもり 未明 雨か雪 所により 夕方 まで 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20261029
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は20%\n最高気温は9℃\n最低気温は3℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は9℃\n最低気温は3℃
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:くもり 時々 晴れ 9℃/3℃
+SUMMARY:晴れ 時々 くもり 9℃/3℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
