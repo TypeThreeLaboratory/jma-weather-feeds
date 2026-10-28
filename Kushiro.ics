@@ -38,10 +38,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kushiro-20261028
-DESCRIPTION:天気は晴れ 時々 くもり 所により 夕方 まで 雪か雨 で 雷を伴う\n降水確率は10%
+DESCRIPTION:天気は晴れ 釧路北部 では 雪\n降水確率は10%
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:晴れ 時々 くもり 所により 夕方 まで 雪か雨 で 雷を伴う
+SUMMARY:晴れ 釧路北部 では 雪
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
