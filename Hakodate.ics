@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 函館
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261101
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は7℃\n最低気温は0℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は11℃\n最低気温は2℃
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-SUMMARY:くもり 7℃/0℃
+SUMMARY:くもり 11℃/2℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261102
-DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は10℃\n最低気温は3℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は12℃\n最低気温は3℃
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:くもり一時雨 10℃/3℃
+SUMMARY:くもり一時雨 12℃/3℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261103
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は8℃\n最低気温は0℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は8℃\n最低気温は1℃
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:くもり 8℃/0℃
+SUMMARY:くもり 8℃/1℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-hakodate-20261104
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は10℃\n最低気温は1℃
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:くもり 10℃/1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261028
-DESCRIPTION:天気は雪か雨 昼過ぎ から くもり 所により 夕方 まで 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気は雨か雪 昼過ぎ から くもり 所により 夕方 まで 雷 を伴う\n降水確率は30%
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:雪か雨 昼過ぎ から くもり 所により 夕方 まで 雷 を伴う
+SUMMARY:雨か雪 昼過ぎ から くもり 所により 夕方 まで 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261029
-DESCRIPTION:天気はくもり 夕方 から 雨 所により 雷 を伴う\n降水確率は80%\n最高気温は11℃\n最低気温は4℃
+DESCRIPTION:天気はくもり 夕方 から 雨 所により 雷 を伴う\n降水確率は80%
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:くもり 夕方 から 雨 所により 雷 を伴う 11℃/4℃
+SUMMARY:くもり 夕方 から 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261030
-DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は17℃\n最低気温は7℃
+DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は16℃\n最低気温は10℃
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:くもり一時雨 17℃/7℃
+SUMMARY:くもり 一時 雨 16℃/10℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261031
-DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は15℃\n最低気温は2℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は15℃\n最低気温は3℃
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:くもり一時雨 15℃/2℃
+SUMMARY:くもり一時雨 15℃/3℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
