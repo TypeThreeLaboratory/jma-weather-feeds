@@ -46,18 +46,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20261030
-DESCRIPTION:天気は晴れ 時々 くもり 所により 未明 雨\n降水確率は20%
+DESCRIPTION:天気は晴れ 朝晩 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:晴れ 時々 くもり 所により 未明 雨
+SUMMARY:晴れ 朝晩 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20261031
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は15℃\n最低気温は4℃
+DESCRIPTION:天気はくもり 所により 昼前 から 夜のはじめ頃 雨 で 雷を伴う\n降水確率は40%\n最高気温は15℃\n最低気温は4℃
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:くもり 15℃/4℃
+SUMMARY:くもり 所により 昼前 から 夜のはじめ頃 雨 で 雷を伴う 15℃/4℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

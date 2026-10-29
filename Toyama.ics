@@ -46,18 +46,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-toyama-20261030
-DESCRIPTION:天気はくもり 時々 雨 所により 昼前 から 雷 を伴う\n降水確率は80%
+DESCRIPTION:天気は雨 時々 くもり 所により 昼前 から 雷 を伴う\n降水確率は90%
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:くもり 時々 雨 所により 昼前 から 雷 を伴う
+SUMMARY:雨 時々 くもり 所により 昼前 から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-toyama-20261031
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は70%\n最高気温は20℃\n最低気温は12℃
+DESCRIPTION:天気はくもり 時々 雨 所により 夜のはじめ頃 まで 雷 を伴う\n降水確率は70%\n最高気温は20℃\n最低気温は12℃
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:くもり 時々 雨 20℃/12℃
+SUMMARY:くもり 時々 雨 所により 夜のはじめ頃 まで 雷 を伴う 20℃/12℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

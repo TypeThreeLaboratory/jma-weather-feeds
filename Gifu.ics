@@ -46,7 +46,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-gifu-20261030
-DESCRIPTION:天気はくもり 時々 雨 所により 昼過ぎ から 雷 を伴う\n降水確率は80%
+DESCRIPTION:天気はくもり 時々 雨 所により 昼過ぎ から 雷 を伴う\n降水確率は90%
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:くもり 時々 雨 所により 昼過ぎ から 雷 を伴う
