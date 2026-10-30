@@ -54,7 +54,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261030
-DESCRIPTION:天気はくもり 所により 雨 で 雷を伴う\n降水確率は30%
+DESCRIPTION:天気はくもり 所により 雨 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:くもり 所により 雨 で 雷を伴う
