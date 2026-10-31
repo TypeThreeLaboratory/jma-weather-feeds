@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 函館
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261101
-DESCRIPTION:天気はくもり 後 晴れ 夜遅く 雨\n降水確率は50%
+DESCRIPTION:天気はくもり 時々 晴れ 夜遅く 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-SUMMARY:くもり 後 晴れ 夜遅く 雨
+SUMMARY:くもり 時々 晴れ 夜遅く 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261102
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は60%\n最高気温は11℃\n最低気温は3℃
+DESCRIPTION:天気はくもり 未明 雨 所により 明け方 まで 雷 を伴う\n降水確率は60%\n最高気温は11℃\n最低気温は3℃
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:くもり 一時 雨 11℃/3℃
+SUMMARY:くもり 未明 雨 所により 明け方 まで 雷 を伴う 11℃/3℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -58,14 +58,6 @@ DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は7℃\n最低�
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:くもり 7℃/-1℃
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:jma-weather-ical-hakodate-20261031
-DESCRIPTION:天気はくもり 夜のはじめ頃 晴れ 所により 夕方 雨\n降水確率は10%
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:くもり 夜のはじめ頃 晴れ 所により 夕方 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
