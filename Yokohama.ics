@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 横浜
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-yokohama-20261101
-DESCRIPTION:天気はくもり 昼過ぎ まで 時々 晴れ\n降水確率は0%
+DESCRIPTION:天気はくもり 昼過ぎ まで 時々 晴れ\n降水確率は10%
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:くもり 昼過ぎ まで 時々 晴れ
@@ -62,10 +62,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-yokohama-20261031
-DESCRIPTION:天気は晴れ 昼過ぎ から 夕方 くもり\n降水確率は10%
+DESCRIPTION:天気はくもり 夜 晴れ\n降水確率は10%
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:晴れ 昼過ぎ から 夕方 くもり
+SUMMARY:くもり 夜 晴れ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
