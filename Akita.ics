@@ -5,27 +5,19 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 秋田
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-akita-20261101
-DESCRIPTION:天気はくもり 夜遅く 雨 所により 雷 を伴う\n降水確率は50%
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:くもり 夜遅く 雨 所により 雷 を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-akita-20261102
-DESCRIPTION:天気は雨 所により 朝 まで 雷 を伴う\n降水確率は90%
+DESCRIPTION:天気は雨 夜 くもり 所により 朝 まで 雷 を伴う\n降水確率は80%
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:雨 所により 朝 まで 雷 を伴う
+SUMMARY:雨 夜 くもり 所により 朝 まで 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20261103
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は13℃\n最低気温は8℃
+DESCRIPTION:天気はくもり 昼過ぎ から 時々 晴れ 所により 昼前 まで 雨\n降水確率は50%\n最高気温は13℃\n最低気温は8℃
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:くもり 一時 雨 13℃/8℃
+SUMMARY:くもり 昼過ぎ から 時々 晴れ 所により 昼前 まで 雨 13℃/8℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

@@ -5,27 +5,19 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 和歌山
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-wakayama-20261101
-DESCRIPTION:天気は晴れ 夜のはじめ頃 くもり\n降水確率は10%
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:晴れ 夜のはじめ頃 くもり
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-wakayama-20261102
-DESCRIPTION:天気はくもり 朝 から 昼過ぎ 雨 所により 昼前 雷を伴い 激しく 降る\n降水確率は80%
+DESCRIPTION:天気はくもり 朝 から 昼過ぎ 雨 後 晴れ 所により 昼前 雷を伴い 激しく 降る\n降水確率は80%
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:くもり 朝 から 昼過ぎ 雨 所により 昼前 雷を伴い 激しく 降る
+SUMMARY:くもり 朝 から 昼過ぎ 雨 後 晴れ 所により 昼前 雷を伴い 激しく 降る
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakayama-20261103
-DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%\n最高気温は23℃\n最低気温は15℃
+DESCRIPTION:天気は晴れ\n降水確率は10%\n最高気温は23℃\n最低気温は15℃
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:晴れ 時々 くもり 23℃/15℃
+SUMMARY:晴れ 23℃/15℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
