@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 高松
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-takamatsu-20261105
-DESCRIPTION:天気はくもり 昼過ぎ から 時々 雨\n降水確率は50%
+DESCRIPTION:天気はくもり 夕方 から 雨\n降水確率は50%
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:くもり 昼過ぎ から 時々 雨
+SUMMARY:くもり 夕方 から 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

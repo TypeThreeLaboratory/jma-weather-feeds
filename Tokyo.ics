@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 東京
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-tokyo-20261105
-DESCRIPTION:天気は雨 昼前 から くもり\n降水確率は90%
+DESCRIPTION:天気は雨 昼前 から くもり\n降水確率は50%
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:雨 昼前 から くもり
