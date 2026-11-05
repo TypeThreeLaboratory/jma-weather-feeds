@@ -6,42 +6,42 @@ X-WR-CALNAME:週間天気予報 京都
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20261105
-DESCRIPTION:天気はくもり 夜 雨 所により 雷 を伴う\n降水確率は70%
+DESCRIPTION:天気は雨 所により 夜 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:くもり 夜 雨 所により 雷 を伴う
+SUMMARY:雨 所により 夜 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20261106
-DESCRIPTION:天気はくもり 昼前 から 夕方 晴れ 所により 明け方 まで 雨 で 雷を伴う\n降水確率は40%\n最高気温は22℃\n最低気温は14℃
+DESCRIPTION:天気はくもり 時々 晴れ 所により 明け方 まで 雨 で 雷を伴う\n降水確率は30%
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:くもり 昼前 から 夕方 晴れ 所により 明け方 まで 雨 で 雷を伴う 22℃/14℃
+SUMMARY:くもり 時々 晴れ 所により 明け方 まで 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20261107
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は17℃\n最低気温は11℃
+DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は40%\n最高気温は17℃\n最低気温は12℃
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:くもり時々晴 17℃/11℃
+SUMMARY:くもり 時々 晴れ 17℃/12℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20261108
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は10%\n最高気温は17℃\n最低気温は10℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は10%\n最高気温は16℃\n最低気温は10℃
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-SUMMARY:晴れ時々くもり 17℃/10℃
+SUMMARY:晴れ時々くもり 16℃/10℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20261109
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は17℃\n最低気温は10℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は17℃\n最低気温は11℃
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:くもり 17℃/10℃
+SUMMARY:くもり 17℃/11℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -54,9 +54,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kyoto-20261111
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は18℃\n最低気温は7℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は17℃\n最低気温は7℃
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
+SUMMARY:晴れ時々くもり 17℃/7℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-kyoto-20261112
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は18℃\n最低気温は7℃
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
 SUMMARY:晴れ時々くもり 18℃/7℃
 TRANSP:TRANSPARENT
 END:VEVENT
