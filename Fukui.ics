@@ -5,27 +5,19 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 福井
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-fukui-20261105
-DESCRIPTION:天気は雨 夜のはじめ頃 くもり 所により 夜遅く 雷 を伴う\n降水確率は60%
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:雨 夜のはじめ頃 くもり 所により 夜遅く 雷 を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20261106
-DESCRIPTION:天気はくもり 朝晩 雨 所により 明け方 まで 雷 を伴う\n降水確率は80%
+DESCRIPTION:天気はくもり 時々 雨\n降水確率は50%
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:くもり 朝晩 雨 所により 明け方 まで 雷 を伴う
+SUMMARY:くもり 時々 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukui-20261107
-DESCRIPTION:天気は雨 後 くもり\n降水確率は70%\n最高気温は15℃\n最低気温は9℃
+DESCRIPTION:天気はくもり 明け方 まで 雨\n降水確率は70%\n最高気温は15℃\n最低気温は9℃
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:雨 後 くもり 15℃/9℃
+SUMMARY:くもり 明け方 まで 雨 15℃/9℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

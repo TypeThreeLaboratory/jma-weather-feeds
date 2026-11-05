@@ -5,16 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 室蘭
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-muroran-20261105
-DESCRIPTION:天気は雨 所により 夜 雷を伴い 激しく 降る\n降水確率は90%
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:雨 所により 夜 雷を伴い 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-muroran-20261106
-DESCRIPTION:天気はくもり 明け方 まで 雨 所により 夜遅く 雪\n降水確率は70%
+DESCRIPTION:天気はくもり 明け方 まで 雨 所により 夜遅く 雪\n降水確率は30%
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:くもり 明け方 まで 雨 所により 夜遅く 雪
@@ -22,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-muroran-20261107
-DESCRIPTION:天気はくもり 一時 雪 で ふぶく\n降水確率は60%\n最高気温は4℃\n最低気温は1℃
+DESCRIPTION:天気はくもり 昼前 まで 時々 雪 で ふぶく 所により 夕方 まで 雷 を伴う\n降水確率は60%\n最高気温は4℃\n最低気温は1℃
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:くもり 一時 雪 で ふぶく 4℃/1℃
+SUMMARY:くもり 昼前 まで 時々 雪 で ふぶく 所により 夕方 まで 雷 を伴う 4℃/1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

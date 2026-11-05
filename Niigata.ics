@@ -5,27 +5,19 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 新潟
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-niigata-20261105
-DESCRIPTION:天気はくもり 所により 夜 雨\n降水確率は40%
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:くもり 所により 夜 雨
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-niigata-20261106
-DESCRIPTION:天気は雨 昼前 から 時々 くもり 所により 雷 を伴う\n降水確率は90%
+DESCRIPTION:天気は雨 時々 くもり 所により 雷 を伴う\n降水確率は80%
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:雨 昼前 から 時々 くもり 所により 雷 を伴う
+SUMMARY:雨 時々 くもり 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-niigata-20261107
-DESCRIPTION:天気は雨 時々 くもり\n降水確率は90%\n最高気温は13℃\n最低気温は8℃
+DESCRIPTION:天気は雨 時々 くもり 所により 夕方 まで 雷 を伴う\n降水確率は90%\n最高気温は13℃\n最低気温は8℃
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:雨 時々 くもり 13℃/8℃
+SUMMARY:雨 時々 くもり 所により 夕方 まで 雷 を伴う 13℃/8℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
