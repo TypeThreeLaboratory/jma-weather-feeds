@@ -5,27 +5,19 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 盛岡
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-morioka-20261107
-DESCRIPTION:天気はくもり 所により 雨か雪\n降水確率は30%
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:くもり 所により 雨か雪
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-morioka-20261108
-DESCRIPTION:天気はくもり 昼前 晴れ 所により 朝 まで 雨か雪\n降水確率は30%
+DESCRIPTION:天気はくもり 所により 明け方 雪か雨\n降水確率は10%
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-SUMMARY:くもり 昼前 晴れ 所により 朝 まで 雨か雪
+SUMMARY:くもり 所により 明け方 雪か雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-morioka-20261109
-DESCRIPTION:天気はくもり 一時 雨か雪\n降水確率は60%\n最高気温は7℃\n最低気温は2℃
+DESCRIPTION:天気はくもり 朝 から 昼過ぎ 雨か雪\n降水確率は60%\n最高気温は7℃\n最低気温は2℃
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:くもり 一時 雨か雪 7℃/2℃
+SUMMARY:くもり 朝 から 昼過ぎ 雨か雪 7℃/2℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
