@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 旭川
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261107
-DESCRIPTION:天気は雪 で ふぶく 朝晩 くもり 所により 夕方 まで 雷 を伴う\n降水確率は70%
+DESCRIPTION:天気は雪 で ふぶく 所により 夕方 まで 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:雪 で ふぶく 朝晩 くもり 所により 夕方 まで 雷 を伴う
+SUMMARY:雪 で ふぶく 所により 夕方 まで 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261108
-DESCRIPTION:天気は雪 で ふぶく 昼前 から くもり\n降水確率は70%\n最高気温は4℃\n最低気温は0℃
+DESCRIPTION:天気は雪 で ふぶく 昼前 から くもり\n降水確率は60%
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-SUMMARY:雪 で ふぶく 昼前 から くもり 4℃/0℃
+SUMMARY:雪 で ふぶく 昼前 から くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261109
-DESCRIPTION:天気はくもり時々雪\n降水確率は60%\n最高気温は2℃\n最低気温は-3℃
+DESCRIPTION:天気はくもり 時々 雪\n降水確率は60%\n最高気温は3℃\n最低気温は-2℃
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:くもり時々雪 2℃/-3℃
+SUMMARY:くもり 時々 雪 3℃/-2℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261110
-DESCRIPTION:天気はくもり一時雪\n降水確率は50%\n最高気温は0℃\n最低気温は-5℃
+DESCRIPTION:天気はくもり一時雪\n降水確率は50%\n最高気温は-1℃\n最低気温は-7℃
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:くもり一時雪 0℃/-5℃
+SUMMARY:くもり一時雪 -1℃/-7℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261111
-DESCRIPTION:天気はくもり一時雪か雨\n降水確率は50%\n最高気温は5℃\n最低気温は-5℃
+DESCRIPTION:天気はくもり一時雪か雨\n降水確率は50%\n最高気温は4℃\n最低気温は-6℃
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:くもり一時雪か雨 5℃/-5℃
+SUMMARY:くもり一時雪か雨 4℃/-6℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261112
-DESCRIPTION:天気はくもり一時雪か雨\n降水確率は50%\n最高気温は8℃\n最低気温は0℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は9℃\n最低気温は-2℃
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:くもり一時雪か雨 8℃/0℃
+SUMMARY:くもり 9℃/-2℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261113
-DESCRIPTION:天気はくもり一時雪か雨\n降水確率は50%\n最高気温は7℃\n最低気温は-1℃
+DESCRIPTION:天気はくもり一時雪か雨\n降水確率は50%\n最高気温は7℃\n最低気温は-2℃
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:くもり一時雪か雨 7℃/-1℃
+SUMMARY:くもり一時雪か雨 7℃/-2℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-asahikawa-20261114
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は7℃\n最低気温は-3℃
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:くもり時々晴 7℃/-3℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
