@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20261108
-DESCRIPTION:天気はくもり 昼過ぎ まで 時々 晴れ\n降水確率は10%
+DESCRIPTION:天気はくもり 昼過ぎ まで 時々 晴れ\n降水確率は0%
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:くもり 昼過ぎ まで 時々 晴れ
