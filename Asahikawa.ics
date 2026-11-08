@@ -5,27 +5,19 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 旭川
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-asahikawa-20261108
-DESCRIPTION:天気はくもり 所により 雪\n降水確率は20%
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:くもり 所により 雪
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261109
-DESCRIPTION:天気はくもり 夕方 から 雪 所により 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 昼過ぎ から 雪 所により 夕方 から 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:くもり 夕方 から 雪 所により 雷 を伴う
+SUMMARY:くもり 昼過ぎ から 雪 所により 夕方 から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261110
-DESCRIPTION:天気はくもり 一時 雪\n降水確率は50%\n最高気温は-1℃\n最低気温は-4℃
+DESCRIPTION:天気はくもり 明け方 まで 雪 所により 朝 まで 雷 を伴う\n降水確率は50%\n最高気温は-1℃\n最低気温は-4℃
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:くもり 一時 雪 -1℃/-4℃
+SUMMARY:くもり 明け方 まで 雪 所により 朝 まで 雷 を伴う -1℃/-4℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

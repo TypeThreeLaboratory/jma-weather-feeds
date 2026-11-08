@@ -5,27 +5,19 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 函館
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-hakodate-20261108
-DESCRIPTION:天気は晴れ 夜 くもり 所により 夜遅く 雪か雨\n降水確率は20%
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:晴れ 夜 くもり 所により 夜遅く 雪か雨
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261109
-DESCRIPTION:天気はくもり 所により 雪か雨\n降水確率は30%
+DESCRIPTION:天気はくもり 所により 夕方 から 雪\n降水確率は30%
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:くもり 所により 雪か雨
+SUMMARY:くもり 所により 夕方 から 雪
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261110
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は5℃\n最低気温は-2℃
+DESCRIPTION:天気はくもり 所により 朝晩 雪\n降水確率は40%\n最高気温は5℃\n最低気温は-2℃
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:くもり 5℃/-2℃
+SUMMARY:くもり 所により 朝晩 雪 5℃/-2℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
