@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 石垣島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20261108
-DESCRIPTION:天気は晴れ 時々 くもり 所により 夕方 から 雨\n降水確率は20%
+DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 昼過ぎ から 夕方 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-SUMMARY:晴れ 時々 くもり 所により 夕方 から 雨
+SUMMARY:晴れ 昼過ぎ から くもり 所により 昼過ぎ から 夕方 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20261109
-DESCRIPTION:天気は晴れ 昼前 から くもり 所により 雨\n降水確率は40%\n最高気温は29℃\n最低気温は21℃
+DESCRIPTION:天気は晴れ 昼前 から くもり 所により 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:晴れ 昼前 から くもり 所により 雨 29℃/21℃
+SUMMARY:晴れ 昼前 から くもり 所により 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20261110
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は24℃\n最低気温は20℃
+DESCRIPTION:天気はくもり\n降水確率は30%\n最高気温は25℃\n最低気温は21℃
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:くもり 24℃/20℃
+SUMMARY:くもり 25℃/21℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20261111
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は26℃\n最低気温は20℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は27℃\n最低気温は21℃
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:くもり時々晴 26℃/20℃
+SUMMARY:くもり時々晴 27℃/21℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20261112
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は27℃\n最低気温は22℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は28℃\n最低気温は22℃
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:くもり時々晴 27℃/22℃
+SUMMARY:くもり時々晴 28℃/22℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20261113
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は28℃\n最低気温は23℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は28℃\n最低気温は24℃
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:くもり時々晴 28℃/23℃
+SUMMARY:くもり時々晴 28℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20261114
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は28℃\n最低気温は23℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は28℃\n最低気温は24℃
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:くもり 28℃/23℃
+SUMMARY:くもり 28℃/24℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-ishigakijima-20261115
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は28℃\n最低気温は24℃
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:くもり 28℃/24℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
