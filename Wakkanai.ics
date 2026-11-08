@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 稚内
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20261108
-DESCRIPTION:天気は雪 で ふぶく 昼過ぎ から くもり\n降水確率は20%
+DESCRIPTION:天気は雪 で ふぶく 夜 くもり\n降水確率は20%
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-SUMMARY:雪 で ふぶく 昼過ぎ から くもり
+SUMMARY:雪 で ふぶく 夜 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20261109
-DESCRIPTION:天気はくもり 昼前 から 雪 で ふぶく\n降水確率は50%
+DESCRIPTION:天気はくもり 昼前 から 雪 で ふぶく 所により 夕方 から 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:くもり 昼前 から 雪 で ふぶく
+SUMMARY:くもり 昼前 から 雪 で ふぶく 所により 夕方 から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

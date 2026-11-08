@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-naha-20261109
-DESCRIPTION:天気は晴れ 昼前 から くもり 所により 夕方 から 雨\n降水確率は30%
+DESCRIPTION:天気は晴れ 夕方 から くもり 所により 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:晴れ 昼前 から くもり 所により 夕方 から 雨
+SUMMARY:晴れ 夕方 から くもり 所により 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
