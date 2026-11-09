@@ -5,16 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 稚内
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-wakkanai-20261109
-DESCRIPTION:天気はくもり 昼過ぎ から 雪 で ふぶく 所により 夕方 から 雷 を伴う\n降水確率は50%
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:くもり 昼過ぎ から 雪 で ふぶく 所により 夕方 から 雷 を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20261110
-DESCRIPTION:天気はくもり 朝晩 雪 で ふぶく 所により 夕方 まで 雷 を伴う\n降水確率は40%
+DESCRIPTION:天気はくもり 朝晩 雪 で ふぶく 所により 夕方 まで 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:くもり 朝晩 雪 で ふぶく 所により 夕方 まで 雷 を伴う

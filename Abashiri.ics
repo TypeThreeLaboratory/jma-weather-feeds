@@ -5,19 +5,11 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 網走
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-abashiri-20261109
-DESCRIPTION:天気は晴れ 昼過ぎ から 夕方 くもり 所により 夕方 から 雪\n降水確率は20%
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:晴れ 昼過ぎ から 夕方 くもり 所により 夕方 から 雪
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20261110
-DESCRIPTION:天気はくもり 時々 晴れ 所により 雪\n降水確率は20%
+DESCRIPTION:天気はくもり 朝晩 晴れ 所により 夕方 まで 雪 で 雷を伴う\n降水確率は20%
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:くもり 時々 晴れ 所により 雪
+SUMMARY:くもり 朝晩 晴れ 所により 夕方 まで 雪 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
