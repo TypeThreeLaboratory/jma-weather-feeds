@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 旭川
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261110
-DESCRIPTION:天気はくもり 明け方 まで 雪 所により 朝 まで 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 所により 雪\n降水確率は10%
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:くもり 明け方 まで 雪 所により 朝 まで 雷 を伴う
+SUMMARY:くもり 所により 雪
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261111
-DESCRIPTION:天気はくもり 一時 雪\n降水確率は40%\n最高気温は3℃\n最低気温は-3℃
+DESCRIPTION:天気はくもり 所により 雪\n降水確率は10%
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:くもり 一時 雪 3℃/-3℃
+SUMMARY:くもり 所により 雪
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -30,33 +30,41 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261113
-DESCRIPTION:天気はくもり一時雪か雨\n降水確率は50%\n最高気温は10℃\n最低気温は-2℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は10℃\n最低気温は-1℃
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:くもり一時雪か雨 10℃/-2℃
+SUMMARY:くもり 10℃/-1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261114
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は10℃\n最低気温は-2℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は10℃\n最低気温は-1℃
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:くもり時々晴 10℃/-2℃
+SUMMARY:くもり時々晴 10℃/-1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261115
-DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は11℃\n最低気温は1℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は8℃\n最低気温は0℃
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-SUMMARY:くもり一時雨 11℃/1℃
+SUMMARY:くもり 8℃/0℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-asahikawa-20261116
-DESCRIPTION:天気はくもり一時雪か雨\n降水確率は50%\n最高気温は4℃\n最低気温は-2℃
+DESCRIPTION:天気はくもり一時雪か雨\n降水確率は50%\n最高気温は5℃\n最低気温は-2℃
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
+SUMMARY:くもり一時雪か雨 5℃/-2℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-asahikawa-20261117
+DESCRIPTION:天気はくもり一時雪か雨\n降水確率は50%\n最高気温は4℃\n最低気温は-2℃
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
 SUMMARY:くもり一時雪か雨 4℃/-2℃
 TRANSP:TRANSPARENT
 END:VEVENT
