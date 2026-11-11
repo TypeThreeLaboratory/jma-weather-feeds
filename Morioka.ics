@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 盛岡
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-morioka-20261112
-DESCRIPTION:天気は晴れ 昼前 から くもり\n降水確率は10%
+DESCRIPTION:天気は晴れ 昼前 から くもり 所により 昼前 まで 霧\n降水確率は10%
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:晴れ 昼前 から くもり
+SUMMARY:晴れ 昼前 から くもり 所により 昼前 まで 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-morioka-20261113
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は30%\n最高気温は16℃\n最低気温は8℃
+DESCRIPTION:天気はくもり 夕方 から 晴れ 所により 明け方 から 昼前 雨\n降水確率は30%\n最高気温は16℃\n最低気温は8℃
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:くもり 時々 晴れ 16℃/8℃
+SUMMARY:くもり 夕方 から 晴れ 所により 明け方 から 昼前 雨 16℃/8℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
