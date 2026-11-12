@@ -6,26 +6,26 @@ X-WR-CALNAME:週間天気予報 石垣島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20261112
-DESCRIPTION:天気は晴れ 時々 くもり 所により 朝 まで 雨\n降水確率は20%
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は10%
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:晴れ 時々 くもり 所により 朝 まで 雨
+SUMMARY:晴れ 時々 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20261113
-DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 雨\n降水確率は40%\n最高気温は29℃\n最低気温は23℃
+DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 雨\n降水確率は40%
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:晴れ 昼過ぎ から くもり 所により 雨 29℃/23℃
+SUMMARY:晴れ 昼過ぎ から くもり 所により 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20261114
-DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は27℃\n最低気温は23℃
+DESCRIPTION:天気はくもり 時々 雨\n降水確率は70%\n最高気温は28℃\n最低気温は23℃
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:くもり一時雨 27℃/23℃
+SUMMARY:くもり 時々 雨 28℃/23℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -38,7 +38,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20261116
-DESCRIPTION:天気はくもり一時雨\n降水確率は70%\n最高気温は27℃\n最低気温は23℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は27℃\n最低気温は23℃
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:くもり一時雨 27℃/23℃
@@ -46,7 +46,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20261117
-DESCRIPTION:天気はくもり一時雨\n降水確率は70%\n最高気温は27℃\n最低気温は23℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は27℃\n最低気温は23℃
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:くもり一時雨 27℃/23℃
@@ -54,10 +54,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-ishigakijima-20261118
-DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は26℃\n最低気温は21℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は27℃\n最低気温は20℃
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:くもり一時雨 26℃/21℃
+SUMMARY:くもり一時雨 27℃/20℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-ishigakijima-20261119
+DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は23℃\n最低気温は19℃
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:くもり一時雨 23℃/19℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

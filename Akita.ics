@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 秋田
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20261112
-DESCRIPTION:天気はくもり 所により 昼過ぎ から 夕方 雨\n降水確率は20%
+DESCRIPTION:天気はくもり 所により 夕方 まで 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:くもり 所により 昼過ぎ から 夕方 雨
+SUMMARY:くもり 所により 夕方 まで 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20261113
-DESCRIPTION:天気はくもり 時々 晴れ 所により 昼過ぎ まで 雨 で 雷を伴う\n降水確率は40%\n最高気温は18℃\n最低気温は10℃
+DESCRIPTION:天気はくもり 時々 晴れ 所により 昼過ぎ まで 雨 で 雷を伴う\n降水確率は30%
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:くもり 時々 晴れ 所により 昼過ぎ まで 雨 で 雷を伴う 18℃/10℃
+SUMMARY:くもり 時々 晴れ 所により 昼過ぎ まで 雨 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20261114
-DESCRIPTION:天気はくもり時々晴\n降水確率は20%\n最高気温は18℃\n最低気温は10℃
+DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は20%\n最高気温は17℃\n最低気温は9℃
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:くもり時々晴 18℃/10℃
+SUMMARY:くもり 時々 晴れ 17℃/9℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20261115
-DESCRIPTION:天気はくもり一時雨\n降水確率は70%\n最高気温は15℃\n最低気温は10℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は70%\n最高気温は16℃\n最低気温は8℃
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-SUMMARY:くもり一時雨 15℃/10℃
+SUMMARY:くもり一時雨 16℃/8℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20261116
-DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は12℃\n最低気温は4℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は13℃\n最低気温は4℃
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:くもり一時雨 12℃/4℃
+SUMMARY:くもり一時雨 13℃/4℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20261117
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は12℃\n最低気温は3℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は12℃\n最低気温は2℃
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:くもり時々晴 12℃/3℃
+SUMMARY:くもり時々晴 12℃/2℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20261118
-DESCRIPTION:天気はくもり時々雨\n降水確率は70%\n最高気温は12℃\n最低気温は6℃
+DESCRIPTION:天気はくもり時々雨\n降水確率は70%\n最高気温は14℃\n最低気温は5℃
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:くもり時々雨 12℃/6℃
+SUMMARY:くもり時々雨 14℃/5℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-akita-20261119
+DESCRIPTION:天気はくもり一時雨か雪\n降水確率は60%\n最高気温は9℃\n最低気温は4℃
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:くもり一時雨か雪 9℃/4℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
