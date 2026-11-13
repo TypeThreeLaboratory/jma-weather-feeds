@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 室蘭
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-muroran-20261113
-DESCRIPTION:天気は晴れ 朝晩 くもり 所により 昼前 まで 霧\n降水確率は0%
+DESCRIPTION:天気は晴れ 所により 夜遅く 霧\n降水確率は0%
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:晴れ 朝晩 くもり 所により 昼前 まで 霧
+SUMMARY:晴れ 所により 夜遅く 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-muroran-20261114
-DESCRIPTION:天気は晴れ 朝晩 くもり\n降水確率は10%\n最高気温は11℃\n最低気温は4℃
+DESCRIPTION:天気はくもり 昼前 から 晴れ 所により 昼前 まで 霧\n降水確率は0%
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:晴れ 朝晩 くもり 11℃/4℃
+SUMMARY:くもり 昼前 から 晴れ 所により 昼前 まで 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-muroran-20261115
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は11℃\n最低気温は4℃
+DESCRIPTION:天気はくもり 後 一時 雨\n降水確率は50%\n最高気温は10℃\n最低気温は5℃
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-SUMMARY:くもり 11℃/4℃
+SUMMARY:くもり 後 一時 雨 10℃/5℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-muroran-20261116
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は10℃\n最低気温は1℃
+DESCRIPTION:天気はくもり一時雨か雪\n降水確率は50%\n最高気温は9℃\n最低気温は1℃
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:くもり時々晴 10℃/1℃
+SUMMARY:くもり一時雨か雪 9℃/1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-muroran-20261117
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は8℃\n最低気温は1℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は7℃\n最低気温は1℃
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:くもり時々晴 8℃/1℃
+SUMMARY:晴れ時々くもり 7℃/1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-muroran-20261118
-DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は11℃\n最低気温は4℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は70%\n最高気温は12℃\n最低気温は4℃
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:くもり一時雨 11℃/4℃
+SUMMARY:くもり一時雨 12℃/4℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-muroran-20261119
-DESCRIPTION:天気はくもり一時雪か雨\n降水確率は50%\n最高気温は8℃\n最低気温は0℃
+DESCRIPTION:天気はくもり時々雪か雨\n降水確率は70%\n最高気温は11℃\n最低気温は1℃
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:くもり一時雪か雨 8℃/0℃
+SUMMARY:くもり時々雪か雨 11℃/1℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-muroran-20261120
+DESCRIPTION:天気はくもり時々雪か雨\n降水確率は50%\n最高気温は4℃\n最低気温は0℃
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:くもり時々雪か雨 4℃/0℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
