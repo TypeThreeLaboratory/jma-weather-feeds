@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 函館
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261114
-DESCRIPTION:天気は晴れ 朝晩 くもり\n降水確率は0%
+DESCRIPTION:天気は晴れ 夜遅く くもり\n降水確率は0%
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:晴れ 朝晩 くもり
+SUMMARY:晴れ 夜遅く くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261115
-DESCRIPTION:天気はくもり 昼過ぎ から 雨 所により 夕方 から 雷 を伴う\n降水確率は70%\n最高気温は13℃\n最低気温は4℃
+DESCRIPTION:天気はくもり 昼前 から 雨 所により 夕方 から 雷 を伴う\n降水確率は80%
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-SUMMARY:くもり 昼過ぎ から 雨 所により 夕方 から 雷 を伴う 13℃/4℃
+SUMMARY:くもり 昼前 から 雨 所により 夕方 から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261116
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は10℃\n最低気温は0℃
+DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は9℃\n最低気温は0℃
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:くもり 10℃/0℃
+SUMMARY:くもり 一時 雨 9℃/0℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261117
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は8℃\n最低気温は-1℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は7℃\n最低気温は-1℃
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:くもり時々晴 8℃/-1℃
+SUMMARY:くもり時々晴 7℃/-1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261118
-DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は12℃\n最低気温は3℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は70%\n最高気温は12℃\n最低気温は1℃
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:くもり一時雨 12℃/3℃
+SUMMARY:くもり一時雨 12℃/1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261119
-DESCRIPTION:天気はくもり時々雪か雨\n降水確率は70%\n最高気温は10℃\n最低気温は-1℃
+DESCRIPTION:天気はくもり時々雪か雨\n降水確率は70%\n最高気温は12℃\n最低気温は0℃
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:くもり時々雪か雨 10℃/-1℃
+SUMMARY:くもり時々雪か雨 12℃/0℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261120
-DESCRIPTION:天気はくもり時々雪か雨\n降水確率は70%\n最高気温は4℃\n最低気温は-1℃
+DESCRIPTION:天気はくもり時々雪か雨\n降水確率は70%\n最高気温は3℃\n最低気温は-2℃
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:くもり時々雪か雨 4℃/-1℃
+SUMMARY:くもり時々雪か雨 3℃/-2℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-hakodate-20261121
+DESCRIPTION:天気はくもり時々雪\n降水確率は70%\n最高気温は2℃\n最低気温は-2℃
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:くもり時々雪 2℃/-2℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

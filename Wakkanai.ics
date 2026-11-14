@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 稚内
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20261114
-DESCRIPTION:天気は晴れ 朝晩 くもり\n降水確率は0%
+DESCRIPTION:天気はくもり 夜のはじめ頃 晴れ\n降水確率は0%
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:晴れ 朝晩 くもり
+SUMMARY:くもり 夜のはじめ頃 晴れ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20261115
-DESCRIPTION:天気はくもり 夜遅く 雪か雨\n降水確率は50%\n最高気温は5℃\n最低気温は1℃
+DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 夜 雪か雨\n降水確率は40%
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-SUMMARY:くもり 夜遅く 雪か雨 5℃/1℃
+SUMMARY:晴れ 昼過ぎ から くもり 所により 夜 雪か雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20261116
-DESCRIPTION:天気はくもり一時雪\n降水確率は50%\n最高気温は4℃\n最低気温は-1℃
+DESCRIPTION:天気はくもり 時々 雪か雨\n降水確率は80%\n最高気温は4℃\n最低気温は-1℃
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:くもり一時雪 4℃/-1℃
+SUMMARY:くもり 時々 雪か雨 4℃/-1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20261117
-DESCRIPTION:天気はくもり一時雪\n降水確率は50%\n最高気温は3℃\n最低気温は-2℃
+DESCRIPTION:天気はくもり一時雪\n降水確率は50%\n最高気温は2℃\n最低気温は-2℃
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:くもり一時雪 3℃/-2℃
+SUMMARY:くもり一時雪 2℃/-2℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20261118
-DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は7℃\n最低気温は1℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は5℃\n最低気温は0℃
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:くもり一時雨 7℃/1℃
+SUMMARY:くもり一時雨 5℃/0℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20261119
-DESCRIPTION:天気はくもり時々雪か雨\n降水確率は70%\n最高気温は8℃\n最低気温は-1℃
+DESCRIPTION:天気はくもり時々雪か雨\n降水確率は70%\n最高気温は8℃\n最低気温は0℃
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:くもり時々雪か雨 8℃/-1℃
+SUMMARY:くもり時々雪か雨 8℃/0℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20261120
-DESCRIPTION:天気はくもり時々雪\n降水確率は70%\n最高気温は1℃\n最低気温は-2℃
+DESCRIPTION:天気はくもり時々雪\n降水確率は70%\n最高気温は2℃\n最低気温は-2℃
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:くもり時々雪 1℃/-2℃
+SUMMARY:くもり時々雪 2℃/-2℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-wakkanai-20261121
+DESCRIPTION:天気はくもり時々雪\n降水確率は70%\n最高気温は0℃\n最低気温は-3℃
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:くもり時々雪 0℃/-3℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
