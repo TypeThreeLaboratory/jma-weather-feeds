@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 松山
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-matsuyama-20261115
-DESCRIPTION:天気は雨 夕方 から くもり 所により 夕方 まで 雷 を伴う\n降水確率は90%
+DESCRIPTION:天気は雨 夕方 から くもり 所により 夕方 まで 雷 を伴う\n降水確率は80%
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:雨 夕方 から くもり 所により 夕方 まで 雷 を伴う
