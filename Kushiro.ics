@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 釧路
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kushiro-20261116
-DESCRIPTION:天気はくもり 後 晴れ 明け方 まで 雨か雪\n降水確率は70%
+DESCRIPTION:天気はくもり 後 晴れ 明け方 まで 雨か雪\n降水確率は30%
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:くもり 後 晴れ 明け方 まで 雨か雪
