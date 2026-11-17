@@ -5,19 +5,11 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 東京
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-tokyo-20261117
-DESCRIPTION:天気は雨 所により 夜遅く 雷を伴い 激しく 降る\n降水確率は100%
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:雨 所により 夜遅く 雷を伴い 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-tokyo-20261118
-DESCRIPTION:天気は晴れ 時々 くもり 明け方 まで 雨 所により 雷 を伴う\n降水確率は70%
+DESCRIPTION:天気は晴れ 時々 くもり 明け方 まで 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:晴れ 時々 くもり 明け方 まで 雨 所により 雷 を伴う
+SUMMARY:晴れ 時々 くもり 明け方 まで 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

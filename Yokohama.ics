@@ -5,16 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 横浜
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-yokohama-20261117
-DESCRIPTION:天気は雨 三浦半島 では 夜 激しく 降る\n降水確率は90%
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:雨 三浦半島 では 夜 激しく 降る
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-yokohama-20261118
-DESCRIPTION:天気は晴れ 時々 くもり 明け方 まで 雨\n降水確率は70%
+DESCRIPTION:天気は晴れ 時々 くもり 明け方 まで 雨\n降水確率は10%
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:晴れ 時々 くもり 明け方 まで 雨
