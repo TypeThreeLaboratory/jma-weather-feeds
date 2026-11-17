@@ -6,26 +6,26 @@ X-WR-CALNAME:週間天気予報 青森
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-aomori-20261117
-DESCRIPTION:天気はくもり\n降水確率は0%
+DESCRIPTION:天気は晴れ 夜 くもり\n降水確率は0%
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:くもり
+SUMMARY:晴れ 夜 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-aomori-20261118
-DESCRIPTION:天気はくもり 朝晩 雨 所により 夕方 から 雷 を伴う\n降水確率は80%
+DESCRIPTION:天気はくもり 朝晩 雨 所により 夜 雷 を伴う\n降水確率は70%
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:くもり 朝晩 雨 所により 夕方 から 雷 を伴う
+SUMMARY:くもり 朝晩 雨 所により 夜 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-aomori-20261119
-DESCRIPTION:天気はくもり 時々 雨か雪\n降水確率は80%\n最高気温は11℃\n最低気温は1℃
+DESCRIPTION:天気はくもり 時々 雨か雪\n降水確率は80%\n最高気温は10℃\n最低気温は1℃
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:くもり 時々 雨か雪 11℃/1℃
+SUMMARY:くもり 時々 雨か雪 10℃/1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

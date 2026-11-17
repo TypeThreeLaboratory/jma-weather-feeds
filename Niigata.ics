@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-niigata-20261118
-DESCRIPTION:天気は雨 朝 から 昼過ぎ くもり 所により 夕方 から 雷 を伴う\n降水確率は90%
+DESCRIPTION:天気はくもり 朝晩 雨 所により 夕方 から 雷 を伴う\n降水確率は90%
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:雨 朝 から 昼過ぎ くもり 所により 夕方 から 雷 を伴う
+SUMMARY:くもり 朝晩 雨 所により 夕方 から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

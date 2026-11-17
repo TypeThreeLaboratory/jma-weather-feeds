@@ -6,15 +6,15 @@ X-WR-CALNAME:週間天気予報 宇都宮
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-utsunomiya-20261117
-DESCRIPTION:天気はくもり 夕方 から 雨 南西部 では 昼過ぎ から 霧\n降水確率は80%
+DESCRIPTION:天気は雨 南西部 では 霧\n降水確率は90%
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:くもり 夕方 から 雨 南西部 では 昼過ぎ から 霧
+SUMMARY:雨 南西部 では 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-utsunomiya-20261118
-DESCRIPTION:天気はくもり 時々 晴れ 明け方 まで 雨 南西部 では 明け方 まで 霧\n降水確率は80%
+DESCRIPTION:天気はくもり 時々 晴れ 明け方 まで 雨 南西部 では 明け方 まで 霧\n降水確率は70%
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:くもり 時々 晴れ 明け方 まで 雨 南西部 では 明け方 まで 霧

@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 山形
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20261117
-DESCRIPTION:天気は晴れ 後 くもり 夜遅く 雨\n降水確率は70%
+DESCRIPTION:天気はくもり 夜 雨\n降水確率は80%
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:晴れ 後 くもり 夜遅く 雨
+SUMMARY:くもり 夜 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20261118
-DESCRIPTION:天気はくもり 朝晩 雨 所により 夕方 から 雷 を伴う\n降水確率は80%
+DESCRIPTION:天気はくもり 朝晩 雨\n降水確率は80%
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:くもり 朝晩 雨 所により 夕方 から 雷 を伴う
+SUMMARY:くもり 朝晩 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

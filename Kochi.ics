@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 高知
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kochi-20261117
-DESCRIPTION:天気は雨 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雷 を伴う\n降水確率は80%
+DESCRIPTION:天気はくもり 所により 雨\n降水確率は30%
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:雨 時々 くもり 所により 昼過ぎ から 夜のはじめ頃 雷 を伴う
+SUMMARY:くもり 所により 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
