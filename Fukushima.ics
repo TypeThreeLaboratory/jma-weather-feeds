@@ -5,19 +5,11 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 福島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-fukushima-20261118
-DESCRIPTION:天気は晴れ 後 くもり 夜遅く 雨\n降水確率は50%
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:晴れ 後 くもり 夜遅く 雨
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20261119
-DESCRIPTION:天気はくもり 昼前 まで 時々 晴れ 所により 雨 で 雷を伴う\n降水確率は30%
+DESCRIPTION:天気はくもり 昼前 まで 時々 晴れ 所により 雨か雪 で 雷を伴う\n降水確率は30%
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:くもり 昼前 まで 時々 晴れ 所により 雨 で 雷を伴う
+SUMMARY:くもり 昼前 まで 時々 晴れ 所により 雨か雪 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
