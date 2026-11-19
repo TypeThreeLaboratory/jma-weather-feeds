@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 青森
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-aomori-20261119
-DESCRIPTION:天気は雨か雪 所により 昼過ぎ まで 雷 を伴う\n降水確率は90%
+DESCRIPTION:天気は雪か雨 所により 昼過ぎ まで 雷 を伴う\n降水確率は90%
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:雨か雪 所により 昼過ぎ まで 雷 を伴う
+SUMMARY:雪か雨 所により 昼過ぎ まで 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-aomori-20261120
-DESCRIPTION:天気はくもり 時々 雪か雨\n降水確率は80%\n最高気温は4℃\n最低気温は0℃
+DESCRIPTION:天気は雪か雨 時々 くもり\n降水確率は90%
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:くもり 時々 雪か雨 4℃/0℃
+SUMMARY:雪か雨 時々 くもり
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-aomori-20261121
-DESCRIPTION:天気はくもり時々雪か雨\n降水確率は70%\n最高気温は5℃\n最低気温は0℃
+DESCRIPTION:天気はくもり 時々 雪か雨\n降水確率は80%\n最高気温は4℃\n最低気温は0℃
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:くもり時々雪か雨 5℃/0℃
+SUMMARY:くもり 時々 雪か雨 4℃/0℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-aomori-20261122
-DESCRIPTION:天気はくもり一時雪か雨\n降水確率は70%\n最高気温は6℃\n最低気温は1℃
+DESCRIPTION:天気はくもり一時雪\n降水確率は50%\n最高気温は6℃\n最低気温は1℃
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:くもり一時雪か雨 6℃/1℃
+SUMMARY:くもり一時雪 6℃/1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-aomori-20261123
-DESCRIPTION:天気はくもり一時雨か雪\n降水確率は50%\n最高気温は10℃\n最低気温は2℃
+DESCRIPTION:天気はくもり一時雨\n降水確率は50%\n最高気温は10℃\n最低気温は2℃
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:くもり一時雨か雪 10℃/2℃
+SUMMARY:くもり一時雨 10℃/2℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-aomori-20261124
-DESCRIPTION:天気はくもり一時雨\n降水確率は60%\n最高気温は12℃\n最低気温は3℃
+DESCRIPTION:天気はくもり一時雨か雪\n降水確率は70%\n最高気温は10℃\n最低気温は1℃
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:くもり一時雨 12℃/3℃
+SUMMARY:くもり一時雨か雪 10℃/1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-aomori-20261125
-DESCRIPTION:天気はくもり一時雨か雪\n降水確率は60%\n最高気温は8℃\n最低気温は3℃
+DESCRIPTION:天気はくもり時々雪\n降水確率は70%\n最高気温は4℃\n最低気温は0℃
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:くもり一時雨か雪 8℃/3℃
+SUMMARY:くもり時々雪 4℃/0℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-aomori-20261126
+DESCRIPTION:天気はくもり一時雨か雪\n降水確率は50%\n最高気温は10℃\n最低気温は1℃
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:くもり一時雨か雪 10℃/1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE

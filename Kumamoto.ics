@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20261120
-DESCRIPTION:天気はくもり 時々 雨\n降水確率は50%\n最高気温は12℃\n最低気温は6℃
+DESCRIPTION:天気はくもり 時々 雨か雪 所により 雷 を伴う\n降水確率は50%\n最高気温は12℃\n最低気温は6℃
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:くもり 時々 雨 12℃/6℃
+SUMMARY:くもり 時々 雨か雪 所により 雷 を伴う 12℃/6℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

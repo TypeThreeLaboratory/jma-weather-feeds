@@ -6,7 +6,7 @@ X-WR-CALNAME:週間天気予報 広島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-hiroshima-20261119
-DESCRIPTION:天気はくもり 時々 晴れ 所により 夜 雨 で 雷を伴う\n降水確率は30%
+DESCRIPTION:天気はくもり 時々 晴れ 所により 夜 雨 で 雷を伴う\n降水確率は40%
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:くもり 時々 晴れ 所により 夜 雨 で 雷を伴う
@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hiroshima-20261120
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は50%\n最高気温は11℃\n最低気温は7℃
+DESCRIPTION:天気はくもり 時々 晴れ 所により 雨 で 雷を伴う\n降水確率は50%\n最高気温は11℃\n最低気温は7℃
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:くもり 一時 雨 11℃/7℃
+SUMMARY:くもり 時々 晴れ 所により 雨 で 雷を伴う 11℃/7℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
