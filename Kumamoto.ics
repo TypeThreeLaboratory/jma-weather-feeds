@@ -5,19 +5,11 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 熊本
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-kumamoto-20261120
-DESCRIPTION:天気はくもり 昼過ぎ から 夕方 雨 所により 雷 を伴う\n降水確率は50%
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:くもり 昼過ぎ から 夕方 雨 所により 雷 を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20261121
-DESCRIPTION:天気はくもり 所により 雨 で 雷を伴う\n降水確率は40%
+DESCRIPTION:天気はくもり 夜のはじめ頃 一時 雨 所により 雷 を伴う\n降水確率は50%
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:くもり 所により 雨 で 雷を伴う
+SUMMARY:くもり 夜のはじめ頃 一時 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

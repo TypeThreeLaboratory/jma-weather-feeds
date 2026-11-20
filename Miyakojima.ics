@@ -5,19 +5,11 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 宮古島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-miyakojima-20261120
-DESCRIPTION:天気はくもり 所により 夕方 から 雨\n降水確率は30%
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:くもり 所により 夕方 から 雨
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-miyakojima-20261121
-DESCRIPTION:天気はくもり 昼前 から 時々 晴れ 所により 朝 まで 雨\n降水確率は30%
+DESCRIPTION:天気はくもり 昼前 から 晴れ 所により 明け方 まで 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:くもり 昼前 から 時々 晴れ 所により 朝 まで 雨
+SUMMARY:くもり 昼前 から 晴れ 所により 明け方 まで 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
