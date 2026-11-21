@@ -6,58 +6,66 @@ X-WR-CALNAME:週間天気予報 札幌
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20261121
-DESCRIPTION:天気は雪 で ふぶく 時々 くもり 所により 昼前 まで 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 夜のはじめ頃 雪\n降水確率は40%
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:雪 で ふぶく 時々 くもり 所により 昼前 まで 雷 を伴う
+SUMMARY:くもり 夜のはじめ頃 雪
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20261122
-DESCRIPTION:天気はくもり 明け方 一時 雪\n降水確率は50%\n最高気温は4℃\n最低気温は0℃
+DESCRIPTION:天気はくもり 明け方 一時 雪\n降水確率は30%
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:くもり 明け方 一時 雪 4℃/0℃
+SUMMARY:くもり 明け方 一時 雪
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20261123
-DESCRIPTION:天気はくもりのち一時雨\n降水確率は50%\n最高気温は9℃\n最低気温は0℃
+DESCRIPTION:天気はくもり 後 一時 雨\n降水確率は50%\n最高気温は8℃\n最低気温は-1℃
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:くもりのち一時雨 9℃/0℃
+SUMMARY:くもり 後 一時 雨 8℃/-1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20261124
-DESCRIPTION:天気はくもり時々雨か雪\n降水確率は70%\n最高気温は9℃\n最低気温は-2℃
+DESCRIPTION:天気はくもり時々雨か雪\n降水確率は70%\n最高気温は10℃\n最低気温は-2℃
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:くもり時々雨か雪 9℃/-2℃
+SUMMARY:くもり時々雨か雪 10℃/-2℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20261125
-DESCRIPTION:天気はくもり時々雪\n降水確率は70%\n最高気温は3℃\n最低気温は-3℃
+DESCRIPTION:天気はくもり時々雪\n降水確率は70%\n最高気温は2℃\n最低気温は-4℃
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:くもり時々雪 3℃/-3℃
+SUMMARY:くもり時々雪 2℃/-4℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20261126
-DESCRIPTION:天気はくもり一時雪か雨\n降水確率は50%\n最高気温は9℃\n最低気温は0℃
+DESCRIPTION:天気はくもり一時雪か雨\n降水確率は60%\n最高気温は6℃\n最低気温は0℃
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:くもり一時雪か雨 9℃/0℃
+SUMMARY:くもり一時雪か雨 6℃/0℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20261127
-DESCRIPTION:天気はくもり一時雨か雪\n降水確率は50%\n最高気温は10℃\n最低気温は3℃
+DESCRIPTION:天気はくもり一時雨か雪\n降水確率は50%\n最高気温は8℃\n最低気温は2℃
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:くもり一時雨か雪 10℃/3℃
+SUMMARY:くもり一時雨か雪 8℃/2℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-sapporo-20261128
+DESCRIPTION:天気はくもり一時雨か雪\n降水確率は60%\n最高気温は7℃\n最低気温は2℃
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:くもり一時雨か雪 7℃/2℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
