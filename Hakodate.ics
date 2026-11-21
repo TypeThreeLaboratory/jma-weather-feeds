@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 函館
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261121
-DESCRIPTION:天気はくもり 朝晩 雪 で ふぶく 所により 昼前 まで 雷 を伴う\n降水確率は40%
+DESCRIPTION:天気はくもり 朝 から 昼過ぎ 雪か雨 所により 昼前 まで 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:くもり 朝晩 雪 で ふぶく 所により 昼前 まで 雷 を伴う
+SUMMARY:くもり 朝 から 昼過ぎ 雪か雨 所により 昼前 まで 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-hakodate-20261122
-DESCRIPTION:天気はくもり 一時 雪\n降水確率は50%\n最高気温は4℃\n最低気温は0℃
+DESCRIPTION:天気はくもり 未明 雪\n降水確率は50%\n最高気温は4℃\n最低気温は0℃
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:くもり 一時 雪 4℃/0℃
+SUMMARY:くもり 未明 雪 4℃/0℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 松江
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20261121
-DESCRIPTION:天気は雨か雪 昼前 まで 時々 くもり 所により 雷 を伴う\n降水確率は70%
+DESCRIPTION:天気はくもり 昼前 から 雨か雪 所により 雷 を伴う\n降水確率は70%
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:雨か雪 昼前 まで 時々 くもり 所により 雷 を伴う
+SUMMARY:くもり 昼前 から 雨か雪 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-matsue-20261122
-DESCRIPTION:天気はくもり 一時 雨か雪\n降水確率は50%\n最高気温は11℃\n最低気温は4℃
+DESCRIPTION:天気はくもり 昼過ぎ から 時々 晴れ 所により 明け方 まで 雪か雨 で 雷を伴う\n降水確率は50%\n最高気温は11℃\n最低気温は4℃
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:くもり 一時 雨か雪 11℃/4℃
+SUMMARY:くもり 昼過ぎ から 時々 晴れ 所により 明け方 まで 雪か雨 で 雷を伴う 11℃/4℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

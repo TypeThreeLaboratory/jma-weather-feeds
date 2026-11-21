@@ -6,18 +6,18 @@ X-WR-CALNAME:週間天気予報 山形
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20261121
-DESCRIPTION:天気は雪か雨 所により 雷 を伴う\n降水確率は90%
+DESCRIPTION:天気は雪 所により 雷 を伴う\n降水確率は80%
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:雪か雨 所により 雷 を伴う
+SUMMARY:雪 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-yamagata-20261122
-DESCRIPTION:天気は雪か雨 後 くもり\n降水確率は70%\n最高気温は7℃\n最低気温は-1℃
+DESCRIPTION:天気は雪 夜 くもり 所により 夕方 まで 雷 を伴う\n降水確率は80%\n最高気温は7℃\n最低気温は-1℃
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:雪か雨 後 くもり 7℃/-1℃
+SUMMARY:雪 夜 くもり 所により 夕方 まで 雷 を伴う 7℃/-1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
