@@ -14,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kochi-20261124
-DESCRIPTION:天気は雨 後 くもり\n降水確率は80%\n最高気温は16℃\n最低気温は6℃
+DESCRIPTION:天気は雨 昼過ぎ から くもり 所により 明け方 から 昼過ぎ 雷 を伴う\n降水確率は90%\n最高気温は16℃\n最低気温は6℃
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:雨 後 くもり 16℃/6℃
+SUMMARY:雨 昼過ぎ から くもり 所により 明け方 から 昼過ぎ 雷 を伴う 16℃/6℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
