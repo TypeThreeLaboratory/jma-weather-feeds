@@ -5,27 +5,19 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 長野
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-nagano-20261122
-DESCRIPTION:天気はくもり 後 晴れ 昼過ぎ 一時 雪か雨 所により 夕方 まで 雷 を伴う\n降水確率は50%
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:くもり 後 晴れ 昼過ぎ 一時 雪か雨 所により 夕方 まで 雷 を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-nagano-20261123
-DESCRIPTION:天気は晴れ 夜 くもり\n降水確率は0%
+DESCRIPTION:天気は晴れ 夜 くもり 所により 昼前 まで 霧\n降水確率は10%
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:晴れ 夜 くもり
+SUMMARY:晴れ 夜 くもり 所により 昼前 まで 霧
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagano-20261124
-DESCRIPTION:天気はくもり 一時 雨\n降水確率は80%\n最高気温は12℃\n最低気温は2℃
+DESCRIPTION:天気はくもり 一時 雨\n降水確率は80%\n最高気温は13℃\n最低気温は3℃
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:くもり 一時 雨 12℃/2℃
+SUMMARY:くもり 一時 雨 13℃/3℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
