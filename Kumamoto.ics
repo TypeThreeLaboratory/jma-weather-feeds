@@ -6,34 +6,34 @@ X-WR-CALNAME:週間天気予報 熊本
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20261122
-DESCRIPTION:天気は晴れ 朝 から 昼前 くもり 所により 朝 まで 雨か雪\n降水確率は20%
+DESCRIPTION:天気は晴れ\n降水確率は10%
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:晴れ 朝 から 昼前 くもり 所により 朝 まで 雨か雪
+SUMMARY:晴れ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20261123
-DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 夜遅く 雨\n降水確率は30%\n最高気温は17℃\n最低気温は3℃
+DESCRIPTION:天気は晴れ 昼過ぎ から くもり 所により 夜遅く 雨\n降水確率は20%
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:晴れ 昼過ぎ から くもり 所により 夜遅く 雨 17℃/3℃
+SUMMARY:晴れ 昼過ぎ から くもり 所により 夜遅く 雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20261124
-DESCRIPTION:天気はくもり時々雨\n降水確率は80%\n最高気温は14℃\n最低気温は5℃
+DESCRIPTION:天気は雨 後 くもり\n降水確率は80%\n最高気温は15℃\n最低気温は8℃
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:くもり時々雨 14℃/5℃
+SUMMARY:雨 後 くもり 15℃/8℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20261125
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は14℃\n最低気温は4℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は10%\n最高気温は13℃\n最低気温は4℃
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:晴れ時々くもり 14℃/4℃
+SUMMARY:晴れ時々くもり 13℃/4℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -46,18 +46,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20261127
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は20℃\n最低気温は8℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は19℃\n最低気温は8℃
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:くもり時々晴 20℃/8℃
+SUMMARY:くもり 19℃/8℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-kumamoto-20261128
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は19℃\n最低気温は9℃
+DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は19℃\n最低気温は8℃
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:くもり 19℃/9℃
+SUMMARY:くもり 19℃/8℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-kumamoto-20261129
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は17℃\n最低気温は6℃
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:晴れ時々くもり 17℃/6℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
