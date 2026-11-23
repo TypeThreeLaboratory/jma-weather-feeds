@@ -5,27 +5,19 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 室蘭
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-muroran-20261123
-DESCRIPTION:天気は晴れ 後 くもり 夜 雨 所により 雷 を伴う\n降水確率は60%
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:晴れ 後 くもり 夜 雨 所により 雷 を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-muroran-20261124
-DESCRIPTION:天気は雨 昼過ぎ から くもり 所により 夕方 から 雪\n降水確率は90%
+DESCRIPTION:天気は雨 夕方 から くもり 所により 雪 で 雷を伴う\n降水確率は90%
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:雨 昼過ぎ から くもり 所により 夕方 から 雪
+SUMMARY:雨 夕方 から くもり 所により 雪 で 雷を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-muroran-20261125
-DESCRIPTION:天気はくもり\n降水確率は40%\n最高気温は4℃\n最低気温は-2℃
+DESCRIPTION:天気はくもり 所により 雪\n降水確率は40%\n最高気温は4℃\n最低気温は-2℃
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:くもり 4℃/-2℃
+SUMMARY:くもり 所により 雪 4℃/-2℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

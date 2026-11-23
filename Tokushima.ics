@@ -5,27 +5,19 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 徳島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-tokushima-20261123
-DESCRIPTION:天気は晴れ 夜 くもり\n降水確率は10%
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:晴れ 夜 くもり
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20261124
-DESCRIPTION:天気はくもり 朝 から 昼前 雨 所により 明け方 から 昼過ぎ 雷 を伴う\n降水確率は90%
+DESCRIPTION:天気はくもり 朝 から 昼過ぎ 雨 所により 昼過ぎ まで 雷 を伴う\n降水確率は90%
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:くもり 朝 から 昼前 雨 所により 明け方 から 昼過ぎ 雷 を伴う
+SUMMARY:くもり 朝 から 昼過ぎ 雨 所により 昼過ぎ まで 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-tokushima-20261125
-DESCRIPTION:天気はくもり 後 晴れ\n降水確率は10%\n最高気温は13℃\n最低気温は5℃
+DESCRIPTION:天気はくもり 昼過ぎ から 時々 晴れ 山地 では 明け方 まで 雪\n降水確率は30%\n最高気温は13℃\n最低気温は5℃
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:くもり 後 晴れ 13℃/5℃
+SUMMARY:くもり 昼過ぎ から 時々 晴れ 山地 では 明け方 まで 雪 13℃/5℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

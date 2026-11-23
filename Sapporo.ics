@@ -5,27 +5,19 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 札幌
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-sapporo-20261123
-DESCRIPTION:天気は晴れ 後 くもり 夜 雨 所により 夕方 から 雷 を伴う\n降水確率は50%
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:晴れ 後 くもり 夜 雨 所により 夕方 から 雷 を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20261124
-DESCRIPTION:天気は雨 夜 雪 所により 雷 を伴う\n降水確率は90%
+DESCRIPTION:天気は雨か雪 昼過ぎ から 時々 くもり 所により 雷 を伴う\n降水確率は80%
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:雨 夜 雪 所により 雷 を伴う
+SUMMARY:雨か雪 昼過ぎ から 時々 くもり 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-sapporo-20261125
-DESCRIPTION:天気はくもり 一時 雪\n降水確率は70%\n最高気温は1℃\n最低気温は-3℃
+DESCRIPTION:天気は雪 で ふぶく 時々 くもり 所により 昼前 まで 雷 を伴う\n降水確率は70%\n最高気温は1℃\n最低気温は-3℃
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:くもり 一時 雪 1℃/-3℃
+SUMMARY:雪 で ふぶく 時々 くもり 所により 昼前 まで 雷 を伴う 1℃/-3℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

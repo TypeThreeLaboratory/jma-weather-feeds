@@ -5,14 +5,6 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:週間天気予報 秋田
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:jma-weather-ical-akita-20261123
-DESCRIPTION:天気は雨 時々 くもり 所により 昼過ぎ から 雷 を伴う\n降水確率は70%
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:雨 時々 くもり 所により 昼過ぎ から 雷 を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-akita-20261124
 DESCRIPTION:天気はくもり 昼前 から 雨 所により 雷 を伴う\n降水確率は90%
 DTSTART;VALUE=DATE:20261124
@@ -22,10 +14,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-akita-20261125
-DESCRIPTION:天気はくもり 時々 雪 で ふぶく\n降水確率は80%\n最高気温は7℃\n最低気温は1℃
+DESCRIPTION:天気は雪か雨 夜 くもり 所により 夕方 まで 雷 を伴う\n降水確率は80%\n最高気温は7℃\n最低気温は1℃
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:くもり 時々 雪 で ふぶく 7℃/1℃
+SUMMARY:雪か雨 夜 くもり 所により 夕方 まで 雷 を伴う 7℃/1℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
