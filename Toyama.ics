@@ -13,19 +13,11 @@ SUMMARY:くもり時々晴 18℃/8℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-toyama-20261124
-DESCRIPTION:天気は雨 夕方 から 夜のはじめ頃 くもり 所により 雷 を伴う\n降水確率は90%
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:雨 夕方 から 夜のはじめ頃 くもり 所により 雷 を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-toyama-20261125
-DESCRIPTION:天気は雨か雪 夕方 から くもり 所により 昼前 まで 雷 を伴う\n降水確率は90%
+DESCRIPTION:天気は雨か雪 昼過ぎ から 時々 くもり 所により 昼前 まで 雷 を伴う\n降水確率は90%
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:雨か雪 夕方 から くもり 所により 昼前 まで 雷 を伴う
+SUMMARY:雨か雪 昼過ぎ から 時々 くもり 所により 昼前 まで 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
