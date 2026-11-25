@@ -22,10 +22,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20261125
-DESCRIPTION:天気は雪 で ふぶく 夕方 から 時々 くもり 所により 夕方 まで 雷 を伴う\n降水確率は30%
+DESCRIPTION:天気はくもり 夜のはじめ頃 雪 で ふぶく\n降水確率は30%
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:雪 で ふぶく 夕方 から 時々 くもり 所により 夕方 まで 雷 を伴う
+SUMMARY:くもり 夜のはじめ頃 雪 で ふぶく
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
