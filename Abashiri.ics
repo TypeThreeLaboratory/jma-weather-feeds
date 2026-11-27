@@ -37,16 +37,8 @@ SUMMARY:くもり 2℃/-3℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-abashiri-20261127
-DESCRIPTION:天気はくもり\n降水確率は0%
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:くもり
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20261128
-DESCRIPTION:天気はくもり 夕方 から 雨 所により 夕方 まで 雷 を伴う\n降水確率は50%
+DESCRIPTION:天気はくもり 夕方 から 雨 所により 夕方 まで 雷 を伴う\n降水確率は70%
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:くもり 夕方 から 雨 所により 夕方 まで 雷 を伴う
@@ -54,10 +46,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-abashiri-20261129
-DESCRIPTION:天気はくもり 一時 雪\n降水確率は60%\n最高気温は4℃\n最低気温は-2℃
+DESCRIPTION:天気はくもり 昼過ぎ まで 時々 雪 で ふぶく\n降水確率は60%\n最高気温は4℃\n最低気温は-2℃
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-SUMMARY:くもり 一時 雪 4℃/-2℃
+SUMMARY:くもり 昼過ぎ まで 時々 雪 で ふぶく 4℃/-2℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

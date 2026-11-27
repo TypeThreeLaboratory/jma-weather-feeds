@@ -37,27 +37,19 @@ SUMMARY:くもり 17℃/9℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-gifu-20261127
-DESCRIPTION:天気はくもり 夜遅く 雨\n降水確率は70%
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:くもり 夜遅く 雨
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-gifu-20261128
-DESCRIPTION:天気は雨 昼過ぎ から くもり 所により 昼前 から 雷 を伴う\n降水確率は80%
+DESCRIPTION:天気はくもり 時々 雨 所により 昼前 から 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:雨 昼過ぎ から くもり 所により 昼前 から 雷 を伴う
+SUMMARY:くもり 時々 雨 所により 昼前 から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-gifu-20261129
-DESCRIPTION:天気はくもり 一時 雨か雪\n降水確率は70%\n最高気温は12℃\n最低気温は6℃
+DESCRIPTION:天気は雨か雪 昼前 から くもり 後 晴れ 所により 昼前 まで 雷 を伴う\n降水確率は70%\n最高気温は12℃\n最低気温は6℃
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-SUMMARY:くもり 一時 雨か雪 12℃/6℃
+SUMMARY:雨か雪 昼前 から くもり 後 晴れ 所により 昼前 まで 雷 を伴う 12℃/6℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

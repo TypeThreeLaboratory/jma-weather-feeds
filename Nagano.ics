@@ -37,27 +37,19 @@ SUMMARY:くもり時々晴 14℃/4℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-nagano-20261127
-DESCRIPTION:天気はくもり 所により 夜 雨\n降水確率は30%
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:くもり 所により 夜 雨
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-nagano-20261128
-DESCRIPTION:天気はくもり 時々 雨 所により 夜遅く 雷 を伴う\n降水確率は80%
+DESCRIPTION:天気は雨 昼前 から 昼過ぎ くもり 所により 昼前 から 雷 を伴う\n降水確率は80%
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:くもり 時々 雨 所により 夜遅く 雷 を伴う
+SUMMARY:雨 昼前 から 昼過ぎ くもり 所により 昼前 から 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-nagano-20261129
-DESCRIPTION:天気はくもり 一時 雪か雨\n降水確率は70%\n最高気温は7℃\n最低気温は0℃
+DESCRIPTION:天気は雪か雨 昼過ぎ から くもり 所により 昼前 まで 雷 を伴う\n降水確率は70%\n最高気温は7℃\n最低気温は0℃
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-SUMMARY:くもり 一時 雪か雨 7℃/0℃
+SUMMARY:雪か雨 昼過ぎ から くもり 所により 昼前 まで 雷 を伴う 7℃/0℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

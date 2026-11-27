@@ -37,16 +37,8 @@ SUMMARY:くもり一時雪 2℃/-2℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-wakkanai-20261127
-DESCRIPTION:天気はくもり 所により 夜 雨 で 雷を伴う\n降水確率は30%
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:くもり 所により 夜 雨 で 雷を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20261128
-DESCRIPTION:天気はくもり 明け方 まで 雨 所により 夜遅く 雪\n降水確率は80%
+DESCRIPTION:天気はくもり 明け方 まで 雨 所により 夜遅く 雪\n降水確率は30%
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:くもり 明け方 まで 雨 所により 夜遅く 雪
@@ -54,10 +46,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakkanai-20261129
-DESCRIPTION:天気はくもり 時々 雪\n降水確率は70%\n最高気温は3℃\n最低気温は-3℃
+DESCRIPTION:天気は雪 で ふぶく 昼過ぎ から くもり\n降水確率は70%\n最高気温は3℃\n最低気温は-3℃
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-SUMMARY:くもり 時々 雪 3℃/-3℃
+SUMMARY:雪 で ふぶく 昼過ぎ から くもり 3℃/-3℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

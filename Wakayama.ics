@@ -37,27 +37,19 @@ SUMMARY:くもり時々晴 19℃/11℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jma-weather-ical-wakayama-20261127
-DESCRIPTION:天気はくもり 夜 雨 所により 雷 を伴う\n降水確率は70%
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:くもり 夜 雨 所により 雷 を伴う
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:jma-weather-ical-wakayama-20261128
-DESCRIPTION:天気は雨 昼前 から くもり 所により 未明 雷を伴い 激しく 降る\n降水確率は70%
+DESCRIPTION:天気はくもり 時々 雨 所により 雷 を伴う\n降水確率は60%
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:雨 昼前 から くもり 所により 未明 雷を伴い 激しく 降る
+SUMMARY:くもり 時々 雨 所により 雷 を伴う
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-wakayama-20261129
-DESCRIPTION:天気はくもり 時々 晴れ\n降水確率は20%\n最高気温は15℃\n最低気温は9℃
+DESCRIPTION:天気はくもり 後 晴れ 明け方 まで 雨 所により 昼前 まで 雷 を伴う\n降水確率は50%\n最高気温は15℃\n最低気温は9℃
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-SUMMARY:くもり 時々 晴れ 15℃/9℃
+SUMMARY:くもり 後 晴れ 明け方 まで 雨 所により 昼前 まで 雷 を伴う 15℃/9℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
