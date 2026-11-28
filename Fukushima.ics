@@ -6,10 +6,10 @@ X-WR-CALNAME:週間天気予報 福島
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20261201
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は17℃\n最低気温は6℃
+DESCRIPTION:天気は晴れ時々くもり\n降水確率は20%\n最高気温は18℃\n最低気温は5℃
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:晴れ時々くもり 17℃/6℃
+SUMMARY:晴れ時々くもり 18℃/5℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -22,23 +22,31 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20261203
-DESCRIPTION:天気はくもり時々晴\n降水確率は20%\n最高気温は13℃\n最低気温は5℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は20%\n最高気温は14℃\n最低気温は5℃
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:くもり時々晴 13℃/5℃
+SUMMARY:くもり時々晴 14℃/5℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20261204
-DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は13℃\n最低気温は6℃
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は14℃\n最低気温は7℃
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:くもり時々晴 13℃/6℃
+SUMMARY:くもり時々晴 14℃/7℃
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jma-weather-ical-fukushima-20261205
+DESCRIPTION:天気はくもり時々晴\n降水確率は30%\n最高気温は15℃\n最低気温は7℃
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:くもり時々晴 15℃/7℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20261128
-DESCRIPTION:天気は雨 昼過ぎ から くもり\n降水確率は80%
+DESCRIPTION:天気は雨 昼過ぎ から くもり\n降水確率は40%
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:雨 昼過ぎ から くもり
@@ -46,18 +54,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20261129
-DESCRIPTION:天気はくもり 昼前 から 晴れ 所により 夕方 まで 雪か雨\n降水確率は30%\n最高気温は10℃\n最低気温は4℃
+DESCRIPTION:天気はくもり 昼前 から 晴れ 所により 夕方 まで 雪か雨\n降水確率は30%
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-SUMMARY:くもり 昼前 から 晴れ 所により 夕方 まで 雪か雨 10℃/4℃
+SUMMARY:くもり 昼前 から 晴れ 所により 夕方 まで 雪か雨
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:jma-weather-ical-fukushima-20261130
-DESCRIPTION:天気は晴れ時々くもり\n降水確率は10%\n最高気温は15℃\n最低気温は3℃
+DESCRIPTION:天気は晴れ 時々 くもり\n降水確率は20%\n最高気温は15℃\n最低気温は3℃
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:晴れ時々くもり 15℃/3℃
+SUMMARY:晴れ 時々 くもり 15℃/3℃
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VTIMEZONE
